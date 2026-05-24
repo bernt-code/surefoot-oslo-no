@@ -1,0 +1,44 @@
+# Surefoot Oslo — 301 redirects
+# Format: gammel-url  ny-url  statuskode
+
+# ── Kjernesider ─────────────────────────────
+/spesialtilpassning/         /bootfitting/                  301
+/spesialtilpassning          /bootfitting/                  301
+/kontakt-oss/                /kontakt/                      301
+/kontakt-oss                 /kontakt/                      301
+/kontakt-oss/var-historie/   /om-oss/                       301
+/kontakt-oss/var-historie    /om-oss/                       301
+
+# ── Alpinstøvler ─────────────────────────────
+/alpinstovler/herre/         /alpinstovler/                 301
+/alpinstovler/herre          /alpinstovler/                 301
+/alpinstovler/dame/          /alpinstovler/                 301
+/alpinstovler/dame           /alpinstovler/                 301
+/alpinstovler/barn/          /alpinstovler/                 301
+/alpinstovler/barn           /alpinstovler/                 301
+/alpinstovler/racing/        /alpinstovler/                 301
+/alpinstovler/racing         /alpinstovler/                 301
+
+# ── Innerstøvler ─────────────────────────────
+/innerstovler/r-heat/        /innerstovler/                 301
+/innerstovler/r-heat         /innerstovler/                 301
+/innerstovler/c-heat/        /innerstovler/                 301
+/innerstovler/c-heat         /innerstovler/                 301
+/innerstovler/x-heat/        /innerstovler/                 301
+/innerstovler/x-heat         /innerstovler/                 301
+
+# ── Såler ─────────────────────────────────────
+/saler/saler-til-alpinstovler/  /saler/                     301
+/saler/saler-til-alpinstovler   /saler/                     301
+/saler/saler-til-sykkelsko/     /saler/                     301
+/saler/saler-til-sykkelsko      /saler/                     301
+/saler/saler-til-langrenn/      /saler/                     301
+/saler/saler-til-langrenn       /saler/                     301
+
+# ── Utility ───────────────────────────────────
+/personvernerklaering/       /personvern/                   301
+/personvernerklaering        /personvern/                   301
+/kjopsvilkar-retningslinjer/ /kjopsvilkar/                  301
+/kjopsvilkar-retningslinjer  /kjopsvilkar/                  301
+/hello-world/                /                              301
+/hello-world                 /                              301
