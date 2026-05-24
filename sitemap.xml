@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Forside -->
+  <url><loc>https://surefoot.no/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
+  <!-- Hovedtjenester / kategorier -->
+  <url><loc>https://surefoot.no/bootfitting/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://surefoot.no/alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://surefoot.no/innerstovler/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://surefoot.no/saler/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://surefoot.no/tjenester/</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://surefoot.no/formstopte-saler/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Alpinstøvler-undersider -->
+  <url><loc>https://surefoot.no/alpinstovler-dame/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://surefoot.no/alpinstovler-nybegynner/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://surefoot.no/alpinstovler-merker-sammenligning/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/alpinstovler-nett-vs-butikk/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/storrelse-alpinstoevler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/mondopoint-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/flex-indeks-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/26-vs-265-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/nar-bytte-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/skalltilpasning-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Fot-spesifikke sider (long-tail SEO) -->
+  <url><loc>https://surefoot.no/bred-fot-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/smal-fot-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/flatfot-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/hoy-hvelving-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/kalde-foetter-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/vonde-foetter/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+
+  <!-- Innerstøvler-undersider -->
+  <url><loc>https://surefoot.no/innerstovler-alpinstovler/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/innerstovler-volum-instep/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Bootfitting-utdypning -->
+  <url><loc>https://surefoot.no/hva-er-bootfitting/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://surefoot.no/hva-koster-bootfitting/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://surefoot.no/er-bootfitting-verdt-det/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+
+  <!-- Info-sider -->
+  <url><loc>https://surefoot.no/faq/</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://surefoot.no/om-oss/</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://surefoot.no/kontakt/</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+
+  <!-- Juridisk -->
+  <url><loc>https://surefoot.no/kjopsvilkar/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://surefoot.no/personvern/</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>
