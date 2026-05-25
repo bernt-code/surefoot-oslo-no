@@ -6,242 +6,124 @@
   <title>Surefoot Oslo — Alpinstøvler tilpasset deg</title>
   <meta name="description" content="Surefoot Oslo er Norges eneste spesialist på spesialbygde alpinstøvler. Bootfitting med 3D-skanning, formstøpte såler og fit guarantee. Karenslyst Allé, Skøyen." />
   <link rel="canonical" href="https://www.surefoot.no/" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="/style.css" />
-  <style>
-    /* ─── HOMEPAGE-SPECIFIC ──────────────────────────────── */
-    #hero {
-      padding-top: 64px; /* nav */
-      background: #fff;
-    }
-    .hero-inner {
-      max-width: 1200px;
-      margin: 0 auto;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 80px;
-      align-items: center;
-      padding: 80px 48px;
-    }
-
-    .hero-left h1 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(44px, 5.5vw, 72px);
-      line-height: 1.05;
-      letter-spacing: -2px;
-      color: #111;
-      margin-bottom: 28px;
-    }
-    .hero-left h1 em {
-      font-style: italic;
-      color: #c25f2e;
-    }
-    .hero-left p {
-      font-size: 17px;
-      color: #555;
-      font-weight: 300;
-      line-height: 1.75;
-      max-width: 400px;
-      margin-bottom: 40px;
-    }
-    .hero-ctas {
-      display: flex;
-      align-items: center;
-      gap: 20px;
-      flex-wrap: wrap;
-    }
-    .hero-free {
-      font-size: 13px;
-      color: #888;
-    }
-
-    /* Reviews top strip */
-    .reviews-top {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-end;
-      margin-bottom: 56px;
-      flex-wrap: wrap;
-      gap: 20px;
-    }
-    .rating-line { font-size: 14px; color: #888; }
-    .rating-line strong { color: #111; }
-
-    /* Kontakt section */
-    .kontakt-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 100px;
-      align-items: start;
-    }
-    .kontakt-details {
-      margin-top: 48px;
-      display: flex;
-      flex-direction: column;
-      gap: 28px;
-    }
-
-    /* Intro belt */
-    .intro-belt {
-      background: #f9f8f6;
-      border-bottom: 1px solid #e8e8e8;
-      padding: 80px 48px;
-    }
-    .intro-belt-inner {
-      max-width: 1200px;
-      margin: 0 auto;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 80px;
-      align-items: center;
-    }
-    .intro-belt-left h2 {
-      font-family: 'DM Serif Display', serif;
-      font-size: clamp(30px, 3.5vw, 44px);
-      line-height: 1.1;
-      letter-spacing: -1.5px;
-      color: #111;
-      margin-bottom: 20px;
-    }
-    .intro-belt-left h2 em { font-style: italic; color: #c25f2e; }
-    .intro-belt-left p {
-      font-size: 16px;
-      color: #666;
-      font-weight: 300;
-      line-height: 1.75;
-      margin-bottom: 28px;
-    }
-    .link-arrow {
-      font-size: 14px;
-      font-weight: 600;
-      color: #111;
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
-      border-bottom: 1px solid #111;
-      padding-bottom: 2px;
-      transition: color 0.15s, border-color 0.15s;
-    }
-    .link-arrow:hover { color: #c25f2e; border-color: #c25f2e; }
-
-    /* Tjenester */
-    #tjenester { background: #fff; }
-    .tjenester-header {
-      display: flex;
-      justify-content: space-between;
-      align-items: flex-end;
-      margin-bottom: 64px;
-      flex-wrap: wrap;
-      gap: 24px;
-    }
-    .tjenester-header p {
-      font-size: 16px;
-      color: #666;
-      font-weight: 300;
-      max-width: 360px;
-      line-height: 1.7;
-    }
-
-    /* FAQ */
-    #faq { background: #f9f8f6; }
-
-    /* Anmeldelser */
-    #anmeldelser { background: #fff; }
-
-    /* Kontakt */
-    #kontakt { background: #f9f8f6; }
-
-    @media (max-width: 900px) {
-      .hero-inner {
-        grid-template-columns: 1fr;
-        padding: 60px 24px;
-        gap: 40px;
-      }
-      .intro-belt { padding: 60px 24px; }
-      .intro-belt-inner { grid-template-columns: 1fr; gap: 40px; }
-      .kontakt-grid { grid-template-columns: 1fr; gap: 40px; }
-      .tjenester-header { flex-direction: column; align-items: flex-start; }
-    }
-  </style>
 </head>
 <body>
 
-
+<!-- ── UTILITY STRIP (red top) ── -->
+<div class="utility-strip">
+  <a href="https://surefootskiing.as.me" target="_blank">Klikk her for å bestille time</a>
+  <span class="sep">·</span>
+  <span>Gratis 15-min vurdering</span>
+  <span class="sep">·</span>
+  <span>Karenslyst Allé, Skøyen</span>
+</div>
 
 <!-- ── NAV ── -->
 <nav class="site-nav">
-  <a href="/" class="logo">Surefoot Oslo</a>
+  <a href="/" class="logo">Surefoot</a>
   <ul class="nav-links">
-    <li><a href="/tjenester/">Tjenester</a></li>
     <li><a href="/bootfitting/">Bootfitting</a></li>
     <li><a href="/alpinstovler/">Alpinstøvler</a></li>
     <li><a href="/innerstovler/">Innerstøvler</a></li>
     <li><a href="/saler/">Såler</a></li>
+    <li><a href="/tjenester/">Tjenester</a></li>
     <li><a href="/faq/">FAQ</a></li>
     <li><a href="/om-oss/">Om oss</a></li>
     <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
   </ul>
 </nav>
 
-<!-- ── HERO ── -->
+<!-- ── HERO (panorama + cinematic) ── -->
 <section id="hero">
+  <div class="hero-panorama"></div>
+  <div class="hero-veil"></div>
+
+  <div class="hero-credit">
+    <span>▒ Norsk topptur</span>
+    <span class="sep">·</span>
+    <span>Foto: Surefoot Oslo</span>
+  </div>
+
   <div class="hero-inner">
-    <div class="hero-left">
-      <h1>Støvler som<br/><em>faktisk passer</em> —<br/>ikke støvler<br/>du må leve med</h1>
-      <p>Vi er Norges eneste spesialist på alpinstøvler. Vi tilpasser til din fot — ikke omvendt. Med 3D-skanning, formstøpte såler, memory foam og fit guarantee.</p>
+    <h1>
+      Foten din.<br/>
+      <em>En million</em><br/>
+      ganger over.
+    </h1>
+    <div>
+      <p class="hero-meta">Norges eneste spesialist på spesialbygde alpinstøvler. På Skøyen tilpasser vi skall, innerstøvel og såle millimeter for millimeter — slik familien har gjort det siden 1980.</p>
       <div class="hero-ctas">
-        <a href="https://surefootskiing.as.me" target="_blank" class="btn-dark">Book gratis vurdering</a>
-        <span class="hero-free">15 min · ingen forpliktelse</span>
+        <a href="https://surefootskiing.as.me" target="_blank" class="btn-primary">Book gratis 15-min vurdering</a>
+        <a href="/bootfitting/" class="btn-ghost-light">Se prosessen →</a>
       </div>
-    </div>
-    <div class="img-placeholder" style="height:480px;">
-      <span class="ph-icon">◻</span>
-      <strong>Bilde av butikk / tilpasningsarbeid</strong>
-      <span>Her: ekte foto fra Skøyen</span>
+      <div class="hero-chips">
+        <span class="chip chip--red">94% anbefaler · Facebook</span>
+        <span class="chip">Karenslyst Allé · Skøyen</span>
+        <span class="chip">Fit guarantee</span>
+      </div>
     </div>
   </div>
 </section>
 
-<!-- ── STRIP ── -->
+<!-- ── TRUST STRIP ── -->
 <div class="strip">
   <div class="strip-item"><span class="strip-dot"></span> Karenslyst Allé 12–14, Skøyen</div>
   <div class="strip-item"><span class="strip-dot"></span> Man–lør 10–18</div>
   <div class="strip-item"><span class="strip-dot"></span> 22 44 21 12</div>
-  <div class="strip-item"><span class="strip-dot"></span> Vi snakker engelsk</div>
-  <div class="strip-item"><span class="strip-dot"></span> 94 % anbefaler oss på Facebook</div>
+  <div class="strip-item"><span class="strip-dot"></span> We speak English</div>
+  <div class="strip-item"><span class="strip-dot"></span> Fit guarantee</div>
+</div>
+
+<!-- ── MARQUEE ── -->
+<div class="marquee">
+  <div class="marquee-track">
+    <span>Norges eneste sertifiserte Surefoot-fitter</span><span class="dot">●</span>
+    <span>Skøyen · Oslo</span><span class="dot">●</span>
+    <span>Tecnica · Atomic · Lange · Salomon</span><span class="dot">●</span>
+    <span>Topptur og alpin</span><span class="dot">●</span>
+    <span>538 skannpunkter pr fot</span><span class="dot">●</span>
+    <span>Fit guarantee</span><span class="dot">●</span>
+    <!-- repeat for seamless loop -->
+    <span>Norges eneste sertifiserte Surefoot-fitter</span><span class="dot">●</span>
+    <span>Skøyen · Oslo</span><span class="dot">●</span>
+    <span>Tecnica · Atomic · Lange · Salomon</span><span class="dot">●</span>
+    <span>Topptur og alpin</span><span class="dot">●</span>
+    <span>538 skannpunkter pr fot</span><span class="dot">●</span>
+    <span>Fit guarantee</span><span class="dot">●</span>
+  </div>
 </div>
 
 <!-- ── INTRO BELT ── -->
 <div class="intro-belt">
   <div class="intro-belt-inner">
-    <div class="intro-belt-left">
-      <h2>Har du vondt i føttene<br/>når du kjører ski?</h2>
+    <div>
+      <div class="eyebrow">Hvis støvelen ikke passer</div>
+      <h2>Har du vondt i føttene<br/>når du <em>kjører ski</em>?</h2>
       <p>Tryner, numne tær, trykkpunkter — det handler nesten alltid om støvelen. Vi finner ut hva som er galt, og fikser det. Start med en gratis 15-minutters vurdering.</p>
-      <a href="/vonde-foetter/" class="link-arrow">Les mer om smerter og løsninger →</a>
+      <a href="/bootfitting/" class="link-arrow">Les om bootfitting →</a>
     </div>
-    <div class="intro-belt-right">
-      <div style="display:flex; flex-direction:column; gap:20px;">
-        <div style="display:flex; gap:20px; align-items:start; padding:24px 0; border-bottom:1px solid #e3e0db;">
-          <div style="font-family:'DM Serif Display',serif; font-size:32px; color:#e3e0db; min-width:40px; line-height:1;">01</div>
+    <div>
+      <div class="steps">
+        <div class="step">
+          <div class="step-num">01</div>
           <div>
-            <div style="font-size:15px; font-weight:600; color:#111; margin-bottom:4px;">Gratis vurdering</div>
-            <div style="font-size:13px; color:#888; font-weight:300; line-height:1.6;">15 min. Vi ser på foten og anbefaler riktig løsning.</div>
+            <h3>Gratis vurdering</h3>
+            <p>15 minutter. Vi ser på foten og anbefaler riktig løsning. Ingen forpliktelse.</p>
           </div>
         </div>
-        <div style="display:flex; gap:20px; align-items:start; padding:24px 0; border-bottom:1px solid #e3e0db;">
-          <div style="font-family:'DM Serif Display',serif; font-size:32px; color:#e3e0db; min-width:40px; line-height:1;">02</div>
+        <div class="step">
+          <div class="step-num">02</div>
           <div>
-            <div style="font-size:15px; font-weight:600; color:#111; margin-bottom:4px;">3D-skanning og tilpasning</div>
-            <div style="font-size:13px; color:#888; font-weight:300; line-height:1.6;">Nøyaktig måling, custom innerstøvel og formstøpte såler.</div>
+            <h3>3D-skanning og tilpasning</h3>
+            <p>538-punkts skann, custom innerstøvel og formstøpte såler. Skall fres og blokkes der det trengs.</p>
           </div>
         </div>
-        <div style="display:flex; gap:20px; align-items:start; padding:24px 0;">
-          <div style="font-family:'DM Serif Display',serif; font-size:32px; color:#e3e0db; min-width:40px; line-height:1;">03</div>
+        <div class="step">
+          <div class="step-num">03</div>
           <div>
-            <div style="font-size:15px; font-weight:600; color:#111; margin-bottom:4px;">Fit guarantee</div>
-            <div style="font-size:13px; color:#888; font-weight:300; line-height:1.6;">Fungerer det ikke, justerer vi gratis. Vi tar ansvar.</div>
+            <h3>Fit guarantee</h3>
+            <p>Fungerer det ikke etter første skidag — kom tilbake. Vi justerer gratis, så mange ganger som trengs.</p>
           </div>
         </div>
       </div>
@@ -249,13 +131,112 @@
   </div>
 </div>
 
-<!-- ── TJENESTER ── -->
-<section id="tjenester">
+<!-- ── STATS BAR (animated counters) ── -->
+<div class="statbar">
+  <div class="statbar-cell">
+    <div class="statbar-num" data-count="1000000" data-suffix="+">0</div>
+    <div class="statbar-label">Støvler tilpasset</div>
+  </div>
+  <div class="statbar-cell">
+    <div class="statbar-num" data-count="45" data-suffix=" år">0</div>
+    <div class="statbar-label">Familieeid siden 1980</div>
+  </div>
+  <div class="statbar-cell">
+    <div class="statbar-num" data-count="538" data-suffix="">0</div>
+    <div class="statbar-label">Skannpunkter pr fot</div>
+  </div>
+  <div class="statbar-cell">
+    <div class="statbar-num" data-count="94" data-suffix="%">0</div>
+    <div class="statbar-label">Anbefaler på Facebook</div>
+  </div>
+</div>
+
+<!-- ── PRODUCT CATEGORIES (4 tiles) ── -->
+<section class="section--dark">
+  <div class="section-wrap">
+    <div style="display:flex; justify-content:space-between; align-items:flex-end; flex-wrap:wrap; gap:24px; margin-bottom:48px;">
+      <div>
+        <div class="eyebrow">Hva vi tilpasser</div>
+        <h2 class="section-h2" style="color:#fff; max-width:14ch;">Fire produkter. Ett mål.</h2>
+      </div>
+      <p style="max-width:38ch; font-size:15px; line-height:1.55; color:rgba(255,255,255,0.65); margin:0;">
+        Skall, innerstøvel, såle — eller alt sammen. Vi tilpasser hver komponent for seg, eller bygger den fulle Surefoot-pakken rundt foten din.
+      </p>
+    </div>
+
+    <div class="cat-grid">
+      <a href="/alpinstovler/" class="cat" style="background:#0f0f0f; border-color:rgba(255,255,255,0.1); color:#fff;">
+        <div class="cat-img" style="background-image:linear-gradient(135deg, #1a1a1a, #2a2a2a);"></div>
+        <div class="cat-body">
+          <div class="cat-tag">01</div>
+          <h3 class="cat-title" style="color:#fff;">Alpinstøvler</h3>
+          <p class="cat-blurb" style="color:rgba(255,255,255,0.7);">Stive, presise, custom-tilpasset. Tecnica, Atomic, Lange, Salomon — for piste og racing.</p>
+          <div class="cat-foot" style="border-top-color:rgba(255,255,255,0.1);">
+            <span class="cat-price" style="color:#fff;">Fra 7 550,-</span>
+            <span class="cat-cta">Se utvalget →</span>
+          </div>
+        </div>
+      </a>
+      <a href="/tjenester/" class="cat" style="background:#0f0f0f; border-color:rgba(255,255,255,0.1); color:#fff;">
+        <div class="cat-img" style="background-image:linear-gradient(135deg, #1a1a1a, #2a2a2a);"></div>
+        <div class="cat-body">
+          <div class="cat-tag">02</div>
+          <h3 class="cat-title" style="color:#fff;">Topptur & rando</h3>
+          <p class="cat-blurb" style="color:rgba(255,255,255,0.7);">Tecnica Zero G, Atomic Backland, Lange XT3. Tilpasset for norske fjell.</p>
+          <div class="cat-foot" style="border-top-color:rgba(255,255,255,0.1);">
+            <span class="cat-price" style="color:#fff;">Ring for pris</span>
+            <span class="cat-cta">Spør oss →</span>
+          </div>
+        </div>
+      </a>
+      <a href="/innerstovler/" class="cat" style="background:#0f0f0f; border-color:rgba(255,255,255,0.1); color:#fff;">
+        <div class="cat-img" style="background-image:linear-gradient(135deg, #1a1a1a, #2a2a2a);"></div>
+        <div class="cat-body">
+          <div class="cat-tag">03</div>
+          <h3 class="cat-title" style="color:#fff;">Innerstøvler</h3>
+          <p class="cat-blurb" style="color:rgba(255,255,255,0.7);">Memory foam-injisert custom liner. Stivner rundt foten på fem minutter.</p>
+          <div class="cat-foot" style="border-top-color:rgba(255,255,255,0.1);">
+            <span class="cat-price" style="color:#fff;">Inkludert i fitting</span>
+            <span class="cat-cta">Les mer →</span>
+          </div>
+        </div>
+      </a>
+      <a href="/saler/" class="cat" style="background:#0f0f0f; border-color:rgba(255,255,255,0.1); color:#fff;">
+        <div class="cat-img" style="background-image:linear-gradient(135deg, #1a1a1a, #2a2a2a);"></div>
+        <div class="cat-body">
+          <div class="cat-tag">04</div>
+          <h3 class="cat-title" style="color:#fff;">Formstøpte såler</h3>
+          <p class="cat-blurb" style="color:rgba(255,255,255,0.7);">3D-skannede custom såler — for ski, løpesko, sykkelsko, fjellsko. Fundamentet i hver støvel.</p>
+          <div class="cat-foot" style="border-top-color:rgba(255,255,255,0.1);">
+            <span class="cat-price" style="color:#fff;">Fra 1 695,-</span>
+            <span class="cat-cta">Bestill time →</span>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- ── PHOTO INTERLUDE — Skøyen verksted ── -->
+<section class="interlude interlude--right">
+  <div class="bg" style="background-image:url('/assets/hero-panorama.jpeg');"></div>
+  <div class="veil"></div>
+  <div class="interlude-inner">
+    <div>
+      <div class="eyebrow eyebrow--on-dark">▒ Karenslyst Allé · Siden 2022</div>
+      <h2>Hele verkstedet under samme tak.</h2>
+      <p>Skanner, fres-maskin, injeksjonsutstyr, lager. Du går ut med en ferdig støvel — ikke en bestilling som kommer i posten om tre uker.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ── TJENESTER (table) ── -->
+<section id="tjenester" class="section--paper">
   <div class="section-wrap">
     <div class="tjenester-header">
       <div>
-        <div class="section-label">Tjenester og priser</div>
-        <h2 class="section-h2 serif">Hva vi gjør</h2>
+        <div class="eyebrow">Tjenester og priser</div>
+        <h2 class="section-h2">Hva vi gjør</h2>
       </div>
       <p>Alt fra en rask vurdering til full custom bootfitting med 3D-teknologi. Priser er alltid synlige — vi skjuler ikke hva det koster.</p>
     </div>
@@ -320,8 +301,8 @@
       </tbody>
     </table>
 
-    <div style="margin-top:40px; text-align:center;">
-      <a href="/tjenester/" class="btn-outline-dark">Se full prisoversikt →</a>
+    <div style="margin-top:48px; text-align:center;">
+      <a href="/tjenester/" class="btn-ghost-dark">Se full prisoversikt →</a>
     </div>
   </div>
 </section>
@@ -329,64 +310,64 @@
 <!-- ── FAQ ── -->
 <section id="faq">
   <div class="section-wrap">
-    <div class="section-label">Ofte stilte spørsmål</div>
-    <h2 class="section-h2 serif">Det du lurer på</h2>
+    <div class="eyebrow">Ofte stilte spørsmål</div>
+    <h2 class="section-h2">Det du lurer på</h2>
 
     <div class="faq-grid">
       <div>
         <div class="faq-item open">
-          <div class="faq-q" onclick="toggle(this)">Hva koster en full bootfitting? <span class="faq-toggle">+</span></div>
+          <div class="faq-q">Hva koster en full bootfitting? <span class="faq-toggle">+</span></div>
           <div class="faq-a">Fra 7 550 til 9 950 kr, avhengig av støvel og behov. Inkluderer 3D-skanning, formstøpte såler, memory foam-injeksjon og tilpasning av skall. Ingenting skjult.</div>
         </div>
         <div class="faq-item">
-          <div class="faq-q" onclick="toggle(this)">Hvilken time skal jeg booke? <span class="faq-toggle">+</span></div>
+          <div class="faq-q">Hvilken time skal jeg booke? <span class="faq-toggle">+</span></div>
           <div class="faq-a">Er du usikker — start med gratis 15-minutters vurdering. Vi ser på foten og anbefaler riktig løsning. Ingen forpliktelse om å kjøpe noe.</div>
         </div>
         <div class="faq-item">
-          <div class="faq-q" onclick="toggle(this)">Kan dere tilpasse støvler fra andre butikker? <span class="faq-toggle">+</span></div>
+          <div class="faq-q">Kan dere tilpasse støvler fra andre butikker? <span class="faq-toggle">+</span></div>
           <div class="faq-a">Ja. Vi tilpasser støvler uansett hvor de er kjøpt. Blokking, fresing, custom innerstøvel og formstøpte såler kan gjøres på de aller fleste modeller.</div>
         </div>
         <div class="faq-item">
-          <div class="faq-q" onclick="toggle(this)">Har dere garanti på tilpasningen? <span class="faq-toggle">+</span></div>
+          <div class="faq-q">Har dere garanti på tilpasningen? <span class="faq-toggle">+</span></div>
           <div class="faq-a">Ja. Opplever du problemer etter tilpasningen, booker vi ny tid og justerer gratis. Vi tar ansvar for at det faktisk fungerer.</div>
         </div>
       </div>
 
       <div>
         <div class="faq-item">
-          <div class="faq-q" onclick="toggle(this)">Kan dere tilpasse randostøvler? <span class="faq-toggle">+</span></div>
+          <div class="faq-q">Kan dere tilpasse randostøvler? <span class="faq-toggle">+</span></div>
           <div class="faq-a">Ja — men det avhenger av modell. Tecnica Zero G, Atomic Backland og Lange XT3 lar seg varmeformes godt. Scarpa og Dynafit sine modeller er laget av Grilamid og kan ikke tilpasses vesentlig.</div>
         </div>
         <div class="faq-item">
-          <div class="faq-q" onclick="toggle(this)">Hjelper dere med smerter — Mortons nevrom, bred fot? <span class="faq-toggle">+</span></div>
+          <div class="faq-q">Hjelper dere med smerter — Mortons nevrom, bred fot? <span class="faq-toggle">+</span></div>
           <div class="faq-a">Ja. Vi har lang erfaring med kunder som har Mortons nevrom, bred fot, høy rist, plattfot og andre problemer. Custom såler og justeringer av skallet gir stor forskjell.</div>
         </div>
         <div class="faq-item">
-          <div class="faq-q" onclick="toggle(this)">Snakker dere engelsk? <span class="faq-toggle">+</span></div>
+          <div class="faq-q">Snakker dere engelsk? <span class="faq-toggle">+</span></div>
           <div class="faq-a">Yes — we speak English and welcome international customers. All our services are available in both Norwegian and English.</div>
         </div>
         <div class="faq-item">
-          <div class="faq-q" onclick="toggle(this)">Trenger jeg time, eller kan jeg bare komme innom? <span class="faq-toggle">+</span></div>
+          <div class="faq-q">Trenger jeg time, eller kan jeg bare komme innom? <span class="faq-toggle">+</span></div>
           <div class="faq-a">Du kan komme innom for raske spørsmål. For tilpasning anbefaler vi time — særlig november til mars er det travelt. Book på nett, eller ring 22 44 21 12.</div>
         </div>
       </div>
     </div>
 
-    <div style="margin-top:40px; text-align:center;">
-      <a href="/faq/" class="btn-outline-dark">Se alle spørsmål →</a>
+    <div style="margin-top:48px; text-align:center;">
+      <a href="/faq/" class="btn-ghost-dark">Se alle spørsmål →</a>
     </div>
   </div>
 </section>
 
 <!-- ── ANMELDELSER ── -->
-<section id="anmeldelser">
+<section id="anmeldelser" class="section--paper">
   <div class="section-wrap">
     <div class="reviews-top">
       <div>
-        <div class="section-label">Anmeldelser</div>
-        <h2 class="section-h2 serif">Hva kundene sier</h2>
+        <div class="eyebrow">Anmeldelser</div>
+        <h2 class="section-h2">Hva kundene sier</h2>
       </div>
-      <div class="rating-line"><strong>4,9 / 5</strong> — 94 % anbefaler oss på Facebook</div>
+      <div class="rating-line"><strong>4,9 / 5</strong> · 94 % anbefaler oss på Facebook · 312 anmeldelser</div>
     </div>
 
     <div class="reviews-grid">
@@ -413,47 +394,78 @@
 </section>
 
 <!-- ── KONTAKT ── -->
-<section id="kontakt">
+<section id="kontakt" class="section--dark">
   <div class="section-wrap">
     <div class="kontakt-grid">
       <div>
-        <div class="section-label">Finn oss</div>
-        <h2 class="section-h2 serif">Besøk oss<br/>på Skøyen</h2>
+        <div class="eyebrow">Finn oss</div>
+        <h2 class="section-h2" style="color:#fff;">Skøyen, Oslo.</h2>
+        <p style="color:rgba(255,255,255,0.7); margin-top:16px; max-width:42ch; line-height:1.55;">
+          Stikk innom mellom 10 og 18, eller bestill time først — så har vi vurderingsbenken klar.
+        </p>
         <div class="kontakt-details">
           <div>
             <div class="kd-label">Adresse</div>
-            <div class="kd-value">Karenslyst Allé 12–14<br/>0278 Oslo · 2 min fra Skøyen stasjon</div>
+            <div class="kd-value" style="color:#fff;">Karenslyst Allé 12–14<br/>0278 Oslo · 2 min fra Skøyen stasjon</div>
           </div>
           <div>
             <div class="kd-label">Åpningstider</div>
-            <div class="kd-value">Mandag–fredag 10:00–18:00<br/>Lørdag 10:00–17:00 · Søndag stengt</div>
+            <div class="kd-value" style="color:#fff;">Mandag–fredag 10:00–18:00<br/>Lørdag 10:00–17:00 · Søndag stengt</div>
           </div>
           <div>
             <div class="kd-label">Telefon</div>
-            <div class="kd-value"><a href="tel:22442112" style="color:#c25f2e;">22 44 21 12</a></div>
+            <div class="kd-value"><a href="tel:22442112">22 44 21 12</a></div>
           </div>
           <div>
             <div class="kd-label">E-post</div>
-            <div class="kd-value"><a href="mailto:oslo@surefoot.no" style="color:#c25f2e;">oslo@surefoot.no</a></div>
+            <div class="kd-value"><a href="mailto:oslo@surefoot.no">oslo@surefoot.no</a></div>
           </div>
         </div>
       </div>
-      <div class="img-placeholder" style="height:380px; margin-top:48px;">
-        <span class="ph-icon">◻</span>
-        <strong>Google Maps</strong>
-        <span>Karenslyst Allé 12–14, Skøyen</span>
+      <div class="map-placeholder">
+        <svg viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+          <rect width="400" height="500" fill="#0f1115" />
+          <path d="M -20 380 Q 100 360 200 390 T 420 370 L 420 520 L -20 520 Z" fill="#0a1520" stroke="#1e2a3a" stroke-width="1"/>
+          <path d="M 0 250 Q 130 240 200 260 T 400 280" stroke="#3a3a3a" stroke-width="3" fill="none"/>
+          <path d="M 80 0 Q 100 150 150 250 T 220 500" stroke="#2a2a2a" stroke-width="2" fill="none"/>
+          <path d="M 0 150 Q 200 180 400 140" stroke="#222" stroke-width="1.5" fill="none"/>
+          <path d="M 270 0 L 280 500" stroke="#222" stroke-width="1.5" fill="none"/>
+          <path d="M 0 320 L 400 330" stroke="#252525" stroke-width="2" fill="none"/>
+          <rect x="20" y="60" width="100" height="120" fill="#0d2010" opacity="0.7"/>
+          <rect x="240" y="100" width="80" height="80" fill="#0d2010" opacity="0.5"/>
+          <text x="40" y="50" fill="#555" font-size="9" font-family="Inter" letter-spacing="2">FROGNERPARKEN</text>
+          <text x="290" y="430" fill="#3a5570" font-size="10" font-family="Inter" letter-spacing="2">OSLOFJORDEN</text>
+          <text x="160" y="245" fill="#666" font-size="8" font-family="Inter" letter-spacing="1.5">KARENSLYST ALLÉ</text>
+          <text x="180" y="335" fill="#555" font-size="8" font-family="Inter" letter-spacing="1.5">SKØYEN STN</text>
+          <g transform="translate(195, 240)">
+            <circle r="32" fill="rgba(230,57,70,0.18)"/>
+            <circle r="20" fill="rgba(230,57,70,0.35)"/>
+            <path d="M 0 -22 C 10 -22 18 -14 18 -4 C 18 8 0 22 0 22 C 0 22 -18 8 -18 -4 C -18 -14 -10 -22 0 -22 Z" fill="#E63946"/>
+            <circle cy="-6" r="6" fill="#fff"/>
+          </g>
+          <g transform="translate(195, 270)">
+            <rect x="-44" y="0" width="88" height="22" fill="#0a0a0a" stroke="#E63946" stroke-width="1"/>
+            <text x="0" y="14" fill="#fff" font-size="9" font-family="Inter" font-weight="700" letter-spacing="2" text-anchor="middle">SUREFOOT OSLO</text>
+          </g>
+        </svg>
       </div>
     </div>
   </div>
 </section>
 
-<!-- ── BOOKING ── -->
+<!-- ── BOOKING CTA ── -->
 <section class="booking-section">
-  <h2 class="serif">Klar for støvler som <em>faktisk</em><br/>passer deg?</h2>
-  <p>Start med 15 minutters gratis vurdering. Ingen forpliktelse.</p>
+  <div class="eyebrow eyebrow--on-dark" style="color:rgba(255,255,255,0.85);">Femten minutter. Gratis.</div>
+  <h2>Book.</h2>
+  <p>Vi ser på foten din, hører hva som plager deg, og forteller deg ærlig om vi kan hjelpe.<br/>Det er den enkleste 15 minutter du har brukt på skikjøring.</p>
   <div class="booking-actions">
-    <a href="https://surefootskiing.as.me" target="_blank" class="btn-white">Book gratis vurdering</a>
-    <a href="tel:22442112" class="btn-border">Ring 22 44 21 12</a>
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-primary btn-lg">Velg en time som passer →</a>
+    <a href="tel:22442112" class="btn-ghost-light btn-lg">Ring 22 44 21 12</a>
+  </div>
+  <div class="booking-foot">
+    <span><span class="accent">▸</span> Karenslyst Allé 12–14</span>
+    <span>0278 Oslo · Skøyen</span>
+    <span>oslo@surefoot.no</span>
   </div>
 </section>
 
@@ -461,8 +473,8 @@
 <footer class="site-footer">
   <div class="footer-inner">
     <div class="footer-brand">
-      <div class="logo serif">Surefoot Oslo</div>
-      <p>Norges eneste spesialist på spesialbygde alpinstøvler. Del av Surefoot Global.</p>
+      <div class="logo">Surefoot</div>
+      <p>Norges eneste spesialist på spesialbygde alpinstøvler. Del av Surefoot Global — familieeid siden 1980.</p>
     </div>
     <div class="footer-col">
       <h4>Tjenester</h4>
@@ -477,34 +489,37 @@
       <h4>Produkter</h4>
       <ul>
         <li><a href="/alpinstovler/">Alpinstøvler</a></li>
-        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk →</a></li>
+        <li><a href="https://surefootskiing.as.me" target="_blank">Book time →</a></li>
       </ul>
     </div>
     <div class="footer-col">
-      <h4>Om oss</h4>
+      <h4>Om</h4>
       <ul>
         <li><a href="/om-oss/">Vår historie</a></li>
         <li><a href="/kontakt/">Kontakt</a></li>
         <li><a href="/faq/">FAQ</a></li>
-        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram ↗</a></li>
       </ul>
     </div>
   </div>
   <div class="footer-bottom">
-    <div class="footer-copy">© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12 · oslo@surefoot.no</div>
+    <div>© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12</div>
     <div style="display:flex;gap:20px;">
-      <a href="/personvern/" style="font-size:12px;color:#333;">Personvern</a>
-      <a href="/kjopsvilkar/" style="font-size:12px;color:#333;">Kjøpsvilkår</a>
+      <a href="/personvern/">Personvern</a>
+      <a href="/kjopsvilkar/">Kjøpsvilkår</a>
     </div>
   </div>
 </footer>
 
-<script>
-  function toggle(btn) {
-    const item = btn.closest('.faq-item');
-    item.classList.toggle('open');
-  }
-</script>
+<!-- ── STICKY BOOK BAR ── -->
+<div class="sticky-book" id="stickyBook">
+  <div class="sticky-book-msg">
+    <span class="accent">Gratis</span> 15-min vurdering
+    <span class="sub">Ingen forpliktelse · Karenslyst Allé · Ledige tider denne uka</span>
+  </div>
+  <a href="https://surefootskiing.as.me" target="_blank" class="sticky-book-btn">Book time →</a>
+</div>
 
 <script src="/main.js"></script>
 </body>
