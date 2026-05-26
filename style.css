@@ -279,8 +279,8 @@ nav.site-nav .logo::after {
   font-family: var(--sf-font-display);
   font-weight: 700;
   text-transform: uppercase;
-  font-size: clamp(56px, 9vw, 128px);
-  line-height: 0.92;
+  font-size: clamp(34px, 4.2vw, 64px);
+  line-height: 1.02;
   letter-spacing: 0.005em;
   color: #fff;
   margin: 0;

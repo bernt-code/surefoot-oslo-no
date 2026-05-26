@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const t0 = performance.now();
       const fmt = function (n) {
         if (n >= 1000000) return (n / 1000000).toFixed(n >= 1000000 ? 0 : 1) + 'M';
-        if (n >= 1000) return Math.round(n / 1000) + 'K';
+        if (n >= 10000) return Math.round(n / 1000) + 'K';
         return Math.round(n).toString();
       };
       const tick = function (t) {
