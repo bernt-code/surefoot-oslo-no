@@ -1052,3 +1052,9 @@ footer.site-footer {
   .footer-bottom { flex-direction: column; align-items: flex-start; gap: 10px; }
   .cat-grid { grid-template-columns: 1fr; }
 }
+
+/* ─── LOGO: hvit pa moerk bakgrunn (nav + footer) ──────────────────── */
+.site-nav .logo img,
+.site-footer .logo img {
+  filter: brightness(0) invert(1);
+}
