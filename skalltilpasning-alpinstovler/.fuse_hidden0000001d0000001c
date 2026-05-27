@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Skalltilpasning — blokking og grinding av alpinstøvler | Surefoot Oslo</title>
+  <meta name="description" content="Noen ganger er problemet verken størrelsen eller innerstøvelen. Det er at skallet er feil formet for din fot — og det kan vi endre. Full guide til blokking og grinding." />
+  <link rel="canonical" href="https://www.surefoot.no/skalltilpasning-alpinstovler/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Skalltilpasning — blokking og grinding av alpinstøvler",
+    "description": "Noen ganger er problemet verken størrelsen eller innerstøvelen. Det er at skallet er feil formet for din fot — og det kan vi endre.",
+    "author": {
+      "@type": "Organization",
+      "name": "Surefoot Oslo"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Surefoot Oslo",
+      "url": "https://www.surefoot.no"
+    },
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.surefoot.no/skalltilpasning-alpinstovler/"
+    },
+    "datePublished": "2026-01-15",
+    "dateModified": "2026-05-01"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Hva koster skalltilpasning hos Surefoot Oslo?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Skalltilpasning starter fra 350 kr per sted. Prisen avhenger av omfang — én enkel blokking er billigere enn kombinert blokking og grinding på flere steder. Full skalltilpasning er inkludert i vår bootfitting-pakke (7.550–9.950 kr)."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Vil plastskallet forme seg til foten min over tid?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nei. Plast former seg ikke rundt beinutheng. Innerstøvelen kan komprimeres litt over noen dager, men skall-geometrien endres ikke av seg selv. Bein mot plast er bein mot plast — det løser seg ikke uten skall-arbeid."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Hva er forskjellen på blokking og grinding?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Blokking er termisk utvidelse — vi varmer skallet lokalt og bruker stempel til å presse det utover. Grinding er mekanisk fjerning — vi fjerner plastmateriale forsiktig fra innsiden for å gi plass. Blokking brukes for generelle trykkpunkter og moderate beinutheng. Grinding brukes for dype, skarpe beinutheng der blokking alene ikke gir nok plass."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Kan man ødelegge støvelen med for mye blokking?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ja — i teorien. Men en erfaren bootfitter vet grensene for hvert materiale og each modell. PU-plast tåler mer enn PE-plast. Vi gjør aldri mer enn det som er forsvarlig for strukturell integritet. Vi presser ikke ut 15mm fra en 95mm lest."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="/" class="logo">Surefoot Oslo</a>
+  <ul class="nav-links">
+    <li><a href="/tjenester/">Tjenester</a></li>
+    <li><a href="/bootfitting/">Bootfitting</a></li>
+    <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+    <li><a href="/innerstovler/">Innerstøvler</a></li>
+    <li><a href="/saler/">Såler</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<header class="page-hero">
+  <div class="page-hero-inner">
+    <div class="section-label">Teknisk guide</div>
+    <h1 class="serif">Skalltilpasning — blokking og grinding</h1>
+    <p class="lead">Noen ganger er problemet verken størrelsen eller innerstøvelen. Det er at skallet er feil formet for din fot — og det kan vi endre. Her er hva det innebærer.</p>
+  </div>
+</header>
+
+<section>
+  <div class="section-wrap-narrow prose">
+    <p>En alpinstøvel er fabrikklaget for en gjennomsnittsfot i den størrelsen. Gjennomsnittsfoten er en statistisk konstruksjon — den eksisterer ikke i virkeligheten. Alle reelle føtter avviker fra den på et eller annet punkt.</p>
+    <p>For noen er avviket lite — liner og sål kompenserer. For andre er det et strukturelt problem: skallet er feil formet for en anatomisk detalj på foten. Ikke feil størrelse. Ikke feil flex. Bare feil form på ett eller noen steder.</p>
+    <p>Det kan vi endre.</p>
+    <p>Skalltilpasning — blokking og grinding — er prosessen med å modifisere plastskallet mekanisk for å matche fotgeometrien din. Det er rutinearbeid for en erfaren bootfitter. Det er ikke reparasjon — det er skreddersøm.</p>
+  </div>
+</section>
+
+<section class="bg-light">
+  <div class="section-wrap">
+    <div class="section-label">De to metodene</div>
+    <h2 class="section-h2">Blokking vs. grinding — hva er hva</h2>
+    <div class="myth-grid">
+
+      <div class="myth-card busted">
+        <div class="myth-label">Metode #1</div>
+        <h3>Blokking — termisk utvidelse</h3>
+        <p>Vi varmer plastskallet lokalt — til rundt 80°C — ved hjelp av varmepistol eller varmeovn. Når plasten er varm nok, er den formbar. Vi bruker et stempel, press eller manuell kraft til å presse skallet utover i det spesifikke området som trenger mer plass. Deretter kjøles skallet raskt — med kaldt vann eller kjøleplate — i utvidet posisjon. Plasten «husker» den nye formen.</p>
+        <p>Blokking kan gi 3–8mm ekstra rom i et målrettet område. Det er ikke mye, men det er nok for de fleste beinutheng. Prosessen tar 30–60 minutter inkludert avkjøling og testing.</p>
+      </div>
+
+      <div class="myth-card busted">
+        <div class="myth-label">Metode #2</div>
+        <h3>Grinding — mekanisk fjerning</h3>
+        <p>Grinding er å fjerne plastmateriale fra innsiden av skallet ved hjelp av roterende verktøy. Vi skaper bokstavelig talt mer plass ved å tynne skallet på eksakt trykkpunkt. Resultatet er permanent og irreversibelt — men presist.</p>
+        <p>Grinding brukes for dype, skarpe beinutheng der blokking alene ikke gir nok plass: naviculare-bein som presser hardt mot plastskallet, skarpe ankelknokeutspring, eller hallux valgus (liktorn) der beinvinkelen er for bratt for blokking alene. Krever erfaring og god anatomisk forståelse — for mye grinding svekker strukturell integritet.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="from-the-shop">
+  <div class="section-wrap-narrow">
+    <div class="section-label">Fra butikken</div>
+    <blockquote>«Folk tror at en ny liner løser alle trykkproblemer. Den gjør det ikke. Hvis det er bein mot plast, er det bein mot plast. Liner er myk — den komprimeres mot beinutheng og gir trykkpunkt i liner i stedet for plast. Skallet må modifiseres.»</blockquote>
+    <p class="quote-credit">— Surefoot Oslo, om trykkpunkter og liner</p>
+  </div>
+</div>
+
+<section>
+  <div class="section-wrap">
+    <div class="section-label">Vanlige steder</div>
+    <h2 class="section-h2">Hvor trykkpunkter typisk oppstår</h2>
+    <div class="steps">
+
+      <div class="step">
+        <div class="step-num" style="color:#e8210a;">01</div>
+        <h3>5. metatarsal-hode (lilletå-bein)</h3>
+        <p>Det mest vanlige blokking-stedet. Beinet som stikker ut på utsiden av foten ved ballen. Mange føtter har et fremstående 5. metatarsal-hode som presser mot siden av skallet. Trykkpunktet kjennes på utsiden av foten, og skjer vanligvis etter 20–40 minutter på ski. Blokking her er rask, enkel og effektiv — 15–20 minutter arbeidstid.</p>
+      </div>
+
+      <div class="step">
+        <div class="step-num" style="color:#e8210a;">02</div>
+        <h3>Naviculare (indre ankel-bein)</h3>
+        <p>Naviculare er et fremstående bein på innsiden av foten, mellom hæl og ball. Hos mange stikker det ut betydelig og presser mot den indre siden av skallet. Trykkpunktet kjennes midt på innsiden av foten. Blokking er mulig her men krevende — naviculare-fremspring kan være skarpt, og vi bruker gjerne kombinasjon av blokking og lett grinding.</p>
+      </div>
+
+      <div class="step">
+        <div class="step-num" style="color:#e8210a;">03</div>
+        <h3>Lateral malleolus (ytre ankelknoke)</h3>
+        <p>Den ytre ankelknoken presser mot siden av skallet over hæl-regionen. Vanligvis kjent som «støvelen gnager mot ankelen». Blokking her er effektivt — vi ekspanderer skallet lateralt i ankelregionen. Grinding brukes hvis knoken er spesielt fremstående og blokking ikke gir nok rom.</p>
+      </div>
+
+      <div class="step">
+        <div class="step-num" style="color:#e8210a;">04</div>
+        <h3>Hallux valgus (liktorn)</h3>
+        <p>Liktorn er en medialt deviert storetå med fremstående bein på innsiden ved stortå-ledd. Trykkpunktet sitter på innsiden av foten ved det fremste metatarsal-leddet. Kombinasjon av blokking utover og lett grinding av innerflaten er vanligste løsning. Alvorlig liktorn kan kreve et bredere skall generelt.</p>
+      </div>
+
+      <div class="step">
+        <div class="step-num" style="color:#e8210a;">05</div>
+        <h3>Høy instep — kneble-området</h3>
+        <p>En fot med høy instep (høy topp av foten) presser oppover mot knebleregionen. Klipser kan ikke lukkes uten at blodsirkulasjonen kuttes. Blokking over kneble-området gir mer vertikalt rom. Dette er mer teknisk krevende enn side-blokking fordi vi arbeider med en overflate som skal beholde strukturell stivhet.</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="bg-light">
+  <div class="section-wrap-narrow prose">
+    <div class="section-label">Myten</div>
+    <h2 class="section-h2">«Bruk dem til de gir seg» — det er feil råd</h2>
+    <p>Dette er det mest skadelige rådet i alpint-verdenen. Og det gis stadig, av folk som burde vite bedre.</p>
+    <p>Her er fakta: plastskallet på en alpinstøvel former seg ikke rundt beinutheng. PU-plast og PE-plast har ingen termisk hukommelse ved kroppsvekt og kroppsvarmens temperatur. De endrer ikke form over tid.</p>
+    <p>Innerstøvelen komprimeres litt. Den myke skumkjernen i en standardliner pakker ut der den utsettes for kontinuerlig trykk. Det kan gi litt mer plass etter 3–5 dager. Men det betyr at lineren er komprimert i akkurat det punktet — den gir ikke lenger støtte eller varme der. Og skallet er fortsatt nøyaktig like trang.</p>
+    <p>Bein mot plast forblir bein mot plast. Et trykkpunkt forårsaket av et beinutheng mot plastskall løser seg aldri av seg selv. Det gjør vondt dag én og gjør vondt år tre. Eneste løsning: skall-arbeid.</p>
+    <p>Hvis du har brukt to sesonger på å «vente til støvelen gir seg» — kom innom. Vi ser hva vi kan gjøre.</p>
+  </div>
+</section>
+
+<section>
+  <div class="section-wrap">
+    <div class="section-label">Hvem trenger det</div>
+    <h2 class="section-h2">Trenger du skalltilpasning?</h2>
+    <div class="strip">
+
+      <div class="strip-item">
+        <span class="strip-dot" style="background:#e8210a;"></span>
+        <div>
+          <strong>Trykkpunkt som ikke forsvinner etter 3–5 ski-dager</strong>
+          <p>Et trykkpunkt som fremdeles er der etter at innerstøvelen har pakket seg litt ut er et skall-problem, ikke et liner-problem. 3–5 dager er nok tid til at linerkompresjon er ferdig. Det som er igjen etter det er bein mot plast.</p>
+        </div>
+      </div>
+
+      <div class="strip-item">
+        <span class="strip-dot" style="background:#e8210a;"></span>
+        <div>
+          <strong>Nummenhet på ett spesifikt sted</strong>
+          <p>Nummenhet som er lokalisert til ett område — vanligvis toppen av foten, utsiden av foten, eller over ankelknoken — er et kompresjonsproblem. Kompresjonen skyldes skallgeometri. Nummenhet som er diffus (hele foten, alle tær) er sirkulasjonsproblem med annen årsak.</p>
+        </div>
+      </div>
+
+      <div class="strip-item">
+        <span class="strip-dot" style="background:#e8210a;"></span>
+        <div>
+          <strong>Klipser lukkes ikke uten smerter</strong>
+          <p>Klipser som ikke kan lukkes til komfortabel stilling uten at foten verker er et volumsproblem — enten for lite rom over instep (høy instep) eller for lite rom over et beinutheng. Blokking over riktig område løser dette.</p>
+        </div>
+      </div>
+
+      <div class="strip-item">
+        <span class="strip-dot" style="background:#e8210a;"></span>
+        <div>
+          <strong>Støvelen sitter bra — unntatt på ett sted</strong>
+          <p>Riktig størrelse, god passform generelt, men ett spesifikt punkt som alltid er vondt. Dette er den klassiske kandidaten for skalltilpasning. Støvelen er riktig — et lokaliserbart beinutheng trenger bare plass.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="from-the-shop">
+  <div class="section-wrap-narrow">
+    <div class="section-label">Fra butikken</div>
+    <blockquote>«Naviculare-bein er det vanligste problemet vi ser som folk tror er størrelsesfeil. Det er ikke det. Støvelen er riktig størrelse — det er bare ett bein som stikker ut akkurat der plastens innergeometri sitter. 45 minutters arbeid og problemet er borte.»</blockquote>
+    <p class="quote-credit">— Surefoot Oslo, om naviculare-blokking</p>
+  </div>
+</div>
+
+<section class="bg-light">
+  <div class="section-wrap-narrow prose">
+    <div class="section-label">Prosessen</div>
+    <h2 class="section-h2">Slik gjør vi skalltilpasning hos Surefoot Oslo</h2>
+    <p>Prosessen starter alltid med identifikasjon. Vi ber deg sette på støvelen og fortelle oss nøyaktig hva du kjenner, og hvor. Vi markerer stedet eksternt — med fingernagel eller tusj — og verifikasjon ved å ta av støvelen og se om det korrelerer med et beinutheng på foten.</p>
+    <p>Deretter bestemmer vi metode. Blokking for moderate trykkpunkter og laterale fremspring. Grinding for dype, skarpe beinutheng der blokking alene ikke er nok. Kombinásjonsarbeid for komplekse geometrier.</p>
+    <p>For blokking: vi varmer skallet lokalt med varmepistol til ~80°C. Plasten er nå formbar. Vi bruker stempel, press eller manuell kraft til å ekspandere skallet utover. Vi kjøler raskt — med kaldt vann eller kjøleplate — i utvidet posisjon. 15–20 minutter per sted.</p>
+    <p>For grinding: vi bruker roterende slipeverktøy med kontrollerte bevegelser for å fjerne materiale fra innsiden. Vi jobber gradvis — sjekker og tester mellom hvert pass. Mer materiale kan alltid fjernes, men ingenting kan legges tilbake.</p>
+    <p>Etter arbeid: du tester støvelen. Vi sjekker at trykkpunktet er borte og at det ikke har oppstått nye problemer. Det er en iterativ prosess. Vi er ikke ferdige før du er komfortabel.</p>
+    <p><strong>Tid:</strong> 30–60 minutter per sted. <strong>Pris:</strong> fra 350 kr.</p>
+  </div>
+</section>
+
+<section>
+  <div class="section-wrap-narrow prose">
+    <div class="section-label">Begrensninger</div>
+    <h2 class="section-h2">Hva skalltilpasning ikke kan gjøre</h2>
+    <p>Skalltilpasning er kraftig — men det har grenser. Å vite disse grensene er like viktig som å vite hva som er mulig.</p>
+    <p><strong>Maksimalt 3–8mm per sekvens:</strong> blokking kan ekspandere skallet 3–8mm i et målrettet område. Det er nok for de aller fleste beinutheng og moderate passformsavvik. Det er ikke nok til å endre fundamentalt feil støvelstørrelse eller lest-geometri.</p>
+    <p><strong>Ikke en løsning på feil størrelse:</strong> en støvel som er én størrelse for liten kan ikke blokkkes til å passe. Volum-mangel er ikke det samme som lokal trykkpunkt-mangel. Skall-arbeid er for fine-tuning, ikke for å rette opp feil modellvalg.</p>
+    <p><strong>Ikke en løsning på feil lest:</strong> hvis din 106mm-breie fot er i en 98mm-lest, kan blokking hjelpe på ett trykkpunkt — men det grunnleggende mismatch er der fortsatt. Riktig svar er riktig lest-bredde, ikke å blokkke seg gjennom en fundamentalt feil støvel.</p>
+    <p><strong>Grinding er irreversibelt:</strong> materiale som er fjernet kan ikke legges tilbake. Det er ikke et argument mot grinding — det er et argument for at det må gjøres av noen med erfaring.</p>
+  </div>
+</section>
+
+<section class="bg-light">
+  <div class="section-wrap-narrow">
+    <div class="section-label">Spørsmål og svar</div>
+    <h2 class="section-h2">Vanlige spørsmål</h2>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Hva koster skalltilpasning hos Surefoot Oslo?<span>+</span></button></div>
+      <div class="faq-a"><p>Skalltilpasning starter fra 350 kr per sted. Prisen avhenger av omfang — én enkel blokking er billigere enn kombinert blokking og grinding på flere steder. Full skalltilpasning er inkludert i vår bootfitting-pakke (7.550–9.950 kr).</p></div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Vil plastskallet forme seg til foten min over tid?<span>+</span></button></div>
+      <div class="faq-a"><p>Nei. Plast former seg ikke rundt beinutheng. Innerstøvelen kan komprimeres litt over noen dager, men skall-geometrien endres ikke av seg selv. Bein mot plast er bein mot plast — det løser seg ikke uten skall-arbeid.</p></div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Hva er forskjellen på blokking og grinding?<span>+</span></button></div>
+      <div class="faq-a"><p>Blokking er termisk utvidelse — vi varmer skallet lokalt og bruker stempel til å presse det utover. Grinding er mekanisk fjerning — vi fjerner plastmateriale forsiktig fra innsiden for å gi plass. Blokking brukes for generelle trykkpunkter og moderate beinutheng. Grinding brukes for dype, skarpe beinutheng der blokking alene ikke gir nok plass.</p></div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Kan man ødelegge støvelen med for mye blokking?<span>+</span></button></div>
+      <div class="faq-a"><p>Ja — i teorien. Men en erfaren bootfitter vet grensene for hvert materiale og hver modell. PU-plast tåler mer enn PE-plast. Vi gjør aldri mer enn det som er forsvarlig for strukturell integritet. Vi presser ikke ut 15mm fra en 95mm lest.</p></div>
+    </div>
+
+  </div>
+</section>
+
+<section>
+  <div class="section-wrap-narrow">
+    <div class="section-label">Les mer</div>
+    <h2 class="section-h2">Relaterte guider</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;margin-top:32px;">
+      <a href="/hva-er-bootfitting/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Grunnkurs</div>
+        <strong>Hva er bootfitting?</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Hva som faktisk skjer i en bootfitting-sesjon — og hva du kan forvente å gå ut med.</p>
+      </a>
+      <a href="/bred-fot-alpinstovler/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Passform</div>
+        <strong>Bred fot og alpinstøvler</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Hva bred fot betyr for valg av støvel, lest-bredde og skalltilpasning.</p>
+      </a>
+      <a href="/innerstovler-alpinstovler/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Utstyr</div>
+        <strong>Innerstøvler forklart</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Custom memory foam liners — hva de er, hvordan de lages, og hva de gjør for passformen.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="booking-section">
+  <h2 class="serif">Har du et trykkpunkt<br/><em>som aldri gir seg?</em></h2>
+  <p>Book en gratis vurdering hos Surefoot Oslo. Vi identifiserer årsaken — om det er skall-geometri, liner, eller størrelse — og forteller deg hva som kan gjøres. Uten forpliktelse.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-white">Book gratis vurdering</a>
+    <a href="tel:22442112" class="btn-border">Ring 22 44 21 12</a>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo serif">Surefoot Oslo</div>
+      <p>Norges eneste spesialist på spesialbygde alpinstøvler. Del av Surefoot Global.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Guider</h4>
+      <ul>
+        <li><a href="/hva-er-bootfitting/">Hva er bootfitting?</a></li>
+        <li><a href="/mondopoint-alpinstovler/">Mondopoint guide</a></li>
+        <li><a href="/kalde-foetter-alpinstovler/">Kalde føtter</a></li>
+        <li><a href="/bred-fot-alpinstovler/">Bred fot</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om oss</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12 · oslo@surefoot.no</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/" style="font-size:12px;color:#333;">Personvern</a>
+      <a href="/kjopsvilkar/" style="font-size:12px;color:#333;">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  function toggle(btn) {
+    const item = btn.closest('.faq-item');
+    item.classList.toggle('open');
+  }
+</script>
+<script src="/main.js"></script>
+
+</body>
+</html>

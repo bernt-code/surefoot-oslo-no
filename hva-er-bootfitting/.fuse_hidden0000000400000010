@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hva er bootfitting? Den komplette forklaringen | Surefoot Oslo</title>
+  <meta name="description" content="Bootfitting er prosessen der en alpinstøvel tilpasses akkurat din fot — ikke omvendt. Lær hva det innebærer, hva det koster, og om det er verdt det." />
+  <link rel="canonical" href="https://www.surefoot.no/hva-er-bootfitting/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Hva er bootfitting?",
+    "description": "Bootfitting er prosessen der en alpinstøvel tilpasses akkurat din fot — ikke omvendt.",
+    "author": {"@type": "Organization", "name": "Surefoot Oslo"},
+    "publisher": {"@type": "Organization", "name": "Surefoot Oslo", "url": "https://www.surefoot.no"},
+    "mainEntityOfPage": "https://www.surefoot.no/hva-er-bootfitting/"
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type": "Question", "name": "Hva er bootfitting?", "acceptedAnswer": {"@type": "Answer", "text": "Bootfitting er prosessen der en alpinstøvel tilpasses akkurat din fot — ikke omvendt. Det innebærer måling av foten, valg av riktig skall, tilpasning av innerstøvel og eventuelt fresing eller blokking av skallet der det klemmer."}},
+      {"@type": "Question", "name": "Hva koster bootfitting?", "acceptedAnswer": {"@type": "Answer", "text": "Hos Surefoot Oslo koster full bootfitting fra 7.550 til 9.950 kr. Prisen inkluderer 3D-skanning, custom innerstøvel, formstøpte såler og fit guarantee. Gratis vurdering (15 min) er alltid inkludert."}},
+      {"@type": "Question", "name": "Er bootfitting verdt det?", "acceptedAnswer": {"@type": "Answer", "text": "For de fleste som kjører ski regelmessig: ja. Kalde føtter, numne tær og upresis kantsetning skyldes nesten alltid støvelen — ikke teknikken. Riktig tilpassede støvler gir mer kontroll, varmere føtter og en bedre skiopplevelse."}},
+      {"@type": "Question", "name": "Hvem trenger bootfitting?", "acceptedAnswer": {"@type": "Answer", "text": "Alle som kjører ski med støvler som ikke passer optimalt. Det inkluderer nybegynnere som har kjøpt feil størrelse, erfarne kjørere som vil ha mer presisjon, og alle som opplever smerte, kulde eller upresishet i støvlene."}}
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="/" class="logo">Surefoot Oslo</a>
+  <ul class="nav-links">
+    <li><a href="/tjenester/">Tjenester</a></li>
+    <li><a href="/bootfitting/" class="active">Bootfitting</a></li>
+    <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+    <li><a href="/innerstovler/">Innerstøvler</a></li>
+    <li><a href="/saler/">Såler</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<div class="page-hero">
+  <div class="page-hero-inner">
+    <div class="section-label">Bootfitting · Forklart</div>
+    <h1>Hva er<br/><em>bootfitting?</em></h1>
+    <p class="lead">Alpinstøvler er laget for en gjennomsnittsfot som ikke finnes. Bootfitting er løsningen — prosessen der støvelen tilpasses akkurat deg, ikke omvendt.</p>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="strip-item"><span class="strip-dot"></span>Norges eneste spesialist siden 1994</div>
+  <div class="strip-item"><span class="strip-dot"></span>Gratis 15-min vurdering</div>
+  <div class="strip-item"><span class="strip-dot"></span>Fit guarantee</div>
+  <div class="strip-item"><span class="strip-dot"></span>Skøyen, Oslo</div>
+</div>
+
+<!-- INTRO -->
+<section>
+  <div class="section-wrap-narrow">
+    <div class="prose">
+      <p class="lead-text">En alpinstøvel fra fabrikken er laget for å passe <em>nesten</em> alle. Det betyr at den passer <em>perfekt</em> på ingen.</p>
+
+      <p>Bootfitting er håndverket og prosessen som tetter det gapet. En bootfitter analyserer foten din — lengde, bredde, fotbue, ankelleddets bevegelse, leggens vinkel — og tilpasser støvelen etter det de finner. Ikke etter det størrelsesskjemaet på esken sier.</p>
+
+      <p>Resultatet er en støvel som sitter som støpt: ingen unødvendig bevegelse, ingen trykkpunkter, og full kraftoverføring fra fot til ski.</p>
+    </div>
+  </div>
+</section>
+
+<!-- HVA INNEBÆRER DET -->
+<section class="bg-light">
+  <div class="section-wrap">
+    <div class="section-label">Hva innebærer det</div>
+    <h2 class="section-h2">De fem delene av bootfitting</h2>
+    <p style="max-width:600px;margin:16px 0 48px;color:#555;">En full bootfitting er ikke én ting — det er en serie tilpasninger som til sammen gir en støvel som er laget for deg.</p>
+
+    <div class="steps">
+      <div class="step">
+        <div class="step-num">01</div>
+        <div>
+          <h3>Analyse og støvelvalg</h3>
+          <p>Før du kjøper støvel, måler vi foten din — lengde, bredde over forfoten og hælens bredde. Vi ser på fotbue, ankelleddets bevegelse og leggens vinkel. Basert på dette velger vi en lest som faktisk passer din fot, ikke bare størrelse.</p>
+          <p>De fleste kjøper støvler basert på lengde alene. Det er som å kjøpe bukser basert på benlengde uten å sjekke midjen.</p>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-num">02</div>
+        <div>
+          <h3>Custom innerstøvel</h3>
+          <p>Standardinnerstøvelen som følger med en ny alpinstøvel er laget for å passe de fleste — noe som betyr at den passer perfekt på ingen. En custom innerstøvel løser det.</p>
+          <p>Hos Surefoot Oslo injiserer vi memory foam direkte inn i innerstøvelen mens du sitter med den på. Skummet former seg etter din fot og stivner. Resultatet: en innerstøvel som bare passer deg — ingen bevegelse, ingen trykk, ingen kalde flekker.</p>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-num">03</div>
+        <div>
+          <h3>Formstøpte såler</h3>
+          <p>Standardsålene i alpinstøvler er flate. Din fotbue er ikke flat. Det gapet fører til at foten kompenserer — og det koster deg energi, kontroll og varme.</p>
+          <p>En formstøpt sål lages for din spesifikke fotbue og biomekkanikk. Den gir bedre kraftoverføring til ski, reduserer muskeltrøtthet og holder foten i riktig posisjon gjennom hele svingen.</p>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-num">04</div>
+        <div>
+          <h3>Tilpasning av skall</h3>
+          <p>Noen føtter har partier som ikke passer i standardskallet: beinutheng på ankel, brede forfot, høy rist, hallux valgus. Løsningen er blokking og fresing — vi varmer opp plasten og former den direkte rundt det som stikker.</p>
+          <p>Dette er håndverksdelen av bootfitting. Det krever erfaring å gjøre riktig, og det er grunnen til at det finnes bootfitters.</p>
+        </div>
+      </div>
+
+      <div class="step">
+        <div class="step-num">05</div>
+        <div>
+          <h3>Canting og alinjering</h3>
+          <p>Canting er vinkelen støvelskaftet har i forhold til underlaget. Mange er lett hjulbeint eller kalvbeint — og en støvel i nøytral posisjon vil da gi feil kantvinkel på ski.</p>
+          <p>En bootfitter måler alinjeringen og justerer støvelen til din anatomi. Det er forskjellen på å «prøve» å sette kanten og å <em>faktisk</em> sette den.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- HVEM TRENGER DET -->
+<section>
+  <div class="section-wrap">
+    <div class="section-label">Hvem trenger bootfitting</div>
+    <h2 class="section-h2">Er bootfitting noe for deg?</h2>
+    <p style="max-width:600px;margin:16px 0 48px;color:#555;">Svaret er ja for de fleste som kjører ski. Her er de vanligste scenariene:</p>
+
+    <div class="myth-grid">
+      <div class="myth-card">
+        <div class="myth-label" style="background:#111;color:#fff;">Du kjenner deg i</div>
+        <h3>«Føttene mine fryser alltid på fjellet»</h3>
+        <p>Kalde føtter skyldes nesten alltid dårlig blodgjennomstrømning — som igjen skyldes en støvel som er for stor, for trang i feil steder, eller en innerstøvel som ikke holder foten varm. Bootfitting løser dette i de aller fleste tilfeller.</p>
+      </div>
+      <div class="myth-card">
+        <div class="myth-label" style="background:#111;color:#fff;">Du kjenner deg i</div>
+        <h3>«Tærne nummes etter én time»</h3>
+        <p>Numme tær er et klassisk symptom på støvler som er for store. Foten flyter fremover, du klemmer tærne mot fronten for å stabilisere deg, og blodsirkulasjonen stopper. En trang, riktig tilpasset støvel løser det.</p>
+      </div>
+      <div class="myth-card">
+        <div class="myth-label" style="background:#111;color:#fff;">Du kjenner deg i</div>
+        <h3>«Jeg klarer ikke sette kanten riktig»</h3>
+        <p>Unpresise svingtak og problemer med kantsetting kan ha tekniske årsaker — men svært ofte er det støvelen. En støvel som er for myk, for stor, eller ikke alinjert riktig gjør det fysisk umulig å overføre kraften du legger inn.</p>
+      </div>
+      <div class="myth-card">
+        <div class="myth-label" style="background:#111;color:#fff;">Du kjenner deg i</div>
+        <h3>«Støvlene klemmer et bestemt sted»</h3>
+        <p>Et trykkpunkt som ikke løser seg etter to-tre dager på ski, løser seg ikke av seg selv. Det er en strukturell konflikt mellom skallet og din fot — og det løses med blokking eller fresing av skallet, ikke med mer bruk.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BOOTFITTING VS KJØPE VANLIG -->
+<section class="bg-light">
+  <div class="section-wrap-narrow">
+    <div class="section-label">Sammenligning</div>
+    <h2 class="section-h2">Bootfitting vs. vanlig kjøp</h2>
+    <p style="margin:16px 0 40px;color:#555;">Hva er egentlig forskjellen mellom å kjøpe støvler i en vanlig sportsbutikk og å få dem bootfittet?</p>
+
+    <table class="comparison-table">
+      <thead>
+        <tr>
+          <th>Vanlig kjøp</th>
+          <th>Bootfitting (Surefoot)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Velger størrelse fra skjema</td>
+          <td>Måler foten (3D-skanning)</td>
+        </tr>
+        <tr>
+          <td>Standardinnerstøvel for alle</td>
+          <td>Memory foam custom innerstøvel</td>
+        </tr>
+        <tr>
+          <td>Flat standardsål</td>
+          <td>Formstøpt sål for din fotbue</td>
+        </tr>
+        <tr>
+          <td>Skallet er uforandret</td>
+          <td>Blokking/fresing der det klemmer</td>
+        </tr>
+        <tr>
+          <td>Ingen oppfølging</td>
+          <td>Fit guarantee — gratis justeringer</td>
+        </tr>
+        <tr>
+          <td>Håper det passer</td>
+          <td>Vet at det passer</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- MYTER -->
+<section>
+  <div class="section-wrap">
+    <div class="section-label">Myter</div>
+    <h2 class="section-h2">Tre ting folk tror om bootfitting</h2>
+
+    <div class="myth-grid" style="margin-top:40px;">
+      <div class="myth-card busted">
+        <div class="myth-label">Myte</div>
+        <h3>«Det er bare for racere og proff-kjørere»</h3>
+        <p>Feil. Nybegynnere og mosjonister har faktisk <em>mer</em> å hente på god passform enn proffene — fordi proffene allerede har teknisk kompensering og muskler til å overvinne feil. En nybegynner med dårlig støvel vil aldri utvikle god teknikk.</p>
+      </div>
+      <div class="myth-card busted">
+        <div class="myth-label">Myte</div>
+        <h3>«Støvlene vil gi seg etter hvert»</h3>
+        <p>Innerstøvelen gir seg 3–8 mm. Skallet gir seg knapt noe. Hvis det klemmer i skallet, klemmer det neste sesong også — bare litt mer forutsigbart. Blokking løser det på 30 minutter.</p>
+      </div>
+      <div class="myth-card busted">
+        <div class="myth-label">Myte</div>
+        <h3>«Det er for dyrt — jeg heller tar billige støvler»</h3>
+        <p>En støvel uten tilpasning er ikke et alternativ til bootfitting — det er en garanti for at du aldri vil like å kjøre ski. Gratis vurdering koster null. Start der, og bestem deg etterpå.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- PRISER -->
+<section class="bg-light">
+  <div class="section-wrap-narrow">
+    <div class="section-label">Priser hos Surefoot Oslo</div>
+    <h2 class="section-h2">Hva koster bootfitting hos oss?</h2>
+    <div class="prose" style="margin-top:32px;">
+      <p><strong>Gratis 15-minutters vurdering</strong> — alltid første steg. Vi ser på foten, hører om plagene dine, og forteller deg ærlig hva som vil hjelpe. Ingen forpliktelse.</p>
+      <p><strong>Full bootfitting: fra 7.550 til 9.950 kr.</strong> Prisen avhenger av støvelmodell og type innerstøvel. Alt er inkludert: 3D-skanning, custom innerstøvel, formstøpte såler, tilpasning av skall og fit guarantee.</p>
+      <p><strong>Enkeltjjenester:</strong><br/>
+      Formstøpte såler — 1.695 kr (etterpar 1.495 kr)<br/>
+      Blokking og fresing — fra 350 kr<br/>
+      Ny innerstøvel — avhenger av modell</p>
+      <p>Har du støvler fra en annen butikk? Vi tilpasser dem like gjerne. Ta med støvlene dine.</p>
+    </div>
+    <div style="margin-top:40px;display:flex;gap:16px;flex-wrap:wrap;">
+      <a href="https://surefootskiing.as.me" target="_blank" class="btn-dark">Book gratis vurdering</a>
+      <a href="/tjenester/" class="btn-outline-dark">Se fullstendig prisliste</a>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section>
+  <div class="section-wrap-narrow">
+    <div class="section-label">Spørsmål og svar</div>
+    <h2 class="section-h2">Vanlige spørsmål</h2>
+    <div class="faq-list" style="margin-top:48px;">
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">Hva er bootfitting?<span class="faq-toggle">+</span></div>
+        <div class="faq-a">Bootfitting er prosessen der en alpinstøvel tilpasses akkurat din fot — ikke omvendt. Det innebærer måling av foten, valg av riktig skall og lest, tilpasning av innerstøvelen (vanligvis med memory foam), laging av formstøpte såler, og eventuelt fresing eller blokking av skallet der det klemmer mot beinstrukturer.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">Hvem trenger bootfitting?<span class="faq-toggle">+</span></div>
+        <div class="faq-a">Alle som kjører ski med støvler som ikke passer optimalt. Det gjelder nybegynnere som har kjøpt feil størrelse, erfarne kjørere som vil ha mer presisjon, og alle som opplever smerte, kulde eller upresishet i støvlene. Det finnes ingen typisk bootfitting-kunde — de aller fleste skikjørere har noe å hente.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">Er bootfitting verdt prisen?<span class="faq-toggle">+</span></div>
+        <div class="faq-a">For de aller fleste: ja. Kalde føtter, numne tær og upresis kantsetning er problemer som ikke løser seg av seg selv, og som tar bort gleden av å kjøre ski. Riktig tilpassede støvler løser disse problemene permanent. Start med en gratis 15-minutters vurdering hos oss — da kan du selv vurdere om det er verdt det for deg.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">Hva er forskjellen på bootfitting hos Surefoot og på XXL?<span class="faq-toggle">+</span></div>
+        <div class="faq-a">XXL tilbyr varmestøping av innerstøvelen — en standard prosess der du varmer innerstøvelen og setter deg i den. Det er et greit steg, men det er ikke det samme som custom bootfitting. Surefoot Oslo bruker memory foam-injeksjon (ikke bare varme), 3D-skanning, formstøpte såler fra bunn og fresing av skall. Vi er Norges eneste dedikerte bootfitting-spesialist — det er alt vi gjør.</div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">Kan dere tilpasse støvler jeg allerede har?<span class="faq-toggle">+</span></div>
+        <div class="faq-a">Ja. Ta med støvlene til en gratis vurdering. Vi kan gjøre blokking og fresing fra 350 kr, bytte innerstøvel, og lage formstøpte såler. Mange kunder trenger ikke nye støvler — de trenger bare bedre tilpasning av de de allerede har.</div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- INTERNAL LINKS -->
+<section class="bg-light">
+  <div class="section-wrap-narrow">
+    <div class="section-label">Les mer</div>
+    <h2 class="section-h2">Relaterte guider</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;margin-top:32px;">
+      <a href="/storrelse-alpinstoevler/" style="display:block;padding:24px;background:#fff;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Størrelse</div>
+        <strong>Størrelsesguide for alpinstøvler</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Mondo-point, skalltest og bredde forklart.</p>
+      </a>
+      <a href="/26-vs-265-alpinstovler/" style="display:block;padding:24px;background:#fff;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Størrelse</div>
+        <strong>26 eller 26.5 — betyr det noe?</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">5 millimeter som avgjør sesonen din.</p>
+      </a>
+      <a href="/kalde-foetter-alpinstovler/" style="display:block;padding:24px;background:#fff;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Problem</div>
+        <strong>Kalde føtter på ski</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Årsak og løsning — nesten alltid støvelen.</p>
+      </a>
+      <a href="/bred-fot-alpinstovler/" style="display:block;padding:24px;background:#fff;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Passform</div>
+        <strong>Alpinstøvler for bred fot</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Lest, bredde og hva du faktisk trenger.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="booking-section">
+  <h2 class="serif">Start med 15 minutter.<br/><em>Gratis.</em></h2>
+  <p>Vi ser på foten din og forteller deg ærlig hva som kan hjelpe. Ingen forpliktelse.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-white">Book gratis vurdering</a>
+    <a href="tel:22442112" class="btn-border">Ring 22 44 21 12</a>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo serif">Surefoot Oslo</div>
+      <p>Norges eneste spesialist på spesialbygde alpinstøvler. Del av Surefoot Global.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Guider</h4>
+      <ul>
+        <li><a href="/hva-er-bootfitting/">Hva er bootfitting?</a></li>
+        <li><a href="/storrelse-alpinstoevler/">Størrelsesguide</a></li>
+        <li><a href="/26-vs-265-alpinstovler/">26 vs 26.5</a></li>
+        <li><a href="/kalde-foetter-alpinstovler/">Kalde føtter</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om oss</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12 · oslo@surefoot.no</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/" style="font-size:12px;color:#333;">Personvern</a>
+      <a href="/kjopsvilkar/" style="font-size:12px;color:#333;">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  function toggle(btn) {
+    const item = btn.closest('.faq-item');
+    item.classList.toggle('open');
+  }
+</script>
+<script src="/main.js"></script>
+</body>
+</html>
