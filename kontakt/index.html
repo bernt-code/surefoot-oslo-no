@@ -4,7 +4,7 @@
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Kontakt — Surefoot Oslo</title>
-<meta name="description" content="Finn oss på Karenslyst Allé 12–14, Skøyen. Mandag–fredag 10–18, lørdag 10–17. Telefon 22 44 21 12." />
+<meta name="description" content="Finn oss på Karenslyst Allé 12–14, Skøyen. Telefon 22 44 21 12. Se åpningstider på Google." />
 <link rel="canonical" href="https://www.surefoot.no/kontakt/" />
 <link rel="icon" type="image/png" href="/assets/favicon-80x80.png" />
 <link rel="stylesheet" href="/style.css" />
@@ -52,11 +52,11 @@
         <div class="kontakt-details">
           <div>
             <div class="kd-label">Adresse</div>
-            <div class="kd-value" style="color:#fff;">Karenslyst Allé 12–14<br/>0278 Oslo · 2 min fra Skøyen stasjon</div>
+            <div class="kd-value" style="color:#fff;">Karenslyst Allé 12–14<br/>0278 Oslo · 5 min fra Skøyen stasjon</div>
           </div>
           <div>
             <div class="kd-label">Åpningstider</div>
-            <div class="kd-value" style="color:#fff;">Mandag–fredag 10:00–18:00<br/>Lørdag 10:00–17:00 · Søndag stengt</div>
+            <div class="kd-value" style="color:#fff;"><a href="https://www.google.com/maps/search/?api=1&amp;query=Surefoot+Oslo+Karenslyst+All%C3%A9" target="_blank" rel="noopener" style="color:#fff; text-decoration:underline;">Se åpningstider på Google →</a><br/><span style="color:rgba(255,255,255,0.6); font-size:13px;">Alltid oppdatert</span></div>
           </div>
           <div>
             <div class="kd-label">Telefon</div>
@@ -68,11 +68,11 @@
           </div>
           <div>
             <div class="kd-label">Kollektiv</div>
-            <div class="kd-value" style="color:#fff;">T-bane Skøyen (2 min)<br/>Buss 31 og 33</div>
+            <div class="kd-value" style="color:#fff;">Tog Skøyen stasjon (5 min)<br/>Buss 31 og 33 · Trikk</div>
           </div>
           <div>
             <div class="kd-label">Parkering</div>
-            <div class="kd-value" style="color:#fff;">Gateparkering · P-hus 100m unna</div>
+            <div class="kd-value" style="color:#fff;">Gateparkering · P-hus 50m unna</div>
           </div>
         </div>
       </div>
@@ -107,21 +107,23 @@
         <div class="eyebrow">Send oss en melding</div>
         <h2 class="section-h2" style="max-width:14ch;">Spør oss om hva som helst.</h2>
         <p style="color:#444; font-size:16px; line-height:1.6; max-width:42ch; margin-top:18px;">
-          Vi svarer normalt innen 4 timer på hverdager. Veso eller en av oss svarer alltid selv — ingen chatbot.
+          Du får alltid raskt svar fra oss — normalt innen 4 timer på hverdager.
         </p>
       </div>
-      <form onsubmit="event.preventDefault();alert('Takk! Vi svarer innen 4 timer.');">
+      <form name="kontakt" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/kontakt/?sent=1">
+        <input type="hidden" name="form-name" value="kontakt" />
+        <p style="display:none;"><label>Ikke fyll ut: <input name="bot-field" /></label></p>
         <div style="margin-bottom:18px;">
           <label style="display:block; font-size:10.5px; font-weight:700; letter-spacing:0.22em; text-transform:uppercase; color:var(--sf-gray); margin-bottom:6px;">Navn</label>
-          <input required style="width:100%; border:0; border-bottom:1.5px solid var(--sf-gray-line); padding:10px 0; font-size:15px; font-family:inherit; outline:none; background:none;" />
+          <input name="navn" required style="width:100%; border:0; border-bottom:1.5px solid var(--sf-gray-line); padding:10px 0; font-size:15px; font-family:inherit; outline:none; background:none;" />
         </div>
         <div style="margin-bottom:18px;">
           <label style="display:block; font-size:10.5px; font-weight:700; letter-spacing:0.22em; text-transform:uppercase; color:var(--sf-gray); margin-bottom:6px;">E-post</label>
-          <input type="email" required style="width:100%; border:0; border-bottom:1.5px solid var(--sf-gray-line); padding:10px 0; font-size:15px; font-family:inherit; outline:none; background:none;" />
+          <input type="email" name="epost" required style="width:100%; border:0; border-bottom:1.5px solid var(--sf-gray-line); padding:10px 0; font-size:15px; font-family:inherit; outline:none; background:none;" />
         </div>
         <div style="margin-bottom:24px;">
           <label style="display:block; font-size:10.5px; font-weight:700; letter-spacing:0.22em; text-transform:uppercase; color:var(--sf-gray); margin-bottom:6px;">Hva kan vi hjelpe med?</label>
-          <textarea rows="5" style="width:100%; border:0; border-bottom:1.5px solid var(--sf-gray-line); padding:10px 0; font-size:15px; font-family:inherit; outline:none; background:none; resize:vertical;"></textarea>
+          <textarea name="melding" rows="5" required style="width:100%; border:0; border-bottom:1.5px solid var(--sf-gray-line); padding:10px 0; font-size:15px; font-family:inherit; outline:none; background:none; resize:vertical;"></textarea>
         </div>
         <button type="submit" class="btn-primary">Send melding →</button>
       </form>
