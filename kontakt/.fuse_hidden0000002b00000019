@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Kontakt — Surefoot Oslo</title>
+<meta name="description" content="Finn oss på Karenslyst Allé 12–14, Skøyen. Telefon 22 44 21 12. Se åpningstider på Google." />
+<link rel="canonical" href="https://www.surefoot.no/kontakt/" />
+<link rel="icon" type="image/png" href="/assets/favicon-80x80.png" />
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+
+<div class="utility-strip">
+  <a href="https://surefootskiing.as.me" target="_blank">Klikk her for å bestille time</a>
+  <span class="sep">·</span><span>Gratis 15-min vurdering</span>
+  <span class="sep">·</span><span>Karenslyst Allé, Skøyen</span>
+</div>
+<nav class="site-nav" style="background:#0a0a0a;">
+  <a href="/" class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:36px; width:auto; display:block;"></a>
+  <ul class="nav-links">
+    <li><a href="/bootfitting/" >Bootfitting</a></li>
+    <li><a href="/alpinstovler/" >Alpinstøvler</a></li>
+    <li><a href="/innerstovler/" >Innerstøvler</a></li>
+    <li><a href="/saler/" >Såler</a></li>
+    <li><a href="/tjenester/" >Tjenester</a></li>
+    <li><a href="/faq/" >FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<section class="page-hero" style="background:#fff; color:#111;">
+  <div class="hero-inner" style="grid-template-columns:1fr;">
+    <div>
+      <div class="breadcrumb" style="color:var(--sf-gray);">
+        <span>Surefoot Oslo</span><span style="opacity:0.4;">/</span>
+        <span class="accent">Kontakt</span>
+      </div>
+      <h1 style="color:#111;">Skøyen, Oslo.</h1>
+      <p class="lead" style="color:#444;">Stikk innom mellom 10 og 18 — eller bestill time først, så har vi vurderingsbenken klar for deg.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section--dark">
+  <div class="section-wrap">
+    <div class="kontakt-grid">
+      <div>
+        <div class="eyebrow">Finn oss</div>
+        <h2 class="section-h2" style="color:#fff;">Karenslyst Allé 12–14.</h2>
+        <div class="kontakt-details">
+          <div>
+            <div class="kd-label">Adresse</div>
+            <div class="kd-value" style="color:#fff;">Karenslyst Allé 12–14<br/>0278 Oslo · 5 min fra Skøyen stasjon</div>
+          </div>
+          <div>
+            <div class="kd-label">Åpningstider</div>
+            <div class="kd-value" style="color:#fff;"><a href="https://www.google.com/maps/search/?api=1&amp;query=Surefoot+Oslo+Karenslyst+All%C3%A9" target="_blank" rel="noopener" style="color:#fff; text-decoration:underline;">Se åpningstider på Google →</a><br/><span style="color:rgba(255,255,255,0.6); font-size:13px;">Alltid oppdatert</span></div>
+          </div>
+          <div>
+            <div class="kd-label">Telefon</div>
+            <div class="kd-value"><a href="tel:22442112">22 44 21 12</a></div>
+          </div>
+          <div>
+            <div class="kd-label">E-post</div>
+            <div class="kd-value"><a href="mailto:oslo@surefoot.no">oslo@surefoot.no</a></div>
+          </div>
+          <div>
+            <div class="kd-label">Kollektiv</div>
+            <div class="kd-value" style="color:#fff;">Tog Skøyen stasjon (5 min)<br/>Buss 31 og 33 · Trikk</div>
+          </div>
+          <div>
+            <div class="kd-label">Parkering</div>
+            <div class="kd-value" style="color:#fff;">Gateparkering · P-hus 50m unna</div>
+          </div>
+        </div>
+      </div>
+      <div class="map-placeholder"><svg viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice">
+<rect width="400" height="500" fill="#0f1115"/>
+<path d="M -20 380 Q 100 360 200 390 T 420 370 L 420 520 L -20 520 Z" fill="#0a1520"/>
+<path d="M 0 250 Q 130 240 200 260 T 400 280" stroke="#3a3a3a" stroke-width="3" fill="none"/>
+<path d="M 80 0 Q 100 150 150 250 T 220 500" stroke="#2a2a2a" stroke-width="2" fill="none"/>
+<rect x="20" y="60" width="100" height="120" fill="#0d2010" opacity="0.7"/>
+<text x="40" y="50" fill="#555" font-size="9" font-family="Inter" letter-spacing="2">FROGNERPARKEN</text>
+<text x="290" y="430" fill="#3a5570" font-size="10" font-family="Inter" letter-spacing="2">OSLOFJORDEN</text>
+<text x="160" y="245" fill="#666" font-size="8" font-family="Inter" letter-spacing="1.5">KARENSLYST ALLÉ</text>
+<g transform="translate(195, 240)">
+  <circle r="32" fill="rgba(230,57,70,0.18)"/>
+  <circle r="20" fill="rgba(230,57,70,0.35)"/>
+  <path d="M 0 -22 C 10 -22 18 -14 18 -4 C 18 8 0 22 0 22 C 0 22 -18 8 -18 -4 C -18 -14 -10 -22 0 -22 Z" fill="#E63946"/>
+  <circle cy="-6" r="6" fill="#fff"/>
+</g>
+<g transform="translate(195, 270)">
+  <rect x="-44" y="0" width="88" height="22" fill="#0a0a0a" stroke="#E63946"/>
+  <text x="0" y="14" fill="#fff" font-size="9" font-family="Inter" font-weight="700" letter-spacing="2" text-anchor="middle">SUREFOOT OSLO</text>
+</g>
+</svg></div>
+    </div>
+  </div>
+</section>
+
+<section class="section--paper">
+  <div class="section-wrap">
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:64px;">
+      <div>
+        <div class="eyebrow">Send oss en melding</div>
+        <h2 class="section-h2" style="max-width:14ch;">Spør oss om hva som helst.</h2>
+        <p style="color:#444; font-size:16px; line-height:1.6; max-width:42ch; margin-top:18px;">
+          Du får alltid raskt svar fra oss — normalt innen 4 timer på hverdager.
+        </p>
+      </div>
+      <form name="kontakt" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/kontakt/?sent=1">
+        <input type="hidden" name="form-name" value="kontakt" />
+        <p style="display:none;"><label>Ikke fyll ut: <input name="bot-field" /></label></p>
+        <div style="margin-bottom:18px;">
+          <label style="display:block; font-size:10.5px; font-weight:700; letter-spacing:0.22em; text-transform:uppercase; color:var(--sf-gray); margin-bottom:6px;">Navn</label>
+          <input name="navn" required style="width:100%; border:0; border-bottom:1.5px solid var(--sf-gray-line); padding:10px 0; font-size:15px; font-family:inherit; outline:none; background:none;" />
+        </div>
+        <div style="margin-bottom:18px;">
+          <label style="display:block; font-size:10.5px; font-weight:700; letter-spacing:0.22em; text-transform:uppercase; color:var(--sf-gray); margin-bottom:6px;">E-post</label>
+          <input type="email" name="epost" required style="width:100%; border:0; border-bottom:1.5px solid var(--sf-gray-line); padding:10px 0; font-size:15px; font-family:inherit; outline:none; background:none;" />
+        </div>
+        <div style="margin-bottom:24px;">
+          <label style="display:block; font-size:10.5px; font-weight:700; letter-spacing:0.22em; text-transform:uppercase; color:var(--sf-gray); margin-bottom:6px;">Hva kan vi hjelpe med?</label>
+          <textarea name="melding" rows="5" required style="width:100%; border:0; border-bottom:1.5px solid var(--sf-gray-line); padding:10px 0; font-size:15px; font-family:inherit; outline:none; background:none; resize:vertical;"></textarea>
+        </div>
+        <button type="submit" class="btn-primary">Send melding →</button>
+      </form>
+    </div>
+  </div>
+</section>
+
+
+<section class="booking-section">
+  <div class="eyebrow eyebrow--on-dark" style="color:rgba(255,255,255,0.85);">Femten minutter. Gratis.</div>
+  <h2>Book.</h2>
+  <p>Vi ser på foten din, hører hva som plager deg, og forteller deg ærlig om vi kan hjelpe.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-primary btn-lg">Book time →</a>
+    <a href="tel:22442112" class="btn-ghost-light btn-lg">Ring 22 44 21 12</a>
+  </div>
+</section>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:28px; width:auto; display:block; opacity:0.92;"></div>
+      <p>Surefoot Oslo · Karenslyst Allé, Skøyen · Siden 2004</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Produkter</h4>
+      <ul>
+        <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk →</a></li>
+        <li><a href="https://surefootskiing.as.me" target="_blank">Book time →</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram ↗</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div>© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/">Personvern</a>
+      <a href="/kjopsvilkar/">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+<div class="sticky-book" id="stickyBook">
+  <div class="sticky-book-msg">
+    <span class="accent">Gratis</span> 15-min vurdering
+    <span class="sub">Ingen forpliktelse · Karenslyst Allé · Ledige tider denne uka</span>
+  </div>
+  <a href="https://surefootskiing.as.me" target="_blank" class="sticky-book-btn">Book time →</a>
+</div>
+<script src="/main.js"></script>
+</body></html>

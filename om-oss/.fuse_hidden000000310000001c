@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Vår historie — Surefoot Oslo</title>
+<meta name="description" content="Skiglede spesialistene. Surefoot Oslo — Norges spesialbutikk for spesialbygde alpinstøvler. På Skøyen siden 2004. Bootfitting, innerstøvel-tilpasning og formstøpte såler." />
+<link rel="canonical" href="https://www.surefoot.no/om-oss/" />
+<link rel="icon" type="image/png" href="/assets/favicon-80x80.png" />
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+
+<div class="utility-strip">
+  <a href="https://surefootskiing.as.me" target="_blank">Klikk her for å bestille time</a>
+  <span class="sep">·</span><span>Gratis 15-min vurdering</span>
+  <span class="sep">·</span><span>Karenslyst Allé, Skøyen</span>
+</div>
+<nav class="site-nav">
+  <a href="/" class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:36px; width:auto; display:block;"></a>
+  <ul class="nav-links">
+    <li><a href="/bootfitting/" >Bootfitting</a></li>
+    <li><a href="/alpinstovler/" >Alpinstøvler</a></li>
+    <li><a href="/innerstovler/" >Innerstøvler</a></li>
+    <li><a href="/saler/" >Såler</a></li>
+    <li><a href="/tjenester/" >Tjenester</a></li>
+    <li><a href="/faq/" >FAQ</a></li>
+    <li><a href="/om-oss/" class="active">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<section class="page-hero">
+  <div class="hero-veil"></div>
+  <div class="hero-inner" style="grid-template-columns:1fr;">
+    <div>
+      <div class="breadcrumb">
+        <span>Surefoot Oslo</span><span style="opacity:0.4;">/</span>
+        <span class="accent">Vår historie</span>
+      </div>
+      <h1>Fra Park City til Skøyen.<br/><em>22 år</em> senere.</h1>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="section-wrap" style="max-width:780px;">
+    <div style="font-size:18px; line-height:1.75; color:#222;">
+      <p style="font-size:22px; line-height:1.5; color:#0a0a0a; margin-bottom:32px;">
+        <strong>Vi åpnet på Skøyen i 2004</strong> — for å bringe Surefoot-spesialisten til Norge, der Europas mest seriøse skiløpere holder til.
+      </p>
+      <p style="margin-bottom:20px;">
+        Surefoot-konseptet ble grunnlagt av brødrene Russ og Bob Shay i Park City i 1980. De bygde det som fortsatt er markedets mest avanserte system for produksjon av formstøpte såler og spesialtilpassede innerstøvler.
+      </p>
+      <p style="margin-bottom:20px;">
+        Bernt Blankholm åpnet Surefoot Oslo sammen med Bob i 2004. Skøyen-butikken har siden vært den eneste norske spesialbutikken for spesialbygde alpinstøvler — vi tilpasser skall, innerstøvel og såle for alpin, randonée og topptur.
+      </p>
+      <p style="margin-bottom:20px;">
+        Hvorfor Skøyen? Fordi Norge har Europas mest seriøse topptur-skiløpere. Lyngen, Sunnmøre, Jotunheimen — terreng som krever støvler som faktisk holder. Vi ville være der det betyr noe.
+      </p>
+      <p>
+        Vi tenker i tiår, ikke kvartaler. Det vi har bygget kan ikke kjøpes — det kan bare arbeides frem, par for par.
+      </p>
+    </div>
+  </div>
+</section>
+
+<div class="statbar">
+  <div class="statbar-cell">
+    <div class="statbar-num" data-count="1980" data-suffix="">0</div>
+    <div class="statbar-label">Surefoot grunnlagt</div>
+  </div>
+  <div class="statbar-cell">
+    <div class="statbar-num" data-count="2004" data-suffix="">0</div>
+    <div class="statbar-label">På Skøyen siden</div>
+  </div>
+</div>
+
+<section class="section--dark">
+  <div class="section-wrap">
+    <div style="max-width:780px; margin-bottom:48px;">
+      <div class="eyebrow">Teamet på Skøyen</div>
+      <h2 class="section-h2" style="color:#fff;">Fire fittere, ett verksted.</h2>
+      <p style="color:rgba(255,255,255,0.7); font-size:17px; line-height:1.6; margin-top:18px; max-width:55ch;">
+        Fire stykker som jobber sammen på Skøyen. Bernt er cofounder. Veso leder daglig drift. Leo er senior bootfitter. Axel er junior under opplæring.
+      </p>
+    </div>
+    <div style="display:grid; grid-template-columns:repeat(4,1fr); gap:24px;">
+      <div>
+        <div style="aspect-ratio:3/4; background:linear-gradient(135deg, #1a1a1a, #2a2a2a);"></div>
+        <div style="margin-top:14px;">
+          <div style="font-family:Inter; font-weight:800; text-transform:uppercase; font-size:14px; color:#fff; letter-spacing:-0.005em;">Bernt</div>
+          <div style="font-size:11.5px; color:rgba(255,255,255,0.55); margin-top:4px; letter-spacing:0.04em;">Cofounder Surefoot Oslo</div>
+        </div>
+      </div>
+      <div>
+        <div style="aspect-ratio:3/4; background:linear-gradient(135deg, #1a1a1a, #2a2a2a);"></div>
+        <div style="margin-top:14px;">
+          <div style="font-family:Inter; font-weight:800; text-transform:uppercase; font-size:14px; color:#fff; letter-spacing:-0.005em;">Veso</div>
+          <div style="font-size:11.5px; color:rgba(255,255,255,0.55); margin-top:4px; letter-spacing:0.04em;">Shop manager</div>
+        </div>
+      </div>
+      <div>
+        <div style="aspect-ratio:3/4; background:linear-gradient(135deg, #1a1a1a, #2a2a2a);"></div>
+        <div style="margin-top:14px;">
+          <div style="font-family:Inter; font-weight:800; text-transform:uppercase; font-size:14px; color:#fff; letter-spacing:-0.005em;">Leo</div>
+          <div style="font-size:11.5px; color:rgba(255,255,255,0.55); margin-top:4px; letter-spacing:0.04em;">Senior Bootfitter</div>
+        </div>
+      </div>
+      <div>
+        <div style="aspect-ratio:3/4; background:linear-gradient(135deg, #1a1a1a, #2a2a2a);"></div>
+        <div style="margin-top:14px;">
+          <div style="font-family:Inter; font-weight:800; text-transform:uppercase; font-size:14px; color:#fff; letter-spacing:-0.005em;">Axel</div>
+          <div style="font-size:11.5px; color:rgba(255,255,255,0.55); margin-top:4px; letter-spacing:0.04em;">Jr Bootfitter</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="booking-section">
+  <div class="eyebrow eyebrow--on-dark" style="color:rgba(255,255,255,0.85);">Femten minutter. Gratis.</div>
+  <h2>Book.</h2>
+  <p>Vi ser på foten din, hører hva som plager deg, og forteller deg ærlig om vi kan hjelpe.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-primary btn-lg">Book time →</a>
+    <a href="tel:22442112" class="btn-ghost-light btn-lg">Ring 22 44 21 12</a>
+  </div>
+</section>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:28px; width:auto; display:block; opacity:0.92;"></div>
+      <p>Surefoot Oslo · Karenslyst Allé, Skøyen · Siden 2004</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Produkter</h4>
+      <ul>
+        <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk →</a></li>
+        <li><a href="https://surefootskiing.as.me" target="_blank">Book time →</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram ↗</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div>© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/">Personvern</a>
+      <a href="/kjopsvilkar/">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+<div class="sticky-book" id="stickyBook">
+  <div class="sticky-book-msg">
+    <span class="accent">Gratis</span> 15-min vurdering
+    <span class="sub">Ingen forpliktelse · Karenslyst Allé · Ledige tider denne uka</span>
+  </div>
+  <a href="https://surefootskiing.as.me" target="_blank" class="sticky-book-btn">Book time →</a>
+</div>
+<script src="/main.js"></script>
+</body></html>

@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Innerstøvler — Surefoot Oslo</title>
+<meta name="description" content="Custom innerstøvler med memory foam-injeksjon — Surefoots signaturløsning. Tilpasses din anatomi, passer alle store skall-merker. På Skøyen." />
+<link rel="canonical" href="https://www.surefoot.no/innerstovler/" />
+<link rel="icon" type="image/png" href="/assets/favicon-80x80.png" />
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+
+<div class="utility-strip">
+  <a href="https://surefootskiing.as.me" target="_blank">Klikk her for å bestille time</a>
+  <span class="sep">·</span><span>Gratis 15-min vurdering</span>
+  <span class="sep">·</span><span>Karenslyst Allé, Skøyen</span>
+</div>
+<nav class="site-nav">
+  <a href="/" class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:36px; width:auto; display:block;"></a>
+  <ul class="nav-links">
+    <li><a href="/bootfitting/" >Bootfitting</a></li>
+    <li><a href="/alpinstovler/" >Alpinstøvler</a></li>
+    <li><a href="/innerstovler/" class="active">Innerstøvler</a></li>
+    <li><a href="/saler/" >Såler</a></li>
+    <li><a href="/tjenester/" >Tjenester</a></li>
+    <li><a href="/faq/" >FAQ</a></li>
+    <li><a href="/om-oss/" >Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<section class="page-hero">
+  <div class="hero-veil"></div>
+  <div class="hero-inner" style="grid-template-columns:1fr;">
+    <div>
+      <div class="breadcrumb">
+        <span>Produkter</span><span style="opacity:0.4;">/</span>
+        <span class="accent">Innerstøvler</span>
+      </div>
+      <h1>Innerstøvler.<br/><em>Følelsen</em> lever her.</h1>
+      <p class="lead">Memory foam-injisert custom innerstøvel — Surefoots signaturløsning. Stivner rundt foten og passer alle store skall-merker.</p>
+      <div style="display:flex; gap:14px; flex-wrap:wrap; margin-top:32px;">
+        <a href="https://surefootskiing.as.me" target="_blank" class="btn-primary">Book innerstøvel-tilpasning</a>
+        <a href="/bootfitting/" class="btn-ghost-light">Full bootfitting →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="strip">
+  <div class="strip-item"><span class="strip-dot"></span> Foam-injisert custom innerstøvel</div>
+  <div class="strip-item"><span class="strip-dot"></span> Passer alle store skall-merker</div>
+  <div class="strip-item"><span class="strip-dot"></span> Surefoots signatur</div>
+  <div class="strip-item"><span class="strip-dot"></span> Fit guarantee</div>
+</div>
+
+<section>
+  <div class="section-wrap">
+    <div style="display:grid; grid-template-columns:1fr 1.6fr; gap:64px; margin-bottom:48px;">
+      <div>
+        <div class="eyebrow">Surefoots signatur</div>
+        <h2 class="section-h2" style="max-width:14ch;">Foam-injisert innerstøvel.</h2>
+      </div>
+      <p style="font-size:17px; line-height:1.7; color:#333;">
+        Vi varmer opp Memory Foam og injiserer den under trykk inne i innerstøvelens form. Foamen stivner rundt din anatomi — en innerstøvel laget spesifikt for din fot. Det er metoden Surefoot ble bygget rundt i 1980, og det er fortsatt det vi gjør best.
+      </p>
+    </div>
+
+    <div class="eyebrow" style="margin-bottom:24px;">Våre innerstøvler</div>
+    <div class="cat-grid" data-shopify-collection="custom-innerstovler">
+      <p style="grid-column:1/-1; color:#777; font-size:15px;">Laster innerstøvler fra butikken…</p>
+    </div>
+    <p style="margin-top:28px; font-size:14px; color:#888;">Alle innerstøvler er full custom — kun kjøpt og laget i butikken, og forutsetter at de passer skallet. Book time for tilpasning og rådgivning.</p>
+  </div>
+</section>
+
+<section class="interlude interlude--right">
+  <div class="bg" style="background-image:url('/assets/hero-panorama.jpeg');"></div>
+  <div class="veil"></div>
+  <div class="interlude-inner">
+    <div>
+      <div class="eyebrow eyebrow--on-dark">▒ Hvorfor innerstøvel betyr noe</div>
+      <h2>Skoen er bare halve historien.</h2>
+      <p>Skallet gir kraft og presisjon — men det er innerstøvelen som bestemmer komfort, varme og om foten din faktisk passer. En custom liner gjør forskjellen mellom "ok" og "perfekt".</p>
+    </div>
+  </div>
+</section>
+
+<section class="section--paper">
+  <div class="section-wrap">
+    <div class="eyebrow">Vanlige spørsmål</div>
+    <h2 class="section-h2" style="margin-bottom:16px;">Om innerstøvler.</h2>
+    <div class="faq-grid">
+      <div>
+        <div class="faq-item open">
+          <div class="faq-q">Kan jeg bytte til ny innerstøvel uten å kjøpe ny støvel? <span class="faq-toggle">+</span></div>
+          <div class="faq-a">Ja — det er en av de mest effektive oppgraderingene du kan gjøre. En custom foam liner i en støvel du har fra før gir ofte 80% av effekten av en full bootfitting.</div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-q">Hvor lenge holder en custom liner? <span class="faq-toggle">+</span></div>
+          <div class="faq-a">Typisk 300–500 skidager. Den foam-injiserte varianten holder seg lengst — den slites ned saktere fordi den er tettere pakket.</div>
+        </div>
+      </div>
+      <div>
+        <div class="faq-item">
+          <div class="faq-q">Hvorfor blir føttene mine kalde? <span class="faq-toggle">+</span></div>
+          <div class="faq-a">9 av 10 ganger er det sokken som er for tykk, ikke innerstøvelen som er for tynn. Vi anbefaler tynne merino-sokker pluss en tett-sittende custom liner.</div>
+        </div>
+        <div class="faq-item">
+          <div class="faq-q">Passer en custom liner i alle skall? <span class="faq-toggle">+</span></div>
+          <div class="faq-a">Vi tilpasser til alle store merker — Tecnica, Atomic, Lange, Nordica, Dynafit. Noen modeller med spesiell skall-geometri kan kreve en spesifikk linervariant.</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="booking-section">
+  <div class="eyebrow eyebrow--on-dark" style="color:rgba(255,255,255,0.85);">Klar til neste steg?</div>
+  <h2>Book.</h2>
+  <p>Femten minutter, gratis. Vi gir en ærlig anbefaling — kjøp først etterpå.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-primary btn-lg">Book gratis vurdering →</a>
+    <a href="tel:22442112" class="btn-ghost-light btn-lg">Ring 22 44 21 12</a>
+  </div>
+</section>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:28px; width:auto; display:block; opacity:0.92;"></div>
+      <p>Surefoot Oslo · Karenslyst Allé, Skøyen · Siden 2004</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Produkter</h4>
+      <ul>
+        <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk →</a></li>
+        <li><a href="https://surefootskiing.as.me" target="_blank">Book time →</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram ↗</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div>© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/">Personvern</a>
+      <a href="/kjopsvilkar/">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+<div class="sticky-book" id="stickyBook">
+  <div class="sticky-book-msg">
+    <span class="accent">Gratis</span> 15-min vurdering
+    <span class="sub">Ingen forpliktelse · Karenslyst Allé · Ledige tider denne uka</span>
+  </div>
+  <a href="https://surefootskiing.as.me" target="_blank" class="sticky-book-btn">Book time →</a>
+</div>
+<script src="/main.js"></script>
+<script src="/shop.js" defer></script>
+</body></html>

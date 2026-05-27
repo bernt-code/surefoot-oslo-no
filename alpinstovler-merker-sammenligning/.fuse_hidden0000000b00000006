@@ -1,0 +1,879 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atomic vs Lange vs Tecnica vs Nordica — hvilken alpinstøvel er best? | Surefoot Oslo</title>
+  <meta name="description" content="Det riktige merket er det som passer din fot. Vi sammenligner lestgeometri, flex og passform mellom Atomic, Lange, Tecnica, Nordica, Salomon og Fischer — uten salgsinteresse." />
+  <link rel="canonical" href="https://www.surefoot.no/alpinstovler-merker-sammenligning/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Atomic vs Lange vs Tecnica vs Nordica — hvilken alpinstøvel er best?",
+    "description": "Sammenligning av lestgeometri og passform for de seks største alpinstøvelmerkenene. Basert på tusenvis av fottilpasninger hos Surefoot Oslo siden 1994.",
+    "author": {
+      "@type": "Organization",
+      "name": "Surefoot Oslo",
+      "url": "https://www.surefoot.no"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Surefoot Oslo",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.surefoot.no/logo.png"
+      }
+    },
+    "datePublished": "2026-05-23",
+    "dateModified": "2026-05-23",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.surefoot.no/alpinstovler-merker-sammenligning/"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Betyr det noe hvilket merke alpinstøvel jeg kjøper?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Alle de store merkene lager godt konstruerte støvler. Forskjellen er lestgeometrien — bredde, instep-volum, hælkupp-dybde og tå-høyde. Riktig merke er merket som passer din spesifikke fot, ikke merket som koster mest eller som profiløperen bruker."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Er Lange flex 100 det samme som Atomic flex 100?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nei. Flex-indeksen er ikke standardisert på tvers av merker. Lange er tradisjonelt kjent for å kjøre stivere enn oppgitt — Lange 100 oppfører seg ofte som det konkurrentene kaller 110–115. Atomic og Nordica ligger nærmere sitt oppgitte tall. Alltid test flex i kalde temperaturer, eller spør en bootfitter."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Hva betyr lestgeometri, og hvorfor er det viktigere enn merke?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Lestgeometrien er formen på plastskallet: bredden over tåballen, høyden over vristen (instep-volum), dybden på hælkuppen, og tå-høyden. Alle disse dimensjonene varierer mellom merker — og ingen av dem varierer mellom merkets modeller på en måte du kan lese av et produktark. En fot som er 102 mm bred over tåballen passer fundamentalt bedre i Nordica enn Lange, uavhengig av pris eller teknologi."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Bør kvinner kjøpe damestøvler eller herrестøvler?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "De fleste merker lager dame-spesifikke lester — ikke bare herreavdelingen i annen farge. Damestøvler er typisk smalere i skaftet, med lavere instep og kortere tå-areal, noe som reflekterer gjennomsnittlig anatomisk forskjell. For kvinner med bred fot eller høyt instep-volum kan imidlertid en herrestøvel i junior-størrelse eller en bred damemodell fungere bedre. Ikke velg basert på kjønnskategorien alene."
+        }
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    .article-body {
+      max-width: 720px;
+    }
+
+    .article-body h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 28px;
+      letter-spacing: -0.4px;
+      margin: 56px 0 18px;
+      color: #111;
+      line-height: 1.25;
+    }
+
+    .article-body h3 {
+      font-size: 16px;
+      font-weight: 600;
+      margin: 32px 0 12px;
+      color: #111;
+    }
+
+    .article-body p {
+      font-size: 16px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.8;
+      margin-bottom: 20px;
+    }
+
+    .article-body strong {
+      font-weight: 600;
+      color: #111;
+    }
+
+    .article-meta {
+      font-size: 13px;
+      color: #aaa;
+      font-weight: 300;
+      margin-bottom: 48px;
+      display: flex;
+      gap: 20px;
+      align-items: center;
+    }
+
+    .article-divider {
+      height: 1px;
+      background: #e8e8e8;
+      margin: 48px 0;
+    }
+
+    .big-statement {
+      font-family: 'DM Serif Display', serif;
+      font-size: 26px;
+      line-height: 1.4;
+      color: #111;
+      border-left: 4px solid #c25f2e;
+      padding-left: 28px;
+      margin: 48px 0;
+      letter-spacing: -0.3px;
+    }
+
+    .from-the-shop {
+      background: #f9f8f6;
+      border-left: 3px solid #c25f2e;
+      padding: 24px 28px;
+      margin: 36px 0;
+      font-size: 15px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.75;
+    }
+
+    .from-the-shop .shop-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: #c25f2e;
+      margin-bottom: 10px;
+    }
+
+    .brand-card {
+      border: 1px solid #e8e8e8;
+      padding: 32px 36px;
+      margin: 32px 0;
+      position: relative;
+    }
+
+    .brand-card-header {
+      display: flex;
+      align-items: baseline;
+      gap: 16px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+    }
+
+    .brand-name {
+      font-family: 'DM Serif Display', serif;
+      font-size: 24px;
+      color: #111;
+      letter-spacing: -0.3px;
+    }
+
+    .brand-fit-tag {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 2px;
+    }
+
+    .brand-fit-tag.narrow {
+      background: #111;
+      color: #fff;
+    }
+
+    .brand-fit-tag.medium {
+      background: #e8e8e8;
+      color: #444;
+    }
+
+    .brand-fit-tag.wide {
+      background: #f0ede8;
+      color: #5a4a3a;
+    }
+
+    .brand-fit-tag.medium-wide {
+      background: #e8f0ec;
+      color: #2d5a3d;
+    }
+
+    .brand-specs {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      margin: 20px 0;
+      font-size: 14px;
+    }
+
+    @media (max-width: 500px) {
+      .brand-specs {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .brand-spec-item {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .brand-spec-label {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #aaa;
+    }
+
+    .brand-spec-value {
+      font-size: 14px;
+      color: #333;
+      font-weight: 300;
+    }
+
+    .brand-ideal {
+      background: #f9f8f6;
+      padding: 16px 20px;
+      font-size: 14px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.6;
+      border-left: 2px solid #c25f2e;
+      margin-top: 20px;
+    }
+
+    .brand-ideal strong {
+      color: #111;
+      font-weight: 600;
+    }
+
+    .comparison-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 28px 0;
+      font-size: 13px;
+    }
+
+    .comparison-table th {
+      background: #111;
+      color: #fff;
+      font-weight: 500;
+      font-size: 11px;
+      letter-spacing: 0.5px;
+      padding: 12px 14px;
+      text-align: left;
+    }
+
+    .comparison-table td {
+      padding: 13px 14px;
+      border-bottom: 1px solid #f0f0f0;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.5;
+      vertical-align: top;
+    }
+
+    .comparison-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .comparison-table tr:nth-child(even) td {
+      background: #fafafa;
+    }
+
+    .myth-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 28px 0;
+    }
+
+    @media (max-width: 640px) {
+      .myth-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .myth-card {
+      background: #fff;
+      border: 1px solid #e8e8e8;
+      padding: 24px;
+    }
+
+    .myth-card .myth-label {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: #aaa;
+      margin-bottom: 10px;
+    }
+
+    .myth-card .myth-claim {
+      font-family: 'DM Serif Display', serif;
+      font-size: 17px;
+      color: #111;
+      margin-bottom: 12px;
+      line-height: 1.35;
+    }
+
+    .myth-card .myth-reality {
+      font-size: 14px;
+      color: #666;
+      font-weight: 300;
+      line-height: 1.6;
+    }
+
+    .myth-card.busted .myth-label {
+      color: #c25f2e;
+    }
+
+    .flex-note {
+      background: #fff8f5;
+      border: 1px solid #f0d5c8;
+      padding: 24px 28px;
+      margin: 32px 0;
+      font-size: 14px;
+      color: #444;
+      line-height: 1.7;
+      font-weight: 300;
+    }
+
+    .flex-note strong {
+      color: #c25f2e;
+      font-weight: 600;
+    }
+
+    .flex-note-title {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #c25f2e;
+      margin-bottom: 10px;
+    }
+
+    .decision-list {
+      list-style: none;
+      padding: 0;
+      margin: 24px 0;
+    }
+
+    .decision-list li {
+      display: flex;
+      gap: 16px;
+      align-items: flex-start;
+      padding: 16px 0;
+      border-bottom: 1px solid #f0f0f0;
+      font-size: 15px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.6;
+    }
+
+    .decision-list li:last-child {
+      border-bottom: none;
+    }
+
+    .decision-num {
+      font-family: 'DM Serif Display', serif;
+      font-size: 28px;
+      color: #c25f2e;
+      line-height: 1;
+      min-width: 28px;
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="site-nav">
+  <a href="/" class="logo">Surefoot Oslo</a>
+  <ul class="nav-links">
+    <li><a href="/tjenester/">Tjenester</a></li>
+    <li><a href="/bootfitting/">Bootfitting</a></li>
+    <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+    <li><a href="/innerstovler/">Innerstøvler</a></li>
+    <li><a href="/saler/">Såler</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div class="page-hero">
+  <div class="page-hero-inner">
+    <div class="section-label">Merkesammenligning</div>
+    <h1>Atomic vs Lange vs Tecnica vs Nordica</h1>
+    <p class="lead">Det riktige merket er det som passer din fot. Det gale merket er det du kjøpte fordi noen på YouTube anbefalte det.</p>
+  </div>
+</div>
+
+<!-- CONTENT -->
+<section>
+  <div class="section-wrap">
+    <div class="article-body">
+
+      <div class="article-meta">
+        <span>Av Surefoot Oslo</span>
+        <span>·</span>
+        <span>Mai 2026</span>
+        <span>·</span>
+        <span>7 min lesing</span>
+      </div>
+
+      <p>Jeg skal si noe som sikkert ikke selger godt: <strong>alle de store merkene lager godt konstruerte alpinstøvler</strong>. Atomic, Lange, Tecnica, Nordica, Salomon, Fischer — de har alle god materialkvalitet, solid håndverk og veldokumenterte flex-karakteristikker. Ingen av dem er «best».</p>
+
+      <p>Forskjellen mellom merkene er ikke kvalitet. Forskjellen er <strong>lestgeometri</strong> — den tredimensjonale formen på plastskallet som bestemmer om støvelen faktisk passer din spesifikke fot.</p>
+
+      <p>Lestgeometri handler om: bredden over tåballen, volumet over vristen (instep), dybden på hælkuppen, høyden på tåboksen. Alle disse dimensjonene varierer mellom merker. Ingen av dem fremgår av et produktblad. Du kan ikke google deg frem til dem. Du kan bare sette foten inn og kjenne.</p>
+
+      <div class="big-statement">
+        «En dyr racing-støvel på feil fot er verre enn en medium støvel på riktig fot. Pris og passform er to helt ulike ting.»
+      </div>
+
+      <p>Det som sagt: det finnes mønstre. Etter tusenvis av fottilpasninger siden 1994 har vi klare preferanser for hvilke merker som fungerer for hvilke fottyper. Her er dem — uten salgsnudging, uten sponsoravtaler.</p>
+
+      <div class="article-divider"></div>
+
+      <h2>Merkene — lestgeometri og hvem de passer</h2>
+
+      <!-- ATOMIC -->
+      <div class="brand-card">
+        <div class="brand-card-header">
+          <div class="brand-name">Atomic</div>
+          <span class="brand-fit-tag medium-wide">Medium til bred</span>
+        </div>
+        <div class="brand-specs">
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Lestbredde</div>
+            <div class="brand-spec-value">98–102 mm (modell-avhengig)</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Instep-volum</div>
+            <div class="brand-spec-value">Medium til høyt</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Hælkupp</div>
+            <div class="brand-spec-value">Anatomisk, moderat dybde</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Flex-kalibrering</div>
+            <div class="brand-spec-value">Relativt ærlig</div>
+          </div>
+        </div>
+        <p style="font-size:14px;color:#444;font-weight:300;line-height:1.7;margin:0 0 12px;">Atomic har jobbet bevisst med anatomisk lestgeometri, og Hawx-serien er blitt kjent for en bredere tåboks enn de fleste konkurrenter. Flexskalaen er relativt konsekvent og ærlig — Atomic 100 oppfører seg rimelig nær det konkurrentene kaller 100. Instep-volumet er høyere enn Lange og Fischer, noe som gjør Atomic til et godt valg for foten som «alltid kjenner press over vristen» i andre merker.</p>
+        <div class="brand-ideal"><strong>Passer best for:</strong> Medium til bred fot, normal til høy vrist. Godt valg for norsk gjennomsnittsfoot. Hawx Ultra for allround, Hawx Prime for mer performance-orientert bruk.</div>
+      </div>
+
+      <!-- LANGE -->
+      <div class="brand-card">
+        <div class="brand-card-header">
+          <div class="brand-name">Lange</div>
+          <span class="brand-fit-tag narrow">Smal til medium</span>
+        </div>
+        <div class="brand-specs">
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Lestbredde</div>
+            <div class="brand-spec-value">96–100 mm (modell-avhengig)</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Instep-volum</div>
+            <div class="brand-spec-value">Lavt til medium</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Hælkupp</div>
+            <div class="brand-spec-value">Dyp og presis</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Flex-kalibrering</div>
+            <div class="brand-spec-value">Kjøres stivere enn oppgitt</div>
+          </div>
+        </div>
+        <p style="font-size:14px;color:#444;font-weight:300;line-height:1.7;margin:0 0 12px;">Lange er den klassiske performance-støvelen. Tradisjonelt smal lest, dyp hælkupp og direkte kraftoverføring. Flexskalaen er Langes mest kjente egenhet: Lange 100 oppfører seg som det andre merker kaller 110–115. Det er ikke en feil — det er en bevisst konstruksjonsfilosofi. XT3-serien er Langes svar på allround-markedet og gir litt mer rom i tåboksen. RS-serien er for de som virkelig ønsker race-karakteristikk.</p>
+        <div class="brand-ideal"><strong>Passer best for:</strong> Smal, performance-orientert fot. Foten som er presis i hælen men lav i vristen. Ikke for bred norsk fot uten blokking.</div>
+      </div>
+
+      <!-- TECNICA -->
+      <div class="brand-card">
+        <div class="brand-card-header">
+          <div class="brand-name">Tecnica</div>
+          <span class="brand-fit-tag medium">Medium til høyt volum</span>
+        </div>
+        <div class="brand-specs">
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Lestbredde</div>
+            <div class="brand-spec-value">98–103 mm (modell-avhengig)</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Instep-volum</div>
+            <div class="brand-spec-value">Høyt — kjent for dette</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Hælkupp</div>
+            <div class="brand-spec-value">Medium dybde</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Flex-kalibrering</div>
+            <div class="brand-spec-value">Nær oppgitt verdi</div>
+          </div>
+        </div>
+        <p style="font-size:14px;color:#444;font-weight:300;line-height:1.7;margin:0 0 12px;">Tecnica er det italienske alternativet, og Mach1-serien har blitt en av de mest populære allround-støvlene i Europa med god grunn. Tecnica er kjent for høyt instep-volum — foten med høy vrist som alltid klemmer i andre merker finner ofte sin sted her. Konstruksjonen er solid, materialvalget godt, og Mach1 MV (Medium Volume) er et av de beste utgangspunktene for gjennomsnittlig norsk fot som vil ha komfort og ytelse uten å velge side.</p>
+        <div class="brand-ideal"><strong>Passer best for:</strong> Medium til bred fot med normal til høy vrist. Eksepsjonelt godt for den som «alltid kjenner støvelen over vristen» i Lange eller Fischer.</div>
+      </div>
+
+      <!-- NORDICA -->
+      <div class="brand-card">
+        <div class="brand-card-header">
+          <div class="brand-name">Nordica</div>
+          <span class="brand-fit-tag wide">Bred</span>
+        </div>
+        <div class="brand-specs">
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Lestbredde</div>
+            <div class="brand-spec-value">100–106 mm (modell-avhengig)</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Instep-volum</div>
+            <div class="brand-spec-value">Medium til høyt</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Hælkupp</div>
+            <div class="brand-spec-value">Romlig — ikke for presis fot</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Flex-kalibrering</div>
+            <div class="brand-spec-value">Nær oppgitt verdi, myker i kult</div>
+          </div>
+        </div>
+        <p style="font-size:14px;color:#444;font-weight:300;line-height:1.7;margin:0 0 12px;">Nordica produserer gjennomgående bredere lester enn de fleste konkurrenter. Thunder Bold-serien er spesielt kjent for bred tåboks og romlig konstruksjon. For den norske skiløperen med bred fot som aldri har funnet en støvel som sitter uten å klemme over tærne — er Nordica nesten alltid første sted å starte. Prisen er typisk mer tilgjengelig enn Lange og Atomic i tilsvarende klasse, uten at det går på bekostning av konstruksjonskvalitet.</p>
+        <div class="brand-ideal"><strong>Passer best for:</strong> Bred til svært bred fot. Den som alltid har hatt problemer med klemming over tærne i andre merker. Solid pris/ytelse-forhold.</div>
+      </div>
+
+      <!-- SALOMON -->
+      <div class="brand-card">
+        <div class="brand-card-header">
+          <div class="brand-name">Salomon</div>
+          <span class="brand-fit-tag medium">Medium</span>
+        </div>
+        <div class="brand-specs">
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Lestbredde</div>
+            <div class="brand-spec-value">98–102 mm (modell-avhengig)</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Instep-volum</div>
+            <div class="brand-spec-value">Medium</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Hælkupp</div>
+            <div class="brand-spec-value">Godt kalibrert</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Flex-kalibrering</div>
+            <div class="brand-spec-value">God konsistens</div>
+          </div>
+        </div>
+        <p style="font-size:14px;color:#444;font-weight:300;line-height:1.7;margin:0 0 12px;">S/Pro-serien er Salomons flaggskip og et godt kalibrert alternativ for medium fot. Salomon er noe av det mest «demokratiske» i markedet — ikke for smalt, ikke for bredt, flexprofilen er konsekvent. Gode for den gjennomsnittlige foten som ikke har ekstreme behov i noen retning. Custom Thermo er Salomons varmeformbare liner og en god oppgradering fra standard.</p>
+        <div class="brand-ideal"><strong>Passer best for:</strong> Medium fot, normal vrist. God startposisjon for førstegangskjøpere med gjennomsnittlig fotprofil.</div>
+      </div>
+
+      <!-- FISCHER -->
+      <div class="brand-card">
+        <div class="brand-card-header">
+          <div class="brand-name">Fischer</div>
+          <span class="brand-fit-tag narrow">Smal — spesielt hælen</span>
+        </div>
+        <div class="brand-specs">
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Lestbredde</div>
+            <div class="brand-spec-value">96–100 mm (modell-avhengig)</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Instep-volum</div>
+            <div class="brand-spec-value">Lavt til medium</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Hælkupp</div>
+            <div class="brand-spec-value">Svært dyp og smal</div>
+          </div>
+          <div class="brand-spec-item">
+            <div class="brand-spec-label">Flex-kalibrering</div>
+            <div class="brand-spec-value">Stiv for sin klasse</div>
+          </div>
+        </div>
+        <p style="font-size:14px;color:#444;font-weight:300;line-height:1.7;margin:0 0 12px;">Fischer RC4-serien er en av de mest performance-orienterte på markedet. Smal lest, spesielt smal hæl, og et lavt instep-volum som gir ekstremt presis kraftoverføring for den rette foten — men som er nær ubehagelig for alle andre. Fischer er ikke en supporterende støvel; den er et instrument for foten som allerede er smal og anatomisk presis. For de riktige føttene er det en utmerket støvel.</p>
+        <div class="brand-ideal"><strong>Passer best for:</strong> Smal, performance-fokusert skiløper med lav vrist og presis hælanatomi. Ikke en støvel for gjennomsnittsfoten.</div>
+      </div>
+
+      <div class="article-divider"></div>
+
+      <h2>Flex-sammenligning: tallet lyver litt</h2>
+
+      <div class="flex-note">
+        <div class="flex-note-title">Viktig merknad</div>
+        Flex-indeksen er <strong>ikke standardisert</strong> på tvers av merker. Det er ingen bransjestandard som definerer hva «flex 100» betyr i newtonmeter. Hvert merke måler og merker internt — og noen er kjent for å avvike systematisk fra markedsgjennomsnittet.
+        <br/><br/>
+        <strong>Tommelfingerregel:</strong> Lange kjøres konsekvent stivere enn oppgitt. Fischer tilsvarende. Atomic, Tecnica og Nordica ligger nærmere sitt merkenummer. Salomon er jevnt over godt kalibrert.
+        <br/><br/>
+        Konklusjon: Test alltid flex i kalde temperaturer (under 5°C). Innendørs i en varm butikk er alle støvler «mykere» enn de vil være på fjellet.
+      </div>
+
+      <table class="comparison-table">
+        <thead>
+          <tr>
+            <th>Merke</th>
+            <th>Oppgitt flex 100</th>
+            <th>Faktisk stivhet (estimat)</th>
+            <th>Lest-profil</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Lange</strong></td>
+            <td>Flex 100</td>
+            <td>≈ 110–115 i realiteten</td>
+            <td>Smal, dyp hæl</td>
+          </tr>
+          <tr>
+            <td><strong>Fischer</strong></td>
+            <td>Flex 100</td>
+            <td>≈ 108–112 i realiteten</td>
+            <td>Smal, lav instep</td>
+          </tr>
+          <tr>
+            <td><strong>Atomic</strong></td>
+            <td>Flex 100</td>
+            <td>≈ 100 i realiteten</td>
+            <td>Medium-bred</td>
+          </tr>
+          <tr>
+            <td><strong>Salomon</strong></td>
+            <td>Flex 100</td>
+            <td>≈ 98–102 i realiteten</td>
+            <td>Medium</td>
+          </tr>
+          <tr>
+            <td><strong>Tecnica</strong></td>
+            <td>Flex 100</td>
+            <td>≈ 95–100 i realiteten</td>
+            <td>Medium-bred, høy instep</td>
+          </tr>
+          <tr>
+            <td><strong>Nordica</strong></td>
+            <td>Flex 100</td>
+            <td>≈ 90–98 i realiteten</td>
+            <td>Bred</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="article-divider"></div>
+
+      <h2>De vanligste feilene vi ser i butikken</h2>
+
+      <div class="myth-grid">
+        <div class="myth-card busted">
+          <div class="myth-label">Vanlig feil #1</div>
+          <div class="myth-claim">«Jeg kjøpte det merket fordi profiløperen bruker det»</div>
+          <div class="myth-reality">Profiløperne fikk støvlene støpt og tilpasset av et team av bootfittere. Støvelen du kjøper i butikk er ikke det de skier på. Lestgeometrien er heller ikke kalibrert for din fot.</div>
+        </div>
+
+        <div class="myth-card busted">
+          <div class="myth-label">Vanlig feil #2</div>
+          <div class="myth-claim">«Dyrere støvel betyr bedre passform»</div>
+          <div class="myth-reality">Dyre støvler er gjerne smalere og stivere — optimalisert for racing og performance, ikke for norsk gjennomsnittsfot. De passer spesifikke fottyper ekstremt godt, og alle andre dårlig.</div>
+        </div>
+
+        <div class="myth-card busted">
+          <div class="myth-label">Vanlig feil #3</div>
+          <div class="myth-claim">«Jeg tok det samme merket som sist — det pleide å passe»</div>
+          <div class="myth-reality">Merker endrer lestgeometri mellom produktgenerasjoner. En Atomic Hawx fra 2018 er ikke identisk med en Hawx fra 2024. Ta skalltesten på nytt. Ikke anta.</div>
+        </div>
+
+        <div class="myth-card busted">
+          <div class="myth-label">Vanlig feil #4</div>
+          <div class="myth-claim">«Butikkansatt sa dette var det beste merket»</div>
+          <div class="myth-reality">De fleste sportsbutikker har ikke bootfittere — de har selgere. En god selger kan anbefale riktig merke for deg. Men de mangler som oftest verktøyene og kunnskapen til å sikre riktig passform.</div>
+        </div>
+      </div>
+
+      <div class="article-divider"></div>
+
+      <h2>Tre ting som faktisk avgjør merkevalget</h2>
+
+      <ul class="decision-list">
+        <li>
+          <div class="decision-num">1</div>
+          <div><strong>Lestgeometrien matcher din fot.</strong> Sett foten inn i plastskallet uten innerstøvelen. Kjenn etter: er det rom nok over tærne? Sitter hælen presist? Klemmer det over vristen? Disse svarene trumfer alle merkenavn og prisnivå. Det finnes ingen substittut for den testen.</div>
+        </li>
+        <li>
+          <div class="decision-num">2</div>
+          <div><strong>Flex matcher din vekt og skiestil.</strong> En lett skiløper på 60 kg trenger annen flex enn en tekniker på 90 kg. En freeride-skiløper trenger annen flex enn en slalåmkjører. Tommelfingerregel: kg kroppsvekt ÷ 1,0 = omtrentlig flex for avansert kjøring. Under 70 kg? Vurder flex 80–90 uansett hva butikken sier.</div>
+        </li>
+        <li>
+          <div class="decision-num">3</div>
+          <div><strong>Skallet er servicebart.</strong> Kan bootfitteren jobbe med dette skallet? Noen modeller har begrensninger for blokking og varmeforming. Et skall av god kvalitet som en bootfitter kan tilpasse er alltid bedre enn et «perfekt» skall i original tilstand som aldri kan justeres.</div>
+        </li>
+      </ul>
+
+      <div class="from-the-shop">
+        <div class="section-wrap-narrow">
+          <div class="section-label">Fra butikken</div>
+          <blockquote>«Vi selger ikke støvler basert på merke. Vi selger dem basert på hvilken lest som passer foten foran oss best. Noen uker selger vi mest Nordica. Andre uker mest Atomic. Det avhenger av hvem som kommer inn døren — ikke av hva vi har fått inn på lager.»</blockquote>
+          <p class="quote-credit">— Surefoot Oslo, om merkeuavhengig rådgivning</p>
+        </div>
+      </div>
+
+      <div class="article-divider"></div>
+
+      <h2>Damestøvler: ikke bare herreavdelingen i rosa</h2>
+
+      <p>De fleste merker lager dame-spesifikke lester. Det er ikke markedsføring — det reflekterer genuine anatomiske forskjeller. Kvinner har typisk smalere skaft, kortere tå-areal og annen hælgeometri enn menn. Damestøvler er konstruert for å ta høyde for dette.</p>
+
+      <p>Men — og dette er viktig — «dame» er ikke en garanti for passform. En dame med bred fot kan trenge en allround herrestøvel i junior-størrelse. En dame med høy vrist trenger Tecnica eller Atomic, ikke den smaleste damemodellen. Kjønn er et utgangspunkt, ikke en konklusjon.</p>
+
+      <p>Unngå å kjøpe damestøvel bare fordi du er dame, eller herrestøvel bare fordi du er mann. Lestgeometrien avgjør. Alltid.</p>
+
+    </div><!-- /.article-body -->
+  </div>
+</section>
+
+<!-- BOOKING -->
+<section class="booking-section">
+  <h2 class="serif">Usikker på hvilket merke<br/><em>som passer din fot?</em></h2>
+  <p>Vi har støvler fra alle de store merkene på lager og gjennomfører skalltesten for deg — gratis. Ingen salgspress, bare riktig passform.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-white">Book gratis vurdering</a>
+    <a href="tel:22442112" class="btn-border">Ring 22 44 21 12</a>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="bg-light">
+  <div class="section-wrap-narrow">
+    <div class="section-label">Spørsmål og svar</div>
+    <h2 class="section-h2">Vanlige spørsmål</h2>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Betyr det noe hvilket merke alpinstøvel jeg kjøper?<span>+</span></button></div>
+      <div class="faq-a"><p>Alle de store merkene lager godt konstruerte støvler. Forskjellen er lestgeometrien — bredde, instep-volum, hælkupp-dybde og tå-høyde. Riktig merke er merket som passer din spesifikke fot, ikke merket som koster mest eller som profiløperen bruker.</p></div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Er Lange flex 100 det samme som Atomic flex 100?<span>+</span></button></div>
+      <div class="faq-a"><p>Nei. Flex-indeksen er ikke standardisert på tvers av merker. Lange er tradisjonelt kjent for å kjøre stivere enn oppgitt — Lange 100 oppfører seg ofte som det konkurrentene kaller 110–115. Atomic og Nordica ligger nærmere sitt oppgitte tall. Test alltid flex i kalde temperaturer, eller spør en bootfitter.</p></div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Hva betyr lestgeometri, og hvorfor er det viktigere enn merke?<span>+</span></button></div>
+      <div class="faq-a"><p>Lestgeometrien er formen på plastskallet: bredden over tåballen, høyden over vristen (instep), dybden på hælkuppen, og tå-høyden. Alle disse dimensjonene varierer mellom merker — og ingen av dem fremgår av et produktblad. En fot som er 102 mm bred over tåballen passer fundamentalt bedre i Nordica enn Lange, uavhengig av pris eller teknologi.</p></div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Bør kvinner kjøpe damestøvler eller herrестøvler?<span>+</span></button></div>
+      <div class="faq-a"><p>De fleste merker lager dame-spesifikke lester — ikke bare herreavdelingen i annen farge. Damestøvler er typisk smalere i skaftet med lavere instep-volum. For kvinner med bred fot eller høyt instep-volum kan imidlertid en herrestøvel i junior-størrelse eller en bred damemodell fungere bedre. Velg basert på lestgeometri, ikke kjønnskategori alene.</p></div>
+    </div>
+
+  </div>
+</section>
+
+<!-- RELATED ARTICLES -->
+<section>
+  <div class="section-wrap-narrow">
+    <div class="section-label">Les mer</div>
+    <h2 class="section-h2">Relaterte guider</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;margin-top:32px;">
+      <a href="/flex-indeks-alpinstovler/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Teknisk guide</div>
+        <strong>Flex-indeks forklart</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Hva betyr flex-tallet, hvorfor er det ikke standardisert, og hva bør du ha basert på vekt og nivå.</p>
+      </a>
+      <a href="/bred-fot-alpinstovler/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Passproblemer</div>
+        <strong>Bred fot i alpinstøvler</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Hvilke merker og modeller som fungerer for bred fot — og hva bootfitting kan gjøre der støvelen ikke strekker til.</p>
+      </a>
+      <a href="/smal-fot-alpinstovler/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Passproblemer</div>
+        <strong>Smal fot i alpinstøvler</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Hvorfor smal fot i bred støvel er like ille som bred fot i smal støvel — og hva du gjør med det.</p>
+      </a>
+      <a href="/hva-er-bootfitting/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Bootfitting</div>
+        <strong>Hva er bootfitting?</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">En komplett guide til hva bootfitting faktisk innebærer — og hva du kan forvente fra en time hos oss.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo serif">Surefoot Oslo</div>
+      <p>Skiglede spesialistene — Norges spesialbutikk for spesialbygde alpinstøvler.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Guider</h4>
+      <ul>
+        <li><a href="/hva-er-bootfitting/">Hva er bootfitting?</a></li>
+        <li><a href="/mondopoint-alpinstovler/">Mondopoint guide</a></li>
+        <li><a href="/kalde-foetter-alpinstovler/">Kalde føtter</a></li>
+        <li><a href="/bred-fot-alpinstovler/">Bred fot</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om oss</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12 · oslo@surefoot.no</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/" style="font-size:12px;color:#333;">Personvern</a>
+      <a href="/kjopsvilkar/" style="font-size:12px;color:#333;">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  function toggle(btn) {
+    const item = btn.closest('.faq-item');
+    item.classList.toggle('open');
+  }
+</script>
+<script src="/main.js"></script>
+</body>
+</html>

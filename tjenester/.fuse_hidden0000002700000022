@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Tjenester og priser — Surefoot Oslo</title>
+<meta name="description" content="Full prisoversikt: gratis 15-min vurdering, full bootfitting 7 550 kr, formstøpte såler 2 950 kr (påfølgende par 2 350 kr), blokking 750 kr per punkt." />
+<link rel="canonical" href="https://www.surefoot.no/tjenester/" />
+<link rel="icon" type="image/png" href="/assets/favicon-80x80.png" />
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+
+<div class="utility-strip">
+  <a href="https://surefootskiing.as.me" target="_blank">Klikk her for å bestille time</a>
+  <span class="sep">·</span><span>Gratis 15-min vurdering</span>
+  <span class="sep">·</span><span>Karenslyst Allé, Skøyen</span>
+</div>
+<nav class="site-nav">
+  <a href="/" class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:36px; width:auto; display:block;"></a>
+  <ul class="nav-links">
+    <li><a href="/bootfitting/" >Bootfitting</a></li>
+    <li><a href="/alpinstovler/" >Alpinstøvler</a></li>
+    <li><a href="/innerstovler/" >Innerstøvler</a></li>
+    <li><a href="/saler/" >Såler</a></li>
+    <li><a href="/tjenester/" class="active">Tjenester</a></li>
+    <li><a href="/faq/" >FAQ</a></li>
+    <li><a href="/om-oss/" >Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<section class="page-hero">
+  <div class="hero-veil"></div>
+  <div class="hero-inner" style="grid-template-columns:1fr;">
+    <div>
+      <div class="breadcrumb">
+        <span>Surefoot Oslo</span><span style="opacity:0.4;">/</span>
+        <span class="accent">Tjenester og priser</span>
+      </div>
+      <h1>Tjenester og priser.<br/><em>Alt synlig</em>, ingenting skjult.</h1>
+      <p class="lead">Fra en rask 15-minutters vurdering til full custom bootfitting. Hver tjeneste prises åpent — vi skjuler ikke hva det koster. Vi skaper skiglede.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="section-wrap">
+    <table class="services-table">
+      <tbody>
+        <tr>
+          <td class="svc-num">01</td>
+          <td>
+            <div class="svc-name">15-minutters vurdering</div>
+            <div class="svc-desc">Vi ser på føttene og eksisterende støvler. Gir en ærlig anbefaling. Ingen forpliktelse om å kjøpe noe.</div>
+          </td>
+          <td class="svc-price">
+            <div class="svc-price-main"><span class="badge-free">Gratis</span></div>
+            <div class="svc-price-sub">15 minutter</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="svc-num">02</td>
+          <td>
+            <div class="svc-name">Full custom bootfitting</div>
+            <div class="svc-desc">3D-skann, formstøpt såle, foam-injisert innerstøvel og skall-tilpasning. Alt inkludert. Skriftlig fit guarantee.</div>
+          </td>
+          <td class="svc-price">
+            <div class="svc-price-main">7 550 kr</div>
+            <div class="svc-price-sub">Ca. 90 minutter</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="svc-num">03</td>
+          <td>
+            <div class="svc-name">Formstøpte såler — første par</div>
+            <div class="svc-desc">Custom 3D-frest EVA-såle. Passer i ski-, løpe-, sykkel-, fjell- og hverdagssko.</div>
+          </td>
+          <td class="svc-price">
+            <div class="svc-price-main">2 950 kr</div>
+            <div class="svc-price-sub">60 minutter</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="svc-num">04</td>
+          <td>
+            <div class="svc-name">Formstøpte såler — påfølgende par</div>
+            <div class="svc-desc">Ny såle basert på eksisterende skann. Du trenger ikke å komme inn for ny måling.</div>
+          </td>
+          <td class="svc-price">
+            <div class="svc-price-main">2 350 kr</div>
+            <div class="svc-price-sub">30 min · samme dag</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="svc-num">05</td>
+          <td>
+            <div class="svc-name">Foam-injisert custom innerstøvel</div>
+            <div class="svc-desc">Surefoots signaturløsning. Memory Foam injiseres under trykk og stivner rundt din anatomi — 100% custom etter foten din.</div>
+          </td>
+          <td class="svc-price">
+            <div class="svc-price-main">Ring for pris</div>
+            <div class="svc-price-sub">Ca. 45 min</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="svc-num">06</td>
+          <td>
+            <div class="svc-name">Blokking og fresing</div>
+            <div class="svc-desc">Tilpasning av skallet på støvler du har fra før. Varming, blokking og fresing der det trykker. (Pris gjelder støvler ikke kjøpt hos oss.)</div>
+          </td>
+          <td class="svc-price">
+            <div class="svc-price-main">750 kr</div>
+            <div class="svc-price-sub">Per punkt · 60–90 min</div>
+          </td>
+        </tr>
+        <tr>
+          <td class="svc-num">07</td>
+          <td>
+            <div class="svc-name">Topptur og randonée</div>
+            <div class="svc-desc">Tecnica Decoy, Nordica Unlimited, Atomic. Scarpa og Dynafit i Grilamid kan ikke tilpasses vesentlig.</div>
+          </td>
+          <td class="svc-price">
+            <div class="svc-price-main">Ring for pris</div>
+            <div class="svc-price-sub">Avhenger av modell</div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section class="section--paper">
+  <div class="section-wrap">
+    <div style="display:grid; grid-template-columns:1fr 1.6fr; gap:64px;">
+      <div>
+        <div class="eyebrow">Fit guarantee</div>
+        <h2 class="section-h2" style="max-width:14ch;">Vi tar ansvar.</h2>
+      </div>
+      <div style="font-size:17px; line-height:1.7; color:#222;">
+        <p style="margin-bottom:20px;">
+          Hvis støvelen ikke passer perfekt etter første skidag, kommer du tilbake. Vi justerer skall, liner eller såle — så mange ganger som trengs, gratis, innen rimelig brukstid. Vi er romslige. Skriftlig på alle fitting-pakker.
+        </p>
+        <p>
+          Vi vinner ikke et oppdrag før du har stått på ski uten smerte. Det er hele forretningsmodellen.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="booking-section">
+  <div class="eyebrow eyebrow--on-dark" style="color:rgba(255,255,255,0.85);">Klar til neste steg?</div>
+  <h2>Book.</h2>
+  <p>Femten minutter, gratis. Vi gir en ærlig anbefaling — kjøp først etterpå.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-primary btn-lg">Book gratis vurdering →</a>
+    <a href="tel:22442112" class="btn-ghost-light btn-lg">Ring 22 44 21 12</a>
+  </div>
+</section>
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:28px; width:auto; display:block; opacity:0.92;"></div>
+      <p>Surefoot Oslo · Karenslyst Allé, Skøyen · Siden 2004</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Produkter</h4>
+      <ul>
+        <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk →</a></li>
+        <li><a href="https://surefootskiing.as.me" target="_blank">Book time →</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram ↗</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div>© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/">Personvern</a>
+      <a href="/kjopsvilkar/">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+<div class="sticky-book" id="stickyBook">
+  <div class="sticky-book-msg">
+    <span class="accent">Gratis</span> 15-min vurdering
+    <span class="sub">Ingen forpliktelse · Karenslyst Allé · Ledige tider denne uka</span>
+  </div>
+  <a href="https://surefootskiing.as.me" target="_blank" class="sticky-book-btn">Book time →</a>
+</div>
+<script src="/main.js"></script>
+</body></html>
