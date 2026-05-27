@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kjøpsvilkår — Surefoot Oslo</title>
+  <meta name="description" content="Kjøpsvilkår for Surefoot Oslo. Les om priser, betaling, angrerett og reklamasjonsrett for produkter og tjenester." />
+  <link rel="canonical" href="https://www.surefoot.no/kjopsvilkar/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+  <style>
+    .legal-body {
+      max-width: 720px;
+    }
+    .legal-body h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 22px;
+      letter-spacing: -0.3px;
+      margin: 48px 0 16px;
+      color: #111;
+    }
+    .legal-body h3 {
+      font-size: 15px;
+      font-weight: 600;
+      margin: 28px 0 10px;
+      color: #111;
+    }
+    .legal-body p {
+      font-size: 15px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.75;
+      margin-bottom: 16px;
+    }
+    .legal-body ul {
+      margin: 0 0 16px 20px;
+    }
+    .legal-body ul li {
+      font-size: 15px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.75;
+      margin-bottom: 6px;
+    }
+    .legal-meta {
+      font-size: 13px;
+      color: #aaa;
+      font-weight: 300;
+      margin-bottom: 56px;
+    }
+    .legal-divider {
+      height: 1px;
+      background: #e8e8e8;
+      margin: 56px 0;
+    }
+    .price-note {
+      background: #f9f8f6;
+      border-left: 3px solid #c25f2e;
+      padding: 20px 24px;
+      margin: 24px 0;
+      font-size: 14px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.7;
+    }
+  </style>
+</head>
+<body>
+
+
+
+<!-- NAV -->
+<nav class="site-nav">
+  <a href="/" class="logo">Surefoot Oslo</a>
+  <ul class="nav-links">
+    <li><a href="/tjenester/">Tjenester</a></li>
+    <li><a href="/bootfitting/">Bootfitting</a></li>
+    <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+    <li><a href="/innerstovler/">Innerstøvler</a></li>
+    <li><a href="/saler/">Såler</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div class="page-hero">
+  <div class="page-hero-inner">
+    <div class="section-label">Juridisk</div>
+    <h1>Kjøpsvilkår</h1>
+    <p class="lead">Vilkår for kjøp av produkter og tjenester fra Surefoot Oslo.</p>
+  </div>
+</div>
+
+<!-- CONTENT -->
+<section>
+  <div class="section-wrap">
+    <div class="legal-body">
+
+      <p class="legal-meta">Sist oppdatert: mai 2026</p>
+
+      <p>Disse vilkårene gjelder ved kjøp av produkter og tjenester fra Surefoot Norway AS, enten det skjer i butikk, via telefon eller via vår nettbutikk (surefootoslo.myshopify.com). Ved å gjennomføre et kjøp aksepterer du disse vilkårene.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>1. Selger</h2>
+      <p>
+        <strong>Surefoot Norway AS</strong><br/>
+        Karenslyst Allé 12–14, 0278 Oslo<br/>
+        Org.nr.: 987 444 517<br/>
+        E-post: <a href="mailto:oslo@surefoot.no" style="color:#c25f2e;">oslo@surefoot.no</a><br/>
+        Telefon: <a href="tel:22442112" style="color:#c25f2e;">22 44 21 12</a>
+      </p>
+
+      <div class="legal-divider"></div>
+
+      <h2>2. Priser</h2>
+      <p>Alle priser er oppgitt i norske kroner (NOK) og inkluderer merverdiavgift (MVA) der dette er aktuelt. Vi forbeholder oss retten til å endre priser uten varsel. Prisen som gjelder er den som er bekreftet på bestillingstidspunktet.</p>
+
+      <div class="price-note">
+        <strong>Gjeldende priser for tjenester:</strong><br/>
+        Komplett bootfitting: fra kr 7.550 (innerstøvler inkludert) eller fra kr 5.950 (uten innerstøvler)<br/>
+        Formstøpte såler: kr 1.695 (etterpar kr 1.495)<br/>
+        Formstøping av innerstøvler: fra kr 2.600<br/>
+        Termisk blokking: fra kr 350<br/>
+        Gratis 15-minutters vurdering: kr 0
+      </div>
+
+      <p>Prisene ovenfor er veiledende. Endelig pris avtales etter konsultasjon og avhenger av valgt utstyr og omfang av tilpasning. Vi gir alltid et tydelig tilbud før arbeid påbegynnes.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>3. Betaling</h2>
+      <p>Tjenester utført i butikk betales ved avhenting. Vi aksepterer bankkort (Visa, Mastercard), Vipps og kontanter.</p>
+      <p>Kjøp i nettbutikken (surefootoslo.myshopify.com) behandles av Shopify Payments. Betaling skjer ved bestilling. Vi aksepterer Visa, Mastercard og Klarna.</p>
+      <p>Vi utsteder kvittering og/eller faktura ved alle kjøp.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>4. Tjenester — bootfitting og tilpasning</h2>
+
+      <h3>Avtale og gjennomføring</h3>
+      <p>Tjenester bestilles via timebestillingssystemet på surefootskiing.as.me eller ved direkte kontakt. En time er bindende; avbestilling må skje senest 24 timer i forveien for å unngå gebyr.</p>
+
+      <h3>Garanti på tilpasningsarbeid</h3>
+      <p>Vi tilbyr justeringer uten ekstra kostnad dersom resultatet av en tilpasning ikke er som forventet — forutsatt at støvlene brukes som avtalt og at du melder fra innen rimelig tid (normalt innen én skisesong). Dette er i tillegg til dine lovfestede rettigheter.</p>
+
+      <h3>Angrerett på tjenester</h3>
+      <p>Etter angrerettloven har du som forbruker 14 dagers angrerett ved fjernsalg (telefon, e-post). Dersom du eksplisitt ber om at tjenesten påbegynnes umiddelbart og tjenesten er fullstendig utført, bortfaller angreretten. For tjenester kjøpt og utført i butikk gjelder ikke angrerettloven, men du er selvsagt alltid velkommen til å kontakte oss hvis du ikke er fornøyd.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>5. Produkter — nettbutikk</h2>
+
+      <h3>Leveringstid</h3>
+      <p>Produkter bestilt via nettbutikken leveres normalt innen 3–7 virkedager til norske adresser. Vi sender med Bring/Posten. Du mottar sporingslenke per e-post når pakken er sendt.</p>
+
+      <h3>Angrerett på produkter</h3>
+      <p>Du har 14 dagers angrerett fra den dagen du mottar produktet, i samsvar med angrerettloven. For å benytte angreretten må du gi oss beskjed innen 14 dager (e-post til <a href="mailto:oslo@surefoot.no" style="color:#c25f2e;">oslo@surefoot.no</a>) og returnere produktet i ubrukt stand og original emballasje. Returkostnader dekkes av deg. Vi refunderer kjøpesummen inkl. ordinær frakt så snart vi har mottatt returen.</p>
+      <p><strong>Unntak fra angrerett:</strong> Spesialtilpassede produkter (f.eks. individuelt formstøpte innerstøvler eller såler produsert etter dine mål) kan ikke returneres, da disse er laget spesifikt for deg.</p>
+
+      <h3>Reklamasjon</h3>
+      <p>Du har reklamasjonsrett i 2 år etter forbrukerkjøpsloven. Gjelder produktet en gjenstand som er ment å vare vesentlig lenger, er reklamasjonsretten 5 år. Dersom produktet har en mangel som vi er ansvarlige for, vil vi reparere, bytte eller refundere etter avtale. Reklamasjon meldes til <a href="mailto:oslo@surefoot.no" style="color:#c25f2e;">oslo@surefoot.no</a> eller på telefon 22 44 21 12.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>6. Klager og tvisteløsning</h2>
+      <p>Vi ønsker å løse eventuelle problemer direkte med deg. Ta kontakt på <a href="mailto:oslo@surefoot.no" style="color:#c25f2e;">oslo@surefoot.no</a> eller ring 22 44 21 12 — vi er tilgjengelige i åpningstiden og tar alle henvendelser på alvor.</p>
+      <p>Dersom vi ikke kommer frem til en løsning, kan du bringe saken inn for <a href="https://www.forbrukerradet.no" target="_blank" rel="noopener" style="color:#c25f2e;">Forbrukerrådet</a> (Pb. 463 Sentrum, 0105 Oslo, tlf. 23 400 500). EU-kommisjonen har også en plattform for nettbasert tvisteløsning: <a href="https://ec.europa.eu/consumers/odr" target="_blank" rel="noopener" style="color:#c25f2e;">ec.europa.eu/consumers/odr</a>.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>7. Personvern</h2>
+      <p>Informasjon om hvordan vi behandler dine personopplysninger finner du i vår <a href="/personvern/" style="color:#c25f2e;">personvernerklæring</a>.</p>
+
+      <h2>8. Gjeldende lov</h2>
+      <p>Disse vilkårene er underlagt norsk lov. Eventuelle tvister avgjøres ved norske domstoler med Oslo tingrett som verneting, med mindre annet følger av preseptorisk lovgivning.</p>
+
+      <h2>9. Endringer</h2>
+      <p>Vi kan oppdatere disse vilkårene ved behov. Kjøp foretatt under gjeldende vilkår er alltid underlagt de vilkårene som var aktive på kjøpstidspunktet.</p>
+
+      <h2>10. Kontakt</h2>
+      <p>Spørsmål om kjøpsvilkår kan rettes til:<br/>
+      <a href="mailto:oslo@surefoot.no" style="color:#c25f2e;">oslo@surefoot.no</a> · 22 44 21 12 · Karenslyst Allé 12–14, 0278 Oslo</p>
+
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo serif">Surefoot Oslo</div>
+      <p>Norges eneste spesialist på spesialbygde alpinstøvler. Del av Surefoot Global.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Produkter</h4>
+      <ul>
+        <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om oss</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12 · oslo@surefoot.no</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/" style="font-size:12px;color:#333;">Personvern</a>
+      <a href="/kjopsvilkar/" style="font-size:12px;color:#333;">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+
+<script src="/main.js"></script>
+</body>
+</html>
