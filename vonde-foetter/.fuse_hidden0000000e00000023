@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vonde føtter på ski? Vi vet hva som hjelper</title>
+  <meta name="description" content="Vonde føtter, numne tær eller tryner på ski? Surefoot Oslo finner årsaken og fikser det. Gratis 15-minutters vurdering på Skøyen." />
+  <link rel="canonical" href="https://www.surefoot.no/vonde-foetter/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+  <style>
+    .symptom-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 48px;
+    }
+    .symptom-table tr {
+      border-top: 1px solid #e8e8e8;
+    }
+    .symptom-table tr:last-child {
+      border-bottom: 1px solid #e8e8e8;
+    }
+    .symptom-table tr:hover td {
+      background: #f9f8f6;
+    }
+    .symptom-table td {
+      padding: 24px 0;
+      vertical-align: top;
+    }
+    .sym-num {
+      font-family: 'DM Serif Display', serif;
+      font-size: 28px;
+      color: #e8e8e8;
+      width: 56px;
+      padding-right: 24px;
+      padding-top: 2px;
+      line-height: 1.1;
+      flex-shrink: 0;
+    }
+    .sym-problem {
+      font-size: 16px;
+      font-weight: 600;
+      color: #111;
+      margin-bottom: 4px;
+    }
+    .sym-cause {
+      font-size: 14px;
+      color: #777;
+      font-weight: 300;
+      line-height: 1.6;
+    }
+    .sym-arrow {
+      font-size: 13px;
+      color: #c25f2e;
+      font-weight: 600;
+      padding: 0 20px;
+      width: 40px;
+      text-align: center;
+    }
+    .solution-list {
+      list-style: none;
+      padding: 0;
+      margin-top: 24px;
+    }
+    .solution-list li {
+      padding: 16px 0;
+      border-bottom: 1px solid #e8e8e8;
+      font-size: 15px;
+      color: #444;
+      font-weight: 300;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+    }
+    .solution-list li::before {
+      content: '';
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #c25f2e;
+      flex-shrink: 0;
+      margin-top: 8px;
+    }
+    .solution-list li strong {
+      font-weight: 600;
+      color: #111;
+      display: block;
+      margin-bottom: 2px;
+    }
+  </style>
+</head>
+<body>
+
+
+
+<!-- NAV -->
+<nav class="site-nav">
+  <a href="/" class="logo">Surefoot Oslo</a>
+  <ul class="nav-links">
+    <li><a href="/tjenester/">Tjenester</a></li>
+    <li><a href="/bootfitting/">Bootfitting</a></li>
+    <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+    <li><a href="/innerstovler/">Innerstøvler</a></li>
+    <li><a href="/saler/">Såler</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div class="page-hero">
+  <div class="page-hero-inner">
+    <div class="section-label">Smerter og tilpasning</div>
+    <h1>Vonde føtter på ski?<br/><em>Det skal ikke være slik.</em></h1>
+    <p class="lead">Smerter, tryner, numne tær eller dårlig kontroll — det handler nesten alltid om støvelen, ikke kjøreteknikken.</p>
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-dark">Book gratis vurdering</a>
+  </div>
+</div>
+
+<!-- STRIP -->
+<div class="strip">
+  <div class="strip-item"><span class="strip-dot"></span>Gratis 15-min vurdering</div>
+  <div class="strip-item"><span class="strip-dot"></span>Vi ser på foten og støvelen</div>
+  <div class="strip-item"><span class="strip-dot"></span>Ærlig anbefaling</div>
+  <div class="strip-item"><span class="strip-dot"></span>Ingen forpliktelse</div>
+</div>
+
+<!-- SYMPTOM LIST -->
+<section>
+  <div class="section-wrap">
+    <div class="section-label">Kjenner du deg igjen?</div>
+    <h2 class="section-h2">Disse plagene har vi løst<br/>hundrevis av ganger</h2>
+    <table class="symptom-table">
+      <tbody>
+        <tr>
+          <td class="sym-num">01</td>
+          <td>
+            <div class="sym-problem">Tryner og baller som setter</div>
+            <div class="sym-cause">Oftest for trangt foran i støvelen. Skallet klemmer mot stortå og yttertå. Løses med blokking og fresing, eller ny støvel med bredere tårom.</div>
+          </td>
+          <td class="sym-arrow">→</td>
+          <td style="font-size:13px;color:#aaa;padding-left:8px;width:180px;font-weight:300;">Blokking og fresing fra 350 kr</td>
+        </tr>
+        <tr>
+          <td class="sym-num">02</td>
+          <td>
+            <div class="sym-problem">Numne tær</div>
+            <div class="sym-cause">Trykkpunkt som presser på nerver og blodkar. Kan skyldes støvelen er for trang, for løs (foten beveger seg), eller dårlig sirkulasjon i kald innerstøvel.</div>
+          </td>
+          <td class="sym-arrow">→</td>
+          <td style="font-size:13px;color:#aaa;padding-left:8px;width:180px;font-weight:300;">Innerstøvel + tilpasning</td>
+        </tr>
+        <tr>
+          <td class="sym-num">03</td>
+          <td>
+            <div class="sym-problem">Hælen løfter seg</div>
+            <div class="sym-cause">Støvelen er for stor eller for løs. Foten sklir opp ved bøying, noe som gir blemmer, dårlig kontroll og slitasje på innerstøvelen.</div>
+          </td>
+          <td class="sym-arrow">→</td>
+          <td style="font-size:13px;color:#aaa;padding-left:8px;width:180px;font-weight:300;">Tilpasning av hælparti</td>
+        </tr>
+        <tr>
+          <td class="sym-num">04</td>
+          <td>
+            <div class="sym-problem">Vondt i ryggen</div>
+            <div class="sym-cause">Feil sålestøtte gir pronasjon — foten vinkles innover — som belaster kne, hofte og rygg. En formstøpt sål korrigerer stillingen gjennom hele biomekanikken.</div>
+          </td>
+          <td class="sym-arrow">→</td>
+          <td style="font-size:13px;color:#aaa;padding-left:8px;width:180px;font-weight:300;">Formstøpte såler</td>
+        </tr>
+        <tr>
+          <td class="sym-num">05</td>
+          <td>
+            <div class="sym-problem">Kneplager</div>
+            <div class="sym-cause">Feilstilling i foten overføres direkte til kneet. Kombinasjon av riktig sål og innerstøvel i riktig posisjon kan gi stor effekt — uten fysioterapi.</div>
+          </td>
+          <td class="sym-arrow">→</td>
+          <td style="font-size:13px;color:#aaa;padding-left:8px;width:180px;font-weight:300;">Sål + innerstøvel</td>
+        </tr>
+        <tr>
+          <td class="sym-num">06</td>
+          <td>
+            <div class="sym-problem">Kalde føtter</div>
+            <div class="sym-cause">Dårlig innerstøvel med hull rom lar kald luft sirkulere. En innerstøvel som former seg tett rundt foten eliminerer hulrommene og holder varmen.</div>
+          </td>
+          <td class="sym-arrow">→</td>
+          <td style="font-size:13px;color:#aaa;padding-left:8px;width:180px;font-weight:300;">Custom innerstøvel</td>
+        </tr>
+        <tr>
+          <td class="sym-num">07</td>
+          <td>
+            <div class="sym-problem">Blemmer på ankelen</div>
+            <div class="sym-cause">Skallet gnisser mot ankelen på grunn av et trykkpunkt. Kan løses med blokking på akkurat det stedet uten å gjøre store endringer i resten av støvelen.</div>
+          </td>
+          <td class="sym-arrow">→</td>
+          <td style="font-size:13px;color:#aaa;padding-left:8px;width:180px;font-weight:300;">Blokking fra 350 kr</td>
+        </tr>
+        <tr>
+          <td class="sym-num">08</td>
+          <td>
+            <div class="sym-problem">Generell tretthet i leggene</div>
+            <div class="sym-cause">Kroppen bruker mye energi på å kompensere for dårlig passform. Musklene jobber konstant for å stabilisere en fot som ikke sitter riktig. Riktig støvel gir energien tilbake.</div>
+          </td>
+          <td class="sym-arrow">→</td>
+          <td style="font-size:13px;color:#aaa;padding-left:8px;width:180px;font-weight:300;">Full tilpasning</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<!-- WHAT WE DO -->
+<section class="bg-light">
+  <div class="section-wrap">
+    <div class="section-label">Hva vi gjør</div>
+    <h2 class="section-h2">Vi starter med å høre på deg</h2>
+    <div class="prose" style="margin-top:32px;max-width:640px;">
+      <p>Vi starter med en gratis 15-minutters vurdering. Vi ser på foten din, eksisterende støvler og hører deg fortelle om plagene. Ingen forpliktelse — vi gir deg en ærlig anbefaling om hva som kan hjelpe, og hva som ikke vil gjøre noen forskjell.</p>
+      <p>Noen trenger full bootfitting med ny støvel, ny innerstøvel og formstøpte såler. Andre trenger bare blokking på ett punkt. Vi sier alltid det som er sant — ikke det som er dyrt.</p>
+    </div>
+  </div>
+</section>
+
+<!-- TWO-COL: Solutions + Reassurance -->
+<section>
+  <div class="section-wrap">
+    <div class="two-col">
+      <div>
+        <div class="section-label">Løsninger</div>
+        <h2 class="section-h2">Hva kan vi gjøre?</h2>
+        <ul class="solution-list">
+          <li>
+            <div>
+              <strong>Formstøpte såler — fra 1.695 kr</strong>
+              Laget for din fotbue og biomekanikk. Hjelper ved plattfot, kneplager, ryggplager og generell ubalanse.
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Blokking og fresing — fra 350 kr</strong>
+              Utvidelse av skallet der det klemmer. Tryner, beinutheng, ankler — vi gjør plass der foten trenger det.
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Custom innerstøvel</strong>
+              Memory foam-injeksjon former innerstøvelen eksakt etter foten. Eliminerer hulrom, gir varme og kontroll.
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Full bootfitting — fra 7.550 kr</strong>
+              Ny støvel valgt for din fot, med alt inkludert: 3D-skanning, innerstøvel, såler, tilpasning og fit guarantee.
+            </div>
+          </li>
+        </ul>
+        <div style="margin-top:32px;">
+          <a href="/tjenester/" class="btn-outline-dark">Se alle priser</a>
+        </div>
+      </div>
+      <div>
+        <div class="section-label">Viktig å vite</div>
+        <h2 class="section-h2" style="font-size:clamp(24px,3vw,36px);">Mange trenger egentlig ikke nye støvler</h2>
+        <div class="prose" style="margin-top:24px;">
+          <p>En vanlig misforståelse er at du trenger å kjøpe nye støvler for å bli kvitt problemene. Det stemmer ikke alltid.</p>
+          <p>Veldig mange kan oppnå stor forbedring gjennom blokking, ny innerstøvel eller formstøpte såler i støvlene de allerede eier. Disse tjenestene koster fra 350 kr.</p>
+          <p>Under gratis vurdering ser vi nøytralt på hva som faktisk vil hjelpe deg — uansett om det er en enkel justering eller et fullt nytt oppsett.</p>
+          <p>Vi lever av at kundene er fornøyde og kommer tilbake. Det er ikke i vår interesse å selge deg noe du ikke trenger.</p>
+        </div>
+        <div style="margin-top:32px;">
+          <a href="https://surefootskiing.as.me" target="_blank" class="btn-dark">Book gratis vurdering</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="bg-light">
+  <div class="section-wrap-narrow">
+    <div class="section-label">Spørsmål og svar</div>
+    <h2 class="section-h2">Vanlige spørsmål</h2>
+    <div class="faq-list" style="margin-top:48px;">
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          Hjelper dere med Mortons nevrom?
+          <span class="faq-toggle">+</span>
+        </div>
+        <div class="faq-a">
+          Ja, vi har erfaring med Mortons nevrom. En custom sål med metatarsal-pute, kombinert med en innerstøvel som gir foten mer rom fremover, kan redusere trykket betraktelig. Vi vurderer foten din under gratis vurdering og anbefaler hva vi tror kan hjelpe.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          Jeg har veldig bred fot — kan dere hjelpe?
+          <span class="faq-toggle">+</span>
+        </div>
+        <div class="faq-a">
+          Ja. Bred fot er en av de vanligste grunnene til smerter i alpinstøvler. Vi velger støvler med bredere lest, blokkerer skallet der det er for trangt, og anbefaler C-Heat innerstøvel med ekstra lateral støtte. Book gratis vurdering og ta med eksisterende støvler.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <div class="faq-q" onclick="toggle(this)">
+          Har dere garanti på at det hjelper?
+          <span class="faq-toggle">+</span>
+        </div>
+        <div class="faq-a">
+          Vi tilbyr fit guarantee: opplever du problemer etter tilpasningen, justerer vi gratis. Vi er ikke ferdig før støvlene sitter riktig. Gratis vurdering er uten forpliktelse — vi forteller deg ærlig hva vi tror kan hjelpe og hva som sannsynligvis ikke vil gjøre noen forskjell.
+        </div>
+      </div>
+
+    </div>
+    <div style="margin-top:40px;">
+      <a href="/faq/" class="btn-outline-dark">Se alle spørsmål og svar</a>
+    </div>
+  </div>
+</section>
+
+<!-- BOOKING BANNER -->
+<section class="booking-section">
+  <h2 class="serif">Klar for støvler som <em>faktisk</em><br/>passer deg?</h2>
+  <p>Start med 15 minutters gratis vurdering. Ingen forpliktelse.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-white">Book gratis vurdering</a>
+    <a href="tel:22442112" class="btn-border">Ring 22 44 21 12</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo serif">Surefoot Oslo</div>
+      <p>Skiglede spesialistene — Norges spesialbutikk for spesialbygde alpinstøvler.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Produkter</h4>
+      <ul>
+        <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om oss</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12 · oslo@surefoot.no</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/" style="font-size:12px;color:#333;">Personvern</a>
+      <a href="/kjopsvilkar/" style="font-size:12px;color:#333;">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  function toggle(btn) {
+    const item = btn.closest('.faq-item');
+    item.classList.toggle('open');
+  }
+</script>
+
+<script src="/main.js"></script>
+</body>
+</html>

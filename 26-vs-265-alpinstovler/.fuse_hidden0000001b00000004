@@ -1,0 +1,766 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>26 eller 26,5 i alpinstøvler — betyr det noe? | Surefoot Oslo</title>
+  <meta name="description" content="5 millimeter. I en alpinstøvel er det nok til å ødelegge en hel sesong — i begge retninger. Her er hva halvstørrelse faktisk betyr, og hvordan skalltesten avgjør hva du skal velge." />
+  <link rel="canonical" href="https://www.surefoot.no/26-vs-265-alpinstovler/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "26 eller 26,5 i alpinstøvler — betyr halvstørrelse noe?",
+    "description": "5 millimeter avstand i Mondopoint. I en alpinstøvel kan det avgjøre om du har kantoverføring eller ikke, kalde tær eller varme. Her er alt du trenger å vite om halvstørrelser i alpinstøvler.",
+    "author": {
+      "@type": "Organization",
+      "name": "Surefoot Oslo",
+      "url": "https://www.surefoot.no"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Surefoot Oslo",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://www.surefoot.no/logo.png"
+      }
+    },
+    "datePublished": "2026-05-23",
+    "dateModified": "2026-05-23",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://www.surefoot.no/26-vs-265-alpinstovler/"
+    }
+  }
+  </script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Hvordan gjennomfører jeg skalltesten hjemme?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ta ut innerstøvelen. Sett foten rett inn i plastskallet. Skyv foten fremover til tærne berører fronten (uten å klemme). Mål avstanden bak hælen med en linjal eller to fingre: 10–20 mm er riktig passform for de fleste. Over 25 mm = skallet er for stort. Under 5 mm = skallet er for lite."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Skal tærne treffe foran i alpinstøvelen?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Nesten — ja. Tærne skal berøre eller nesten berøre fronten når du står oppreist i støvelen uten innerstøvelen. Med innerstøvelen inne bøyer du knærne ned i skistilling, og da sklir foten bakover noen millimeter og gir plass. Støvelen som kjennes 'akkurat passe' i butikken med innerstøvelen er nesten alltid for stor."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Jeg er mellom 26 og 26,5 — hva velger jeg?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ta den minste som passer skalltesten. Innerstøvelen komprimerer 3–8 mm med bruk og gjør støvelen effektivt løsere. En støvel som er 'akkurat passe' ny, er for stor etter 15 dager. Gå aldri 'opp for sikkerhets skyld' i alpinstøvler."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Kan jeg gå opp i halvstørrelse for å få mer bredde?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Dette er en av de vanligste feilene vi ser. Noen merker har litt bredere tåboks i 26,5 enn i 26, men å gå opp i lengde for å løse et breddeproblem gir deg to problemer i stedet for ett: for lang støvel og fortsatt feil bredde-profil. Breddeproblem løses med blokking, riktig merke og custom liner — ikke med lengre støvel."
+        }
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    .article-body {
+      max-width: 720px;
+    }
+
+    .article-body h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 28px;
+      letter-spacing: -0.4px;
+      margin: 56px 0 18px;
+      color: #111;
+      line-height: 1.25;
+    }
+
+    .article-body h3 {
+      font-size: 16px;
+      font-weight: 600;
+      margin: 32px 0 12px;
+      color: #111;
+    }
+
+    .article-body p {
+      font-size: 16px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.8;
+      margin-bottom: 20px;
+    }
+
+    .article-body strong {
+      font-weight: 600;
+      color: #111;
+    }
+
+    .article-meta {
+      font-size: 13px;
+      color: #aaa;
+      font-weight: 300;
+      margin-bottom: 48px;
+      display: flex;
+      gap: 20px;
+      align-items: center;
+    }
+
+    .article-divider {
+      height: 1px;
+      background: #e8e8e8;
+      margin: 48px 0;
+    }
+
+    .big-statement {
+      font-family: 'DM Serif Display', serif;
+      font-size: 26px;
+      line-height: 1.4;
+      color: #111;
+      border-left: 4px solid #c25f2e;
+      padding-left: 28px;
+      margin: 48px 0;
+      letter-spacing: -0.3px;
+    }
+
+    .from-the-shop {
+      background: #f9f8f6;
+      border-left: 3px solid #c25f2e;
+      padding: 24px 28px;
+      margin: 36px 0;
+      font-size: 15px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.75;
+    }
+
+    .from-the-shop .shop-label {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: #c25f2e;
+      margin-bottom: 10px;
+    }
+
+    .consequence-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin: 28px 0;
+    }
+
+    @media (max-width: 600px) {
+      .consequence-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .consequence-box {
+      border: 1px solid #e8e8e8;
+      padding: 28px;
+    }
+
+    .consequence-box.too-big {
+      border-top: 3px solid #c25f2e;
+    }
+
+    .consequence-box.too-small {
+      border-top: 3px solid #111;
+    }
+
+    .consequence-title {
+      font-family: 'DM Serif Display', serif;
+      font-size: 18px;
+      color: #111;
+      margin-bottom: 16px;
+    }
+
+    .consequence-subtitle {
+      font-size: 11px;
+      font-weight: 600;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      color: #aaa;
+      margin-bottom: 8px;
+    }
+
+    .consequence-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .consequence-list li {
+      font-size: 14px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.6;
+      padding: 8px 0;
+      border-bottom: 1px solid #f5f5f5;
+      display: flex;
+      gap: 10px;
+      align-items: flex-start;
+    }
+
+    .consequence-list li:last-child {
+      border-bottom: none;
+    }
+
+    .consequence-list li::before {
+      content: "→";
+      color: #c25f2e;
+      font-size: 12px;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    .shell-test-box {
+      background: #111;
+      color: #fff;
+      padding: 40px;
+      margin: 40px 0;
+    }
+
+    .shell-test-box .test-title {
+      font-family: 'DM Serif Display', serif;
+      font-size: 22px;
+      color: #fff;
+      margin-bottom: 8px;
+    }
+
+    .shell-test-box .test-subtitle {
+      font-size: 13px;
+      color: #999;
+      font-weight: 300;
+      margin-bottom: 28px;
+    }
+
+    .shell-test-steps {
+      counter-reset: shell-steps;
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .shell-test-steps li {
+      counter-increment: shell-steps;
+      display: flex;
+      gap: 20px;
+      align-items: flex-start;
+      margin-bottom: 20px;
+      font-size: 15px;
+      color: #ccc;
+      font-weight: 300;
+      line-height: 1.65;
+    }
+
+    .shell-test-steps li:last-child {
+      margin-bottom: 0;
+    }
+
+    .shell-test-steps li::before {
+      content: counter(shell-steps);
+      font-family: 'DM Serif Display', serif;
+      font-size: 32px;
+      color: #c25f2e;
+      line-height: 1;
+      min-width: 28px;
+      flex-shrink: 0;
+    }
+
+    .shell-test-steps li strong {
+      color: #fff;
+      font-weight: 500;
+    }
+
+    .measurement-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 24px 0;
+      font-size: 14px;
+    }
+
+    .measurement-table th {
+      background: #111;
+      color: #fff;
+      font-weight: 500;
+      font-size: 12px;
+      letter-spacing: 0.5px;
+      padding: 13px 16px;
+      text-align: left;
+    }
+
+    .measurement-table td {
+      padding: 13px 16px;
+      border-bottom: 1px solid #f0f0f0;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.5;
+    }
+
+    .measurement-table tr:last-child td {
+      border-bottom: none;
+    }
+
+    .measurement-table tr:nth-child(even) td {
+      background: #fafafa;
+    }
+
+    .verdict-badge {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.8px;
+      text-transform: uppercase;
+      padding: 3px 9px;
+      border-radius: 2px;
+    }
+
+    .verdict-badge.good {
+      background: #e8f5e9;
+      color: #2e7d32;
+    }
+
+    .verdict-badge.bad {
+      background: #fce4ec;
+      color: #c62828;
+    }
+
+    .verdict-badge.maybe {
+      background: #fff8e1;
+      color: #e65100;
+    }
+
+    .myth-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin: 28px 0;
+    }
+
+    @media (max-width: 640px) {
+      .myth-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .myth-card {
+      background: #fff;
+      border: 1px solid #e8e8e8;
+      padding: 24px;
+    }
+
+    .myth-card .myth-label {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 1.2px;
+      text-transform: uppercase;
+      color: #aaa;
+      margin-bottom: 10px;
+    }
+
+    .myth-card .myth-claim {
+      font-family: 'DM Serif Display', serif;
+      font-size: 17px;
+      color: #111;
+      margin-bottom: 12px;
+      line-height: 1.35;
+    }
+
+    .myth-card .myth-reality {
+      font-size: 14px;
+      color: #666;
+      font-weight: 300;
+      line-height: 1.6;
+    }
+
+    .myth-card.busted .myth-label {
+      color: #c25f2e;
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav class="site-nav">
+  <a href="/" class="logo">Surefoot Oslo</a>
+  <ul class="nav-links">
+    <li><a href="/tjenester/">Tjenester</a></li>
+    <li><a href="/bootfitting/">Bootfitting</a></li>
+    <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+    <li><a href="/innerstovler/">Innerstøvler</a></li>
+    <li><a href="/saler/">Såler</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div class="page-hero">
+  <div class="page-hero-inner">
+    <div class="section-label">Størrelsesguide</div>
+    <h1>26 eller 26,5 — betyr det noe?</h1>
+    <p class="lead">5 millimeter. I en alpinstøvel er det nok til å ødelegge en hel sesong — i begge retninger.</p>
+  </div>
+</div>
+
+<!-- CONTENT -->
+<section>
+  <div class="section-wrap">
+    <div class="article-body">
+
+      <div class="article-meta">
+        <span>Av Surefoot Oslo</span>
+        <span>·</span>
+        <span>Mai 2026</span>
+        <span>·</span>
+        <span>6 min lesing</span>
+      </div>
+
+      <p>Av alle diskusjonene vi har med kunder, er halvstørrelse-spørsmålet det vi hører oftest. «Jeg er egentlig en 26, men 26,5 kjentes mer behagelig i butikken — bør jeg ta den større?»</p>
+
+      <p>Svaret er nesten alltid: <strong>nei</strong>. Men forklaringen er mer interessant enn det.</p>
+
+      <p>Det du opplevde i butikken — at 26,5 kjentes mer komfortabel — er et forutsigbart og velkjent fenomen. Det er ikke et signal om at du trenger 26,5. Det er et signal om at innerstøvelen er ny og ikke komprimert. Det er et signal om at du ikke sto i skistilling. Og det er et signal om at kroppen din automatisk tolker «romslig» som «behagelig», uten å vite at i et stivt plastskall er «romslig» synonymt med «ukontrollerbart».</p>
+
+      <div class="article-divider"></div>
+
+      <h2>Hva 0,5 Mondopoint faktisk betyr</h2>
+
+      <p>Alpinstøvler måles i Mondopoint — fotlengden din i centimeter. 26,0 betyr at skallet er dimensjonert for en fot på 260 mm. 26,5 betyr 265 mm. Halvstørrelse er altså <strong>5 millimeter skall-lengde</strong>.</p>
+
+      <p>Merk: dette er skall-lengde, ikke sko-lengde. Inne i en stiv plaststruktur som ikke gir etter, er 5 mm en dramatisk annen verden enn det er i en løpesko eller en sneaker. I myk fottøy absorberer materialet. I et alpinstøvelskall er det ingen absorpsjon. 5 mm er faktisk 5 mm.</p>
+
+      <p>For mye plass gir deg like mye problemer som for lite plass — bare av andre grunner.</p>
+
+      <div class="big-statement">
+        «Støvelen som kjentes komfortabel i butikken er nesten alltid for stor. Komfort og kontroll er ikke det samme.»
+      </div>
+
+      <div class="article-divider"></div>
+
+      <h2>Hva som skjer med en støvel som er 0,5 for stor</h2>
+
+      <div class="consequence-grid">
+        <div class="consequence-box too-big">
+          <div class="consequence-subtitle">For stor — 26,5 på en 26-fot</div>
+          <div class="consequence-title">Problemene du ikke ser komme</div>
+          <ul class="consequence-list">
+            <li>Hælen løfter seg 3–5 mm ved hvert sving. Kantoverføringen svikter. Du setter kanter uten å kjenne dem.</li>
+            <li>Tærne klemmes mot fronten i dynamisk posisjon — fordi foten glir fremover når du bøyer knærne.</li>
+            <li>Numne, kalde tær etter 1–2 timer — klemming fremme kutter sirkulasjonen.</li>
+            <li>Foten «flyter» inne i støvelen. Du kompenserer med leggmuskler. Du blir unødvendig sliten.</li>
+            <li>Teknikkfeil som du ikke kan løse — støvelen snakker ikke til skiene.</li>
+          </ul>
+        </div>
+        <div class="consequence-box too-small">
+          <div class="consequence-subtitle">For liten — 26 på en 26,5-fot</div>
+          <div class="consequence-title">Problemene du merker med en gang</div>
+          <ul class="consequence-list">
+            <li>Trykk på lengste tå etter 1–2 timer → neglebettennelse, svarting av negl over tid.</li>
+            <li>Lateral press på tær → sirkulasjonen kuttes → kalde tær (igjen).</li>
+            <li>Vondt i toppleddet på foten ved bøying i knær.</li>
+            <li>Støvelen er aldri komfortabel, uansett hvor mye innerstøvelen pakker ut.</li>
+            <li>For liten kan ikke blokkes til å passe — en grense for hva tilpasning løser.</li>
+          </ul>
+        </div>
+      </div>
+
+      <p>Legg merke til noe: begge scenarioene gir kalde tær. Det er en vanlig misforståelse at kalde tær betyr for liten støvel. I like mange tilfeller betyr det for stor — foten flyter og blodsirkulasjonen hemmes av at musklene hele tiden kompenserer for manglende kontakt.</p>
+
+      <div class="article-divider"></div>
+
+      <h2>«Komfortabel» er feil signal å lytte til</h2>
+
+      <p>Kroppen din er evolusjonsmessig tilpasset å tolke romslighet som trygghet og klemming som fare. Det er nyttig for fottøy generelt. Det er direkte villedende for alpinstøvler.</p>
+
+      <p>En korrekt alpinstøvel skal kjennes <strong>snug</strong> — tett, men ikke klem. Tærne skal nesten berøre fronten. Hælen skal ikke bevege seg. Vristen skal være holdt på plass. Alt dette kjennes uvant og litt ubehagelig for de som er vant til komfortfottøy. Det er normalt. Det er riktig.</p>
+
+      <p>Det er ikke støvelen som er feil. Det er referanserammen din for hva «riktig» kjennes som.</p>
+
+      <p>Og her er det avgjørende poenget: <strong>en ny innerstøvel pakker ut 3–8 mm med bruk</strong>. En støvel som kjentes «akkurat passe» i butikken er løs etter 10–15 skidager. Velger du «litt romslig» fordi du var usikker, har du kjøpt deg 5 sezsonger med dårlig støvler.</p>
+
+      <div class="from-the-shop">
+        <div class="section-wrap-narrow">
+          <div class="section-label">Fra butikken</div>
+          <blockquote>«Av alle kundene som har gått ett sted ut etter kjøp fordi støvlene 'kjentes feil', er årsaken nesten alltid at de tok en halvstørrelse for stor. Sjelden for liten. Aldri tar noen for liten støvel hjem. Folk tar alltid heller litt stor — og det er feil vei å feile.»</blockquote>
+          <p class="quote-credit">— Surefoot Oslo, om størrelsesvalg og returmønster</p>
+        </div>
+      </div>
+
+      <div class="article-divider"></div>
+
+      <h2>Skalltesten — den eneste metoden som gir riktig svar</h2>
+
+      <p>Størrelse bestemmes ikke av hvilken størrelse du bruker i løpesko. Den bestemmes ikke av hva innerstøvelen merker. Den bestemmes av skalltesten.</p>
+
+      <div class="shell-test-box">
+        <div class="test-title">Slik gjennomfører du skalltesten</div>
+        <div class="test-subtitle">Ta 3 minutter — gjør dette før du kjøper noen støvel.</div>
+        <ol class="shell-test-steps">
+          <li><strong>Ta ut innerstøvelen.</strong> Sett foten rett inn i det tomme plastskallet, med tynne ski-sokker på.</li>
+          <li><strong>Skyv foten fremover</strong> til tærne berører fronten — ikke med kraft, men til de nesten rører. Stortå og lengre tær kan gjerne berøre lett.</li>
+          <li><strong>Mål avstanden bak hælen</strong> med en linjal eller to fingre stablet: dette er det kritiske målet.</li>
+          <li><strong>Les av resultatet:</strong> 10–20 mm bak hælen = riktig støvel. Under 5 mm = for liten. Over 25 mm = for stor.</li>
+        </ol>
+      </div>
+
+      <table class="measurement-table">
+        <thead>
+          <tr>
+            <th>Hælavstand (skalltest)</th>
+            <th>Hva det betyr</th>
+            <th>Konklusjon</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Under 5 mm</td>
+            <td>For liten — tærne vil klemme i dynamisk posisjon</td>
+            <td><span class="verdict-badge bad">For liten</span></td>
+          </tr>
+          <tr>
+            <td>5–10 mm</td>
+            <td>Bra for racing og veldig presis kjøring — tett passform</td>
+            <td><span class="verdict-badge good">Race-passform</span></td>
+          </tr>
+          <tr>
+            <td>10–20 mm</td>
+            <td>Ideell allround-passform for de fleste skiløpere</td>
+            <td><span class="verdict-badge good">Riktig</span></td>
+          </tr>
+          <tr>
+            <td>20–25 mm</td>
+            <td>Akseptabelt for bred lest eller touring — men på grensen</td>
+            <td><span class="verdict-badge maybe">Grenseland</span></td>
+          </tr>
+          <tr>
+            <td>Over 25 mm</td>
+            <td>For stor — hælen vil løfte seg, tærne klemmer i front</td>
+            <td><span class="verdict-badge bad">For stor</span></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="article-divider"></div>
+
+      <h2>Liner-kompresjons-faktoren</h2>
+
+      <p>En standard skumliner som følger med en ny støvel komprimerer <strong>3–8 mm i lengde</strong> og 2–4 mm i bredde over de første 10–20 skidagene. Det er ikke en feil ved støvelen. Det er konstruksjonsintensjon — lineren er designet for å gi etter og forme seg etter foten over tid.</p>
+
+      <p>Problemet er at de aller fleste kjøper støvel basert på hvordan innerstøvelen kjennes ny. Det er systematisk feil tidspunkt å bestemme størrelse. Du velger størrelse for en liner du aldri vil bruke — den pakker ut uansett.</p>
+
+      <p>Riktig tilnærming: velg størrelse basert på skalltesten. La lineren komme etterpå. Eller bedre — invester i en custom liner som støpes rundt foten og som ikke pakker ut på samme måte.</p>
+
+      <div class="big-statement">
+        «Velg størrelse basert på skalltesten. Aldri basert på hvordan innerstøvelen kjennes ny — den endrer seg.»
+      </div>
+
+      <div class="article-divider"></div>
+
+      <h2>Bredde-forvirringen — den vanligste misforståelsen</h2>
+
+      <p>Vi ser det ukentlig: kunden som har bred fot og alltid kjøpt halvstørrelse opp for å få nok bredde. Logikken er forståelig. Den er feil.</p>
+
+      <p>Her er hva som faktisk skjer: i en halvstørrelse større er ikke bare lengden 5 mm lenger — i noen modeller er tåboksen marginalt bredere. Men lengden er alltid 5 mm lenger. Du løser ett problem og skaper et annet.</p>
+
+      <p>Den riktige løsningen på et breddeproblem er:</p>
+
+      <ul style="list-style:none;padding:0;margin:20px 0;">
+        <li style="display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid #f0f0f0;font-size:15px;color:#444;font-weight:300;"><span style="color:#c25f2e;font-weight:600;min-width:20px;">1.</span>Bytte til et merke med bredere lest (Nordica, Atomic Hawx) — ikke gå opp i størrelse</li>
+        <li style="display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-bottom:1px solid #f0f0f0;font-size:15px;color:#444;font-weight:300;"><span style="color:#c25f2e;font-weight:600;min-width:20px;">2.</span>Blokke skallet med varmeforming på de eksakte punktene som klemmer</li>
+        <li style="display:flex;gap:12px;align-items:flex-start;padding:12px 0;font-size:15px;color:#444;font-weight:300;"><span style="color:#c25f2e;font-weight:600;min-width:20px;">3.</span>Bruke en custom liner som fordeler trykk mer jevnt over tåballen</li>
+      </ul>
+
+      <p>Å gå opp i lengde for å løse et breddeproblem gir deg to problemer i stedet for ett. Det er den nest vanligste feilkjøpet vi ser — rett etter «tok 26,5 fordi den kjentes bedre i butikken».</p>
+
+      <div class="article-divider"></div>
+
+      <h2>Hælkuppens rolle — hvorfor 26 kan passe i ett merke, 26,5 i et annet</h2>
+
+      <p>Ikke alle merker bygger skallet på identisk måte. Hælkuppens dybde — altså hvor mye plass det er bak hælen inne i skallet — varierer mellom merker og modeller.</p>
+
+      <p>Det betyr at en fot som er «borderline 26 / 26,5» kan fungere utmerket med 26 i Lange (dyp hælkupp, presis hæl-hold) og trenge 26,5 i Tecnica (høyere instep-volum, litt mer rom i hælen). Det er ikke en feil ved noen av støvlene. Det er lestgeometri-variasjon som faktisk er til din fordel — hvis du bruker den riktig.</p>
+
+      <p>Fasitsvar når du er i tvil mellom to størrelser: gjennomfør skalltesten i begge skallene. Ta den med lavest hælavstand som fortsatt er over 10 mm. Aldri «gå opp for sikkerhets skyld».</p>
+
+      <div class="article-divider"></div>
+
+      <h2>Fire myter om halvstørrelse</h2>
+
+      <div class="myth-grid">
+        <div class="myth-card busted">
+          <div class="myth-label">Myte #1</div>
+          <div class="myth-claim">«Innerstøvelen vil gi seg og støvelen bli bedre»</div>
+          <div class="myth-reality">Innerstøvelen komprimerer 3–8 mm — noe som gjør en allerede for stor støvel enda løsere. Den «gir seg» alltid i feil retning. En støvel som er for stor dag én, er enda løsere etter én sesong.</div>
+        </div>
+
+        <div class="myth-card busted">
+          <div class="myth-label">Myte #2</div>
+          <div class="myth-claim">«Riktig størrelse i sko er riktig størrelse i støvler»</div>
+          <div class="myth-reality">Mondopoint er fotlengde i cm — ikke sko-størrelse. En EU 42 er ikke 26,5 Mondo. Konverteringstabeller er veiledende, ikke presise. Skalltesten er alltid fasiten.</div>
+        </div>
+
+        <div class="myth-card busted">
+          <div class="myth-label">Myte #3</div>
+          <div class="myth-claim">«Det gjør ikke noe å ta halvstørrelse opp, for sikkerhets skyld»</div>
+          <div class="myth-reality">I alpinstøvler er det alltid feil å ta for stor støvel «for sikkerhets skyld». Det finnes ikke en sikker side ved å gå opp. For stor er like ødeleggende for skiing — og for tær — som for liten.</div>
+        </div>
+
+        <div class="myth-card busted">
+          <div class="myth-label">Myte #4</div>
+          <div class="myth-claim">«Tærne skal ikke treffe foran»</div>
+          <div class="myth-reality">I riktig størrelse vil tærne nesten berøre fronten når du står oppreist uten innerstøvelen. Det er riktig. I dynamisk posisjon (knær bøyd) sklir foten bakover og frigjør plass. Tærne treffer bare foran i for liten støvel — i statisk stilling med innerstøvelen inne.</div>
+        </div>
+      </div>
+
+      <div class="article-divider"></div>
+
+      <h2>Fasitsvar: hva velger du når du er i tvil?</h2>
+
+      <p>Ta den minste støvelen som passerer skalltesten med 10–20 mm hælavstand. Ikke 25. Ikke «litt mer rom». 10–20 mm.</p>
+
+      <p>Hvis du er nøyaktig mellom to størrelser i skalltesten — for eksempel 22 mm i 26 og 15 mm i 26,5 — er begge innenfor akseptabelt. Da bestemmer andre faktorer: hvilken lestbredde du trenger, hælkuppens dybde, instep-volumet. En bootfitter kan lese disse signalene. Det kan ikke en nettbutikk.</p>
+
+      <p>Og hvis du virkelig er i tvil: book time. Vi gjennomfører skalltesten gratis. Det tar 15 minutter. Det sparer deg for fem sesonger med feil passform.</p>
+
+    </div><!-- /.article-body -->
+  </div>
+</section>
+
+<!-- BOOKING -->
+<section class="booking-section">
+  <h2 class="serif">Fortsatt usikker på<br/><em>26 eller 26,5?</em></h2>
+  <p>Ta med støvlene du vurderer — eller kom uten — til Surefoot Oslo på Skøyen. Vi gjennomfører skalltesten og forteller deg presist hva du trenger. Gratis, uten salgspress.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-white">Book gratis vurdering</a>
+    <a href="tel:22442112" class="btn-border">Ring 22 44 21 12</a>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="bg-light">
+  <div class="section-wrap-narrow">
+    <div class="section-label">Spørsmål og svar</div>
+    <h2 class="section-h2">Vanlige spørsmål</h2>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Hvordan gjennomfører jeg skalltesten hjemme?<span>+</span></button></div>
+      <div class="faq-a"><p>Ta ut innerstøvelen. Sett foten rett inn i plastskallet. Skyv foten fremover til tærne berører fronten (uten å klemme). Mål avstanden bak hælen med en linjal eller to fingre: 10–20 mm er riktig passform for de fleste. Over 25 mm = skallet er for stort. Under 5 mm = skallet er for lite.</p></div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Skal tærne treffe foran i alpinstøvelen?<span>+</span></button></div>
+      <div class="faq-a"><p>Nesten — ja. Tærne skal berøre eller nesten berøre fronten når du står oppreist i støvelen uten innerstøvelen. Med innerstøvelen inne bøyer du knærne ned i skistilling, og da sklir foten bakover noen millimeter og gir plass. Støvelen som kjennes «akkurat passe» i butikken med innerstøvelen er nesten alltid for stor.</p></div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Jeg er mellom 26 og 26,5 — hva velger jeg?<span>+</span></button></div>
+      <div class="faq-a"><p>Ta den minste som passer skalltesten. Innerstøvelen komprimerer 3–8 mm med bruk og gjør støvelen effektivt løsere. En støvel som er «akkurat passe» ny, er for stor etter 15 dager. Gå aldri «opp for sikkerhets skyld» i alpinstøvler.</p></div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q"><button class="faq-toggle" onclick="toggle(this)">Kan jeg gå opp i halvstørrelse for å få mer bredde?<span>+</span></button></div>
+      <div class="faq-a"><p>Dette er en av de vanligste feilene vi ser. Noen merker har litt bredere tåboks i 26,5 enn i 26, men å gå opp i lengde for å løse et breddeproblem gir deg to problemer i stedet for ett: for lang støvel og fortsatt feil bredde-profil. Breddeproblem løses med blokking, riktig merke og custom liner — ikke med lengre støvel.</p></div>
+    </div>
+
+  </div>
+</section>
+
+<!-- RELATED ARTICLES -->
+<section>
+  <div class="section-wrap-narrow">
+    <div class="section-label">Les mer</div>
+    <h2 class="section-h2">Relaterte guider</h2>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:20px;margin-top:32px;">
+      <a href="/mondopoint-alpinstovler/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Størrelsesguide</div>
+        <strong>Mondopoint guide</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Hva Mondopoint faktisk er, og hvorfor du ikke bare kan konvertere fra EU- eller US-størrelse.</p>
+      </a>
+      <a href="/bred-fot-alpinstovler/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Passproblemer</div>
+        <strong>Bred fot i alpinstøvler</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Hvilke merker og modeller som faktisk fungerer for bred fot — og hva bootfitting gjør der støvelen ikke strekker til.</p>
+      </a>
+      <a href="/kalde-foetter-alpinstovler/" style="display:block;padding:24px;background:#f8f7f5;border:1px solid #e0e0e0;border-radius:4px;text-decoration:none;color:inherit;">
+        <div style="font-size:11px;font-weight:600;letter-spacing:1px;text-transform:uppercase;color:#c25f2e;margin-bottom:8px;">Komfortproblemer</div>
+        <strong>Kalde føtter i alpinstøvler</strong>
+        <p style="font-size:14px;color:#666;margin-top:8px;">Kalde tær er sjelden et temperaturproblem. Det er nesten alltid et passproblemer — her er hva som forårsaker det.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo serif">Surefoot Oslo</div>
+      <p>Skiglede spesialistene — Norges spesialbutikk for spesialbygde alpinstøvler.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Guider</h4>
+      <ul>
+        <li><a href="/hva-er-bootfitting/">Hva er bootfitting?</a></li>
+        <li><a href="/mondopoint-alpinstovler/">Mondopoint guide</a></li>
+        <li><a href="/kalde-foetter-alpinstovler/">Kalde føtter</a></li>
+        <li><a href="/bred-fot-alpinstovler/">Bred fot</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om oss</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12 · oslo@surefoot.no</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/" style="font-size:12px;color:#333;">Personvern</a>
+      <a href="/kjopsvilkar/" style="font-size:12px;color:#333;">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+
+<script>
+  function toggle(btn) {
+    const item = btn.closest('.faq-item');
+    item.classList.toggle('open');
+  }
+</script>
+<script src="/main.js"></script>
+</body>
+</html>

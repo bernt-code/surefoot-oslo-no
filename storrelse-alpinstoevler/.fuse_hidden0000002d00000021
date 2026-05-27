@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Størrelse alpinstøvler — Komplett guide til Mondo-point og passform</title>
+  <meta name="description" content="Finn riktig størrelse på alpinstøvler. Komplett Mondo-point tabell, hvordan måle foten, bredde og den vanligste feilen folk gjør. Gratis vurdering hos Surefoot Oslo." />
+  <link rel="canonical" href="https://www.surefoot.no/storrelse-alpinstoevler/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+  <style>
+    .size-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 32px;
+      font-size: 14px;
+    }
+    .size-table th {
+      text-align: left;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #aaa;
+      padding: 10px 16px;
+      border-bottom: 2px solid #111;
+    }
+    .size-table td {
+      padding: 12px 16px;
+      border-bottom: 1px solid #f0f0f0;
+      color: #444;
+      font-weight: 300;
+    }
+    .size-table td:first-child {
+      font-weight: 600;
+      color: #111;
+      font-size: 15px;
+    }
+    .size-table tr:hover td { background: #f9f8f6; }
+    .size-table .highlight td {
+      background: #fff8f5;
+    }
+    .size-table .highlight td:first-child {
+      color: #c25f2e;
+    }
+    .step-list {
+      counter-reset: steps;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: grid;
+      gap: 28px;
+    }
+    .step-list li {
+      counter-increment: steps;
+      display: flex;
+      gap: 24px;
+      align-items: flex-start;
+    }
+    .step-list li::before {
+      content: counter(steps);
+      font-family: 'DM Serif Display', serif;
+      font-size: 28px;
+      color: #c25f2e;
+      line-height: 1.1;
+      min-width: 36px;
+      padding-top: 2px;
+    }
+    .step-body h3 {
+      font-size: 16px;
+      font-weight: 600;
+      margin-bottom: 6px;
+      color: #111;
+    }
+    .step-body p {
+      font-size: 14px;
+      color: #666;
+      font-weight: 300;
+      line-height: 1.6;
+      margin: 0;
+    }
+    .width-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1px;
+      background: #e8e8e8;
+      border: 1px solid #e8e8e8;
+      margin-top: 40px;
+    }
+    .width-item {
+      background: #fff;
+      padding: 28px 20px;
+    }
+    .width-mm {
+      font-family: 'DM Serif Display', serif;
+      font-size: 26px;
+      color: #111;
+      letter-spacing: -1px;
+      margin-bottom: 4px;
+    }
+    .width-label {
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #c25f2e;
+      margin-bottom: 10px;
+    }
+    .width-desc {
+      font-size: 13px;
+      color: #777;
+      font-weight: 300;
+      line-height: 1.5;
+    }
+    .mistake-card {
+      background: #f9f8f6;
+      border-left: 3px solid #c25f2e;
+      padding: 20px 24px;
+      margin-bottom: 16px;
+    }
+    .mistake-card h4 {
+      font-size: 15px;
+      font-weight: 600;
+      color: #111;
+      margin-bottom: 8px;
+    }
+    .mistake-card p {
+      font-size: 14px;
+      color: #555;
+      font-weight: 300;
+      line-height: 1.6;
+      margin: 0;
+    }
+    .brand-sizing-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 32px;
+      font-size: 14px;
+    }
+    .brand-sizing-table th {
+      text-align: left;
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      color: #aaa;
+      padding: 10px 16px;
+      border-bottom: 2px solid #111;
+    }
+    .brand-sizing-table td {
+      padding: 12px 16px;
+      border-bottom: 1px solid #f0f0f0;
+      color: #555;
+      font-weight: 300;
+      font-size: 13px;
+    }
+    .brand-sizing-table td:first-child {
+      font-weight: 600;
+      color: #111;
+    }
+    @media (max-width: 900px) {
+      .width-grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (max-width: 600px) {
+      .width-grid { grid-template-columns: 1fr; }
+      .size-table { font-size: 13px; }
+      .size-table th, .size-table td { padding: 10px 10px; }
+    }
+  </style>
+</head>
+<body>
+
+
+
+<!-- NAV -->
+<nav class="site-nav">
+  <a href="/" class="logo">Surefoot Oslo</a>
+  <ul class="nav-links">
+    <li><a href="/tjenester/">Tjenester</a></li>
+    <li><a href="/bootfitting/">Bootfitting</a></li>
+    <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+    <li><a href="/innerstovler/">Innerstøvler</a></li>
+    <li><a href="/saler/">Såler</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div class="page-hero">
+  <div class="page-hero-inner">
+    <div class="section-label">Størrelsesguide</div>
+    <h1>Størrelse alpinstøvler<br/>— slik gjør du det riktig</h1>
+    <p class="lead">Mondo-point, EU-størrelse, lestbredde og stivhetsindeks. Alt du trenger å vite — og den feilen nesten alle gjør.</p>
+  </div>
+</div>
+
+<!-- STRIP -->
+<div class="strip">
+  <div class="strip-item"><span class="strip-dot"></span>Alpinstøvler måles i Mondo-point, ikke EU-størrelse</div>
+  <div class="strip-item"><span class="strip-dot"></span>Bredde er like viktig som lengde</div>
+  <div class="strip-item"><span class="strip-dot"></span>Gratis 15-min vurdering hos Surefoot Oslo</div>
+</div>
+
+<!-- INTRO + MEASUREMENT -->
+<section>
+  <div class="section-wrap">
+    <div class="two-col">
+      <div>
+        <div class="section-label">Det grunnleggende</div>
+        <h2 class="section-h2">Alpinstøvler bruker<br/>et annet størrelsessystem</h2>
+        <div class="prose">
+          <p>Størrelse på alpinstøvler oppgis i <strong>Mondo-point</strong> — en internasjonal standard der størrelsen tilsvarer fotlengden i centimeter. Størrelse 26,5 passer altså en fot som er 26,5 cm lang.</p>
+          <p>Dette er <em>ikke</em> det samme som EU-størrelse, og det er heller ikke det samme fra merke til merke. En Salomon 27,0 og en Atomic 27,0 kan sitte helt ulikt på den samme foten — fordi lestbredden varierer.</p>
+          <p>Lengde er bare startpunktet. For å finne en støvel som faktisk passer, må du også ta hensyn til bredde, høy rist og fotform. Det er derfor proffitting finnes.</p>
+        </div>
+      </div>
+      <div>
+        <div class="section-label">Slik måler du</div>
+        <h3 class="serif" style="font-size:26px;letter-spacing:-0.3px;margin:16px 0 32px;">Mål foten din riktig</h3>
+        <ol class="step-list">
+          <li>
+            <div class="step-body">
+              <h3>Mål på slutten av dagen</h3>
+              <p>Føttene sveller gjennom dagen. Mål på ettermiddagen — da er de på sin største, akkurat som de vil være etter en times kjøring.</p>
+            </div>
+          </li>
+          <li>
+            <div class="step-body">
+              <h3>Stå oppreist med sokk</h3>
+              <p>Sett hælen mot en vegg eller et stivt underlag. Bruk en tynn sokk — slik du ville hatt under kjøring.</p>
+            </div>
+          </li>
+          <li>
+            <div class="step-body">
+              <h3>Mål til lengste tå</h3>
+              <p>Mål fra veggen til tuppen av den lengste tåen (ikke alltid stortåen). Mål begge føtter — kjøp etter den største.</p>
+            </div>
+          </li>
+          <li>
+            <div class="step-body">
+              <h3>Mål bredden</h3>
+              <p>Mål tversgående over det bredeste punktet (ofte over hælen til stortåledd). Dette bestemmer lestbredden du trenger.</p>
+            </div>
+          </li>
+          <li>
+            <div class="step-body">
+              <h3>Avrund til nærmeste 0,5 cm</h3>
+              <p>Det gir deg Mondo-point-størrelsen din. En 26,3 cm lang fot → støvelelst 26,5.</p>
+            </div>
+          </li>
+        </ol>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- MONDO TABLE -->
+<section class="bg-light">
+  <div class="section-wrap">
+    <div class="section-label">Størrelsesguide</div>
+    <h2 class="section-h2">Mondo-point til EU-størrelse</h2>
+    <p style="font-size:15px;color:#666;font-weight:300;max-width:640px;margin-bottom:8px;">Tabellen viser omtrentlige konverteringer. Det finnes avvik mellom merker — bruk dette som utgangspunkt, ikke fasit.</p>
+
+    <table class="size-table">
+      <thead>
+        <tr>
+          <th>Mondo-point (cm)</th>
+          <th>EU-størrelse</th>
+          <th>US Herre</th>
+          <th>US Dame</th>
+          <th>UK</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td>22,0</td><td>34</td><td>3,5</td><td>4,5</td><td>2</td></tr>
+        <tr><td>22,5</td><td>35</td><td>4</td><td>5</td><td>2,5</td></tr>
+        <tr><td>23,0</td><td>36</td><td>4,5</td><td>5,5</td><td>3</td></tr>
+        <tr><td>23,5</td><td>36–37</td><td>5</td><td>6</td><td>3,5</td></tr>
+        <tr><td>24,0</td><td>37–38</td><td>5,5</td><td>6,5</td><td>4</td></tr>
+        <tr><td>24,5</td><td>38–39</td><td>6</td><td>7</td><td>4,5</td></tr>
+        <tr class="highlight"><td>25,0</td><td>39–40</td><td>6,5</td><td>7,5</td><td>5</td></tr>
+        <tr class="highlight"><td>25,5</td><td>40–41</td><td>7</td><td>8</td><td>6</td></tr>
+        <tr class="highlight"><td>26,0</td><td>41–42</td><td>7,5</td><td>8,5</td><td>6,5</td></tr>
+        <tr class="highlight"><td>26,5</td><td>42–43</td><td>8</td><td>9</td><td>7</td></tr>
+        <tr class="highlight"><td>27,0</td><td>43–44</td><td>8,5</td><td>9,5</td><td>7,5</td></tr>
+        <tr class="highlight"><td>27,5</td><td>44–45</td><td>9</td><td>10</td><td>8</td></tr>
+        <tr><td>28,0</td><td>45–46</td><td>9,5</td><td>10,5</td><td>8,5</td></tr>
+        <tr><td>28,5</td><td>46–47</td><td>10</td><td>11</td><td>9</td></tr>
+        <tr><td>29,0</td><td>47–48</td><td>10,5</td><td>11,5</td><td>9,5</td></tr>
+        <tr><td>29,5</td><td>48</td><td>11</td><td>12</td><td>10</td></tr>
+        <tr><td>30,0</td><td>49</td><td>11,5</td><td>—</td><td>10,5</td></tr>
+      </tbody>
+    </table>
+    <p style="font-size:12px;color:#aaa;font-weight:300;margin-top:12px;">De uthevede radene (25,0–27,5) dekker størsteparten av den norske befolkningen.</p>
+  </div>
+</section>
+
+<!-- WIDTH -->
+<section>
+  <div class="section-wrap">
+    <div class="section-label">Lestbredde</div>
+    <h2 class="section-h2">Bredde er like viktig<br/>som lengde</h2>
+    <div class="prose" style="max-width:640px;">
+      <p>Lestbredden (engelsk: <em>last width</em>) angir hvor bred støvelen er på det bredeste punktet, målt i millimeter. En støvel som er for smal gir smerte og nedsatt blodsirkulasjon. En støvel som er for bred gir dårlig kontroll — foten flyter rundt inne i støvelen.</p>
+      <p>De fleste merker oppgir lestbredden på esken eller i produktbeskrivelsen. Det finnes sjelden én standard: det som kalles «medium» varierer fra 98 til 102 mm avhengig av merket.</p>
+    </div>
+
+    <div class="width-grid">
+      <div class="width-item">
+        <div class="width-mm">94–96 mm</div>
+        <div class="width-label">Smal</div>
+        <div class="width-desc">Passer smale, velfunderte føtter. Typisk for racing og high-performance støvler (f.eks. Lange RS, Atomic Redster).</div>
+      </div>
+      <div class="width-item">
+        <div class="width-mm">97–99 mm</div>
+        <div class="width-label">Medium</div>
+        <div class="width-desc">Passer de fleste. Standardlest for mellomklasse- og allround-støvler. Rossignol Hero, Salomon S/Pro.</div>
+      </div>
+      <div class="width-item">
+        <div class="width-mm">100–102 mm</div>
+        <div class="width-label">Bred</div>
+        <div class="width-desc">For bredere føtter, høy rist eller folk som opplever smerte på sidene. Nordica Speedmachine, Tecnica Mach1.</div>
+      </div>
+      <div class="width-item">
+        <div class="width-mm">103–106 mm</div>
+        <div class="width-label">Ekstra bred</div>
+        <div class="width-desc">For spesielt brede eller deformerte føtter. Tilgjengelig i færre modeller — eller via termisk blokking.</div>
+      </div>
+    </div>
+
+    <p style="font-size:14px;color:#666;font-weight:300;margin-top:24px;max-width:640px;">Har du en fot som faller mellom to bredder? Det er nettopp der <a href="/bootfitting/" style="color:#c25f2e;">profesjonell bootfitting</a> gjør størst forskjell — vi kan varme og forme støvelen slik at den treffer akkurat din bredde.</p>
+  </div>
+</section>
+
+<!-- MISTAKES -->
+<section class="bg-light">
+  <div class="section-wrap">
+    <div class="two-col-wide">
+      <div>
+        <div class="section-label">De vanligste feilene</div>
+        <h2 class="section-h2" style="margin-bottom:40px;">Dette tar vi<br/>imot hver dag</h2>
+
+        <div class="mistake-card">
+          <h4>«Jeg kjøpte samme størrelse som skoen min»</h4>
+          <p>EU 43 i joggesko er ikke det samme som Mondo 27,0 i alpinstøvler. EU-størrelsen er ikke standardisert og varierer fra merke til merke. Mange ender med støvler som er 1–1,5 størrelse for store.</p>
+        </div>
+
+        <div class="mistake-card">
+          <h4>«De kjentes fine i butikken — men gjør vondt etter ti minutter»</h4>
+          <p>En kald støvel er myk. Etter ti minutters kjøring stivner plasten og trykker der lesten ikke passer foten. Alltid prøv støvler i minst 15 minutter stående — og helst kneet bøyd fremover.</p>
+        </div>
+
+        <div class="mistake-card">
+          <h4>«Jeg tok en størrelse opp fordi de klødde»</h4>
+          <p>Klør og trykker støvelen? Det er bredden, ikke lengden, som er feil. En størrelse opp løser ikke problemet — foten sklir fremover og trykker tåen fremst i stedet. Løsningen er en bredere lest eller termisk forming.</p>
+        </div>
+
+        <div class="mistake-card">
+          <h4>«De er litt store, men innerstøvlene sveller vel inn»</h4>
+          <p>Innerstøvler sveller inn noe det første sesongen — men ikke nok til å fylle en halvstørrelse for stor ytterstøvel. Resultatet er at hælen løfter seg og foten jobber konstant for å holde seg på plass.</p>
+        </div>
+      </div>
+
+      <div style="padding-top:60px;">
+        <div class="section-label">Vår anbefaling</div>
+        <h3 class="serif" style="font-size:30px;letter-spacing:-0.5px;margin:16px 0 24px;">Mål, ikke gjett</h3>
+        <div class="prose">
+          <p>Ingen kan finne riktig størrelse alpinstøvler uten å måle foten — lengde <em>og</em> bredde. Ikke stol på at du «vet» størrelsen din.</p>
+          <p>Hos Surefoot Oslo starter vi alle besøk med en gratis 15-minutters vurdering: vi måler begge føtter, vurderer fottype og gangmønster, og anbefaler riktig størrelsesintervall og lestbredde.</p>
+          <p>Deretter tilpasser vi innerstøvler og/eller ytterstøvler termisk slik at resultatet er skreddersydd din fot — ikke en kompromissløsning fra hyllen.</p>
+        </div>
+        <div style="margin-top:40px;display:flex;gap:16px;flex-wrap:wrap;">
+          <a href="https://surefootskiing.as.me" target="_blank" class="btn-dark">Book gratis vurdering</a>
+          <a href="/bootfitting/" class="btn-outline-dark">Les om bootfitting</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- BRAND SIZING -->
+<section>
+  <div class="section-wrap">
+    <div class="section-label">Merker og lester</div>
+    <h2 class="section-h2">Hvert merke sitter<br/>forskjellig</h2>
+    <p style="font-size:15px;color:#666;font-weight:300;max-width:640px;margin-bottom:8px;">Samme Mondo-point, men veldig ulik passform. Bruk tabellen som et grovt utgangspunkt — alltid prøv fysisk.</p>
+
+    <table class="brand-sizing-table">
+      <thead>
+        <tr>
+          <th>Merke</th>
+          <th>Typisk lestbredde</th>
+          <th>Kjent for</th>
+          <th>Passer best</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Lange</td>
+          <td>96–98 mm</td>
+          <td>Presis og sportslig</td>
+          <td>Smale, tekniske føtter</td>
+        </tr>
+        <tr>
+          <td>Atomic</td>
+          <td>96–100 mm</td>
+          <td>Raskt responsiv</td>
+          <td>Medium til smal</td>
+        </tr>
+        <tr>
+          <td>Salomon</td>
+          <td>98–102 mm</td>
+          <td>Allround, god komfort</td>
+          <td>Medium</td>
+        </tr>
+        <tr>
+          <td>Rossignol</td>
+          <td>97–102 mm</td>
+          <td>Allround til race</td>
+          <td>Medium</td>
+        </tr>
+        <tr>
+          <td>Nordica</td>
+          <td>98–102 mm</td>
+          <td>Komfort og kraft</td>
+          <td>Medium til bred</td>
+        </tr>
+        <tr>
+          <td>Tecnica</td>
+          <td>98–103 mm</td>
+          <td>Sportslig komfort</td>
+          <td>Medium til bred</td>
+        </tr>
+        <tr>
+          <td>Head</td>
+          <td>98–102 mm</td>
+          <td>Klar plastikkfølelse</td>
+          <td>Medium</td>
+        </tr>
+        <tr>
+          <td>Dalbello</td>
+          <td>99–103 mm</td>
+          <td>Romslig tå, bred lest</td>
+          <td>Bred</td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="font-size:12px;color:#aaa;font-weight:300;margin-top:12px;">Tallene er veiledende og varierer per modell. Kontakt oss hvis du er usikker på hvilket merke som passer din fot.</p>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="bg-light">
+  <div class="section-wrap">
+    <div class="section-label">Vanlige spørsmål</div>
+    <h2 class="section-h2" style="margin-bottom:48px;">Størrelsespørsmål<br/>vi får hele tiden</h2>
+
+    <div style="max-width:720px;">
+
+      <div class="faq-item">
+        <button class="faq-q" onclick="toggle(this)">
+          <span>Kan jeg bruke skostørrelsen min som utgangspunkt?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-a">
+          <p>Delvis. EU-størrelse gir en pekepinn, men er ikke pålitelig — det finnes ingen fast standard for EU-størrelse i vanlige sko. Mål heller foten i centimeter og bruk Mondo-point-tabellen. En EU 43 kan tilsvare alt fra MP 26,5 til MP 27,5 avhengig av merket på vanlig sko.</p>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" onclick="toggle(this)">
+          <span>Bør alpinstøvler sitte stramt?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-a">
+          <p>Ja — men stramt betyr ikke smertefullt. En korrekt tilpasset alpinstøvel skal omfavne foten tett, uten at det kniper. Du skal kunne bevege tærne lett, men hælen skal ikke løfte seg. Det typiske «innkjøringen» der støvelen «setter seg» er et tegn på at den egentlig er litt stor eller for bred.</p>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" onclick="toggle(this)">
+          <span>Hva er stivhetsindeks (flex)?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-a">
+          <p>Stivhetsindeksen (60–130+) angir hvor mye motstand støvelen gir når du bøyer kneet fremover. Lav flex (60–80) er myk og egner seg for barn, nybegynnere og breddekjørere. Medium flex (80–100) passer de fleste voksne. Høy flex (100–130+) er for tekniske, kraftige kjørere med god teknikk. Viktig: en stiv støvel som ikke sitter riktig på foten gir dårligere kontroll enn en mykere støvel som sitter perfekt.</p>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" onclick="toggle(this)">
+          <span>Hva gjør jeg hvis foten er mellom to størrelser?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-a">
+          <p>Gå alltid ned, ikke opp. En litt trang støvel kan formes termisk — en for stor støvel kan ikke krympes. Hos oss varmer vi ytterstøvel og/eller innerstøvel slik at de former seg etter akkurat din fot, uavhengig av om du er mellom to størrelser.</p>
+          <p style="margin-top:12px;"><a href="/26-vs-265-alpinstovler/" style="color:#c25f2e;">Les vår grundige gjennomgang av 26 vs. 26.5 →</a></p>
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-q" onclick="toggle(this)">
+          <span>Kan jeg kjøpe alpinstøvler på nett?</span>
+          <span class="faq-icon">+</span>
+        </button>
+        <div class="faq-a">
+          <p>Teknisk sett, ja. I praksis er det en gamble — spesielt hvis du ikke har prøvd den eksakte modellen i butikk. Størst risiko: du får riktig Mondo-point men feil lestbredde, og det merkes ikke før du har kjørt i dem en time. Alpinstøvler kjøpt uten prøving er den vanligste grunnen til at folk kommer til oss med smerteproblemer.</p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- BOOKING BANNER -->
+<section class="booking-section">
+  <h2 class="serif">Usikker på størrelsen?<br/>Kom innom — vi måler.</h2>
+  <p>Gratis 15-minutters vurdering. Vi måler begge føtter, vurderer fottype og anbefaler riktig støvelsestørrelse og lestbredde.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-white">Book gratis vurdering</a>
+    <a href="tel:22442112" class="btn-border">Ring 22 44 21 12</a>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo serif">Surefoot Oslo</div>
+      <p>Skiglede spesialistene — Norges spesialbutikk for spesialbygde alpinstøvler.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Produkter</h4>
+      <ul>
+        <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om oss</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12 · oslo@surefoot.no</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/" style="font-size:12px;color:#333;">Personvern</a>
+      <a href="/kjopsvilkar/" style="font-size:12px;color:#333;">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+
+<script src="/main.js"></script>
+</body>
+</html>

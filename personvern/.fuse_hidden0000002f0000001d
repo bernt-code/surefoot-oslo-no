@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Personvernerklæring — Surefoot Oslo</title>
+  <meta name="description" content="Surefoot Oslo behandler dine personopplysninger i samsvar med personvernforordningen (GDPR). Les om hva vi samler inn og dine rettigheter." />
+  <link rel="canonical" href="https://www.surefoot.no/personvern/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/style.css" />
+  <style>
+    .legal-body {
+      max-width: 720px;
+    }
+    .legal-body h2 {
+      font-family: 'DM Serif Display', serif;
+      font-size: 22px;
+      letter-spacing: -0.3px;
+      margin: 48px 0 16px;
+      color: #111;
+    }
+    .legal-body h3 {
+      font-size: 15px;
+      font-weight: 600;
+      margin: 28px 0 10px;
+      color: #111;
+    }
+    .legal-body p {
+      font-size: 15px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.75;
+      margin-bottom: 16px;
+    }
+    .legal-body ul {
+      margin: 0 0 16px 20px;
+    }
+    .legal-body ul li {
+      font-size: 15px;
+      color: #444;
+      font-weight: 300;
+      line-height: 1.75;
+      margin-bottom: 6px;
+    }
+    .legal-meta {
+      font-size: 13px;
+      color: #aaa;
+      font-weight: 300;
+      margin-bottom: 56px;
+    }
+    .legal-divider {
+      height: 1px;
+      background: #e8e8e8;
+      margin: 56px 0;
+    }
+  </style>
+</head>
+<body>
+
+
+
+<!-- NAV -->
+<nav class="site-nav">
+  <a href="/" class="logo">Surefoot Oslo</a>
+  <ul class="nav-links">
+    <li><a href="/tjenester/">Tjenester</a></li>
+    <li><a href="/bootfitting/">Bootfitting</a></li>
+    <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+    <li><a href="/innerstovler/">Innerstøvler</a></li>
+    <li><a href="/saler/">Såler</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<!-- HERO -->
+<div class="page-hero">
+  <div class="page-hero-inner">
+    <div class="section-label">Juridisk</div>
+    <h1>Personvernerklæring</h1>
+    <p class="lead">Vi behandler dine personopplysninger med respekt og i samsvar med personvernforordningen (GDPR).</p>
+  </div>
+</div>
+
+<!-- CONTENT -->
+<section>
+  <div class="section-wrap">
+    <div class="legal-body">
+
+      <p class="legal-meta">Sist oppdatert: mai 2026</p>
+
+      <p>Surefoot Norway AS er behandlingsansvarlig for personopplysninger som samles inn via dette nettstedet (surefoot.no), vår nettbutikk og ved besøk i butikk. Vi tar personvern på alvor og behandler kun det som er nødvendig for å gi deg god service.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>1. Behandlingsansvarlig</h2>
+      <p>
+        <strong>Surefoot Norway AS</strong><br/>
+        Karenslyst Allé 12–14, 0278 Oslo<br/>
+        Org.nr.: 987 444 517<br/>
+        E-post: <a href="mailto:oslo@surefoot.no" style="color:#c25f2e;">oslo@surefoot.no</a><br/>
+        Telefon: <a href="tel:22442112" style="color:#c25f2e;">22 44 21 12</a>
+      </p>
+
+      <h2>2. Hva vi samler inn og hvorfor</h2>
+
+      <h3>Kontaktskjema og henvendelser</h3>
+      <p>Når du sender oss en melding via kontaktskjemaet eller e-post, lagrer vi navn, e-postadresse, eventuelt telefonnummer og meldingsinnholdet. Behandlingsgrunnlaget er ditt samtykke (GDPR art. 6 nr. 1 a), og opplysningene brukes utelukkende til å besvare din henvendelse. Vi sletter disse opplysningene senest 12 måneder etter at saken er avsluttet.</p>
+
+      <h3>Timebooking</h3>
+      <p>Timebestilling administreres av Acuity Scheduling (Square Inc.). Når du booker time oppgir du navn, e-postadresse og eventuelt telefonnummer. Disse brukes til å bekrefte og administrere avtalen. Les Acuity Schedulings personvernpolicy for mer informasjon om deres behandling.</p>
+
+      <h3>Nettbutikk (Shopify)</h3>
+      <p>Kjøp av produkter gjøres via vår Shopify-butikk (surefootoslo.myshopify.com). Shopify er behandlingsansvarlig for kjøpsprosessen og lagrer opplysninger som navn, adresse, e-post og betalingsinformasjon i samsvar med sin egen personvernpolicy. Vi mottar kun ordrebekreftelse og kontaktinformasjon for å kunne levere bestillingen.</p>
+
+      <h3>Besøk i butikk og tilpassningsprosessen</h3>
+      <p>Når vi gjennomfører en bootfitting lagrer vi tekniske mål (fotbredde, lengde, vristhøyde, fottype) og eventuelle plager eller preferanser du oppgir. Dette er nødvendig for å gjennomføre tjenesten (GDPR art. 6 nr. 1 b). Opplysningene lagres i maksimalt 5 år slik at vi kan hjelpe deg effektivt ved fremtidige besøk, og slettes på forespørsel.</p>
+
+      <h3>Nettstatistikk</h3>
+      <p>Vi bruker ingen tredjeparts analyseverktøy som Google Analytics på dette nettstedet. Netlify (vår hosting-leverandør) kan lagre IP-adresser i server-logger i inntil 30 dager av sikkerhetsgrunner, uten at disse knyttes til enkeltpersoner.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>3. Deling med tredjeparter</h2>
+      <p>Vi selger aldri dine personopplysninger. Vi deler kun opplysninger med databehandlere vi har avtale med, og kun i den grad det er nødvendig:</p>
+      <ul>
+        <li><strong>Netlify Inc.</strong> — hosting av dette nettstedet</li>
+        <li><strong>Square Inc. / Acuity Scheduling</strong> — timebooking</li>
+        <li><strong>Shopify Inc.</strong> — nettbutikk</li>
+      </ul>
+      <p>Alle leverandører er underlagt databehandleravtaler og behandler data i samsvar med GDPR.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>4. Dine rettigheter</h2>
+      <p>Under GDPR har du følgende rettigheter:</p>
+      <ul>
+        <li><strong>Innsyn</strong> — du kan be om en kopi av opplysningene vi har om deg</li>
+        <li><strong>Retting</strong> — du kan kreve at feilaktige opplysninger rettes</li>
+        <li><strong>Sletting</strong> — du kan kreve at opplysninger slettes der det ikke finnes lovpålagt grunn til å beholde dem</li>
+        <li><strong>Dataportabilitet</strong> — du kan be om å få dine data i et maskinlesbart format</li>
+        <li><strong>Innsigelse</strong> — du kan protestere mot behandling basert på berettiget interesse</li>
+        <li><strong>Tilbaketrekking av samtykke</strong> — der behandlingen er basert på samtykke, kan du trekke det tilbake når som helst</li>
+      </ul>
+      <p>For å utøve disse rettighetene, ta kontakt på <a href="mailto:oslo@surefoot.no" style="color:#c25f2e;">oslo@surefoot.no</a>. Vi svarer innen 30 dager.</p>
+      <p>Har du klager på vår behandling av personopplysninger, kan du henvende deg til <a href="https://www.datatilsynet.no" target="_blank" rel="noopener" style="color:#c25f2e;">Datatilsynet</a>.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>5. Informasjonskapsler (cookies)</h2>
+      <p>Dette nettstedet (surefoot.no) bruker ingen sporingscookies eller markedsføringscookies. Nettleseren din kan lagre tekniske sesjonsdata for å sikre at nettstedet fungerer korrekt, men ingen personopplysninger knyttes til disse.</p>
+      <p>Shopify-butikken bruker cookies som er nødvendige for å gjennomføre transaksjoner (handlekurv, sesjon). Les Shopifys cookiepolicy for detaljer.</p>
+
+      <div class="legal-divider"></div>
+
+      <h2>6. Endringer</h2>
+      <p>Vi kan oppdatere denne erklæringen ved behov. Vesentlige endringer vil publiseres på denne siden med oppdatert dato. Vi anbefaler at du leser erklæringen ved jevne mellomrom.</p>
+
+      <h2>7. Kontakt</h2>
+      <p>Spørsmål om personvern kan rettes til:<br/>
+      <a href="mailto:oslo@surefoot.no" style="color:#c25f2e;">oslo@surefoot.no</a> · 22 44 21 12 · Karenslyst Allé 12–14, 0278 Oslo</p>
+
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo serif">Surefoot Oslo</div>
+      <p>Skiglede spesialistene — Norges spesialbutikk for spesialbygde alpinstøvler.</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Produkter</h4>
+      <ul>
+        <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om oss</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="footer-copy">© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12 · oslo@surefoot.no</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/" style="font-size:12px;color:#333;">Personvern</a>
+      <a href="/kjopsvilkar/" style="font-size:12px;color:#333;">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+
+<script src="/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alpinstøvler — Surefoot Oslo</title>
+  <meta name="description" content="Alpinstøvler tilpasset deg. Tecnica, Atomic, Lange, Nordica, Dynafit — alle store merker, custom-tilpasset med 3D-skann, foam-injisert innerstøvel og formstøpt såle." />
+  <link rel="canonical" href="https://www.surefoot.no/alpinstovler/" />
+  <link rel="icon" type="image/png" href="/assets/favicon-80x80.png" />
+<link rel="stylesheet" href="/style.css" />
+</head>
+<body>
+
+<div class="utility-strip">
+  <a href="https://surefootskiing.as.me" target="_blank">Klikk her for å bestille time</a>
+  <span class="sep">·</span>
+  <span>Gratis 15-min vurdering</span>
+  <span class="sep">·</span>
+  <span>Karenslyst Allé, Skøyen</span>
+</div>
+
+<nav class="site-nav">
+  <a href="/" class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:36px; width:auto; display:block;"></a>
+  <ul class="nav-links">
+    <li><a href="/bootfitting/">Bootfitting</a></li>
+    <li><a href="/alpinstovler/" class="active">Alpinstøvler</a></li>
+    <li><a href="/innerstovler/">Innerstøvler</a></li>
+    <li><a href="/saler/">Såler</a></li>
+    <li><a href="/tjenester/">Tjenester</a></li>
+    <li><a href="/faq/">FAQ</a></li>
+    <li><a href="/om-oss/">Om oss</a></li>
+    <li><a href="https://surefootskiing.as.me" target="_blank" class="nav-book">Book time</a></li>
+  </ul>
+</nav>
+
+<section class="page-hero">
+  <div class="hero-veil"></div>
+  <div class="hero-inner" style="grid-template-columns:1fr;">
+    <div>
+      <div class="breadcrumb">
+        <span>Produkter</span><span style="opacity:0.4;">/</span>
+        <span class="accent">Alpinstøvler</span>
+      </div>
+      <h1>Alpinstøvler.<br/>Bygd for <em>presisjon.</em></h1>
+      <p class="lead">Stive, presise, custom-tilpasset. Vi tilpasser alle store merker — Tecnica, Atomic, Lange, Nordica, Dynafit — på Skøyen med foam liner og formstøpt såle.</p>
+      <div style="display:flex; gap:14px; flex-wrap:wrap; margin-top:32px;">
+        <a href="https://surefootskiing.as.me" target="_blank" class="btn-primary">Book bootfitting</a>
+        <a href="https://surefootoslo.myshopify.com" target="_blank" class="btn-ghost-light">Se nettbutikken →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<div class="strip">
+  <div class="strip-item"><span class="strip-dot"></span> Tecnica · Atomic · Lange · Nordica · Dynafit</div>
+  <div class="strip-item"><span class="strip-dot"></span> Fitting fra 7 550 kr (på toppen av støvel)</div>
+  <div class="strip-item"><span class="strip-dot"></span> Fit guarantee</div>
+  <div class="strip-item"><span class="strip-dot"></span> 22 44 21 12</div>
+</div>
+
+<!-- ── BRAND LINEUP ── -->
+<section>
+  <div class="section-wrap">
+    <div style="display:flex; justify-content:space-between; align-items:flex-end; flex-wrap:wrap; gap:24px; margin-bottom:48px;">
+      <div>
+        <div class="eyebrow">Surefoot Custom-støvler</div>
+        <h2 class="section-h2" style="max-width:16ch;">Våre alpinstøvler og slalomsko.</h2>
+      </div>
+      <p style="max-width:38ch; font-size:15px; line-height:1.6; color:#555; margin:0;">
+        Hver støvel bygges custom rundt foten din — skall, innerstøvel og formstøpt såle. Vi tilpasser også støvler fra andre merker du har fra før.
+      </p>
+    </div>
+
+    <div class="cat-grid" data-shopify-collection="slalamsko-til-herrer,slalamsko-til-damer">
+      <p style="grid-column:1/-1; color:#777; font-size:15px;">Laster støvler fra butikken…</p>
+    </div>
+  </div>
+</section>
+
+<!-- ── HOW TO CHOOSE ── -->
+<section class="section--paper">
+  <div class="section-wrap">
+    <div style="display:grid; grid-template-columns:1fr 1.6fr; gap:64px;">
+      <div>
+        <div class="eyebrow">Hvordan velger vi</div>
+        <h2 class="section-h2" style="max-width:14ch;">Foten din velger støvelen.</h2>
+      </div>
+      <div style="font-size:17px; line-height:1.7; color:#222;">
+        <p style="margin-bottom:20px;">
+          En alpinstøvel er ikke en hyllevare. Bredden på forfoten, høyden på risten, om du pronerer, hvor stiv flex du tåler — alt påvirker hvilket skall som passer. Vi gjør valget for deg, basert på 3D-skannen og samtalen vi har sammen.
+        </p>
+        <p style="margin-bottom:20px;">
+          <strong>Smal fot:</strong> 98 mm-lest. <strong>Bred fot:</strong> 102 mm-lest. <strong>Mortons nevrom:</strong> bredere lest + skall-fresing på trykkpunktet. <strong>Plattfot:</strong> custom såle som korrigerer pronasjon før du i det hele tatt går inn i støvelen.
+        </p>
+        <p>
+          Du betaler ikke ekstra for valget — det er inkludert i fitting-prisen. Vi skaper skiglede.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ── RELATED SEO PAGES ── -->
+<section>
+  <div class="section-wrap">
+    <div class="eyebrow">Veiledning</div>
+    <h2 class="section-h2" style="margin-bottom:48px;">Les mer om alpinstøvler.</h2>
+    <div style="display:grid; grid-template-columns:repeat(3,1fr); gap:20px;">
+      <a href="/alpinstovler-nybegynner/" class="cat" style="text-decoration:none; color:inherit;">
+        <div class="cat-body" style="padding-bottom:28px;">
+          <div class="cat-tag">Guide</div>
+          <h3 class="cat-title">For nybegynnere</h3>
+          <p class="cat-blurb">Hva du bør se etter når du kjøper din første alpinstøvel.</p>
+          <div class="cat-cta" style="margin-top:8px;">Les guide →</div>
+        </div>
+      </a>
+      <a href="/bred-fot-alpinstovler/" class="cat" style="text-decoration:none; color:inherit;">
+        <div class="cat-body" style="padding-bottom:28px;">
+          <div class="cat-tag">Guide</div>
+          <h3 class="cat-title">Bred fot</h3>
+          <p class="cat-blurb">Hvilke modeller har bred lest, og når trenger du blokking og fresing.</p>
+          <div class="cat-cta" style="margin-top:8px;">Les guide →</div>
+        </div>
+      </a>
+      <a href="/flex-indeks-alpinstovler/" class="cat" style="text-decoration:none; color:inherit;">
+        <div class="cat-body" style="padding-bottom:28px;">
+          <div class="cat-tag">Guide</div>
+          <h3 class="cat-title">Flex-indeks forklart</h3>
+          <p class="cat-blurb">Hva betyr 90, 110, 130 — og hva trenger du egentlig?</p>
+          <div class="cat-cta" style="margin-top:8px;">Les guide →</div>
+        </div>
+      </a>
+      <a href="/storrelse-alpinstoevler/" class="cat" style="text-decoration:none; color:inherit;">
+        <div class="cat-body" style="padding-bottom:28px;">
+          <div class="cat-tag">Guide</div>
+          <h3 class="cat-title">Størrelsesguide</h3>
+          <p class="cat-blurb">Mondopoint forklart. Hvordan velge riktig størrelse.</p>
+          <div class="cat-cta" style="margin-top:8px;">Les guide →</div>
+        </div>
+      </a>
+      <a href="/kalde-foetter-alpinstovler/" class="cat" style="text-decoration:none; color:inherit;">
+        <div class="cat-body" style="padding-bottom:28px;">
+          <div class="cat-tag">Guide</div>
+          <h3 class="cat-title">Kalde føtter?</h3>
+          <p class="cat-blurb">Det er nesten alltid sokken og innerstøvelen — ikke skoen.</p>
+          <div class="cat-cta" style="margin-top:8px;">Les guide →</div>
+        </div>
+      </a>
+      <a href="/nar-bytte-alpinstovler/" class="cat" style="text-decoration:none; color:inherit;">
+        <div class="cat-body" style="padding-bottom:28px;">
+          <div class="cat-tag">Guide</div>
+          <h3 class="cat-title">Når bytte støvler?</h3>
+          <p class="cat-blurb">Hvor lenge varer alpinstøvler? Tegn på at det er på tide.</p>
+          <div class="cat-cta" style="margin-top:8px;">Les guide →</div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="booking-section">
+  <div class="eyebrow eyebrow--on-dark" style="color:rgba(255,255,255,0.85);">Klar til å finne den riktige?</div>
+  <h2>Book.</h2>
+  <p>Femten minutter, gratis. Vi måler foten din og anbefaler hvilke modeller som passer best.</p>
+  <div class="booking-actions">
+    <a href="https://surefootskiing.as.me" target="_blank" class="btn-primary btn-lg">Book gratis vurdering →</a>
+    <a href="tel:22442112" class="btn-ghost-light btn-lg">Ring 22 44 21 12</a>
+  </div>
+</section>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <div class="logo"><img src="/assets/surefoot-oslo-logo.png" alt="Surefoot Oslo" style="height:28px; width:auto; display:block; opacity:0.92;"></div>
+      <p>Surefoot Oslo · Karenslyst Allé, Skøyen · Siden 2004</p>
+    </div>
+    <div class="footer-col">
+      <h4>Tjenester</h4>
+      <ul>
+        <li><a href="/tjenester/">Alle tjenester</a></li>
+        <li><a href="/bootfitting/">Bootfitting</a></li>
+        <li><a href="/saler/">Formstøpte såler</a></li>
+        <li><a href="/innerstovler/">Innerstøvler</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Produkter</h4>
+      <ul>
+        <li><a href="/alpinstovler/">Alpinstøvler</a></li>
+        <li><a href="https://surefootoslo.myshopify.com" target="_blank">Nettbutikk →</a></li>
+        <li><a href="https://surefootskiing.as.me" target="_blank">Book time →</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Om</h4>
+      <ul>
+        <li><a href="/om-oss/">Vår historie</a></li>
+        <li><a href="/kontakt/">Kontakt</a></li>
+        <li><a href="/faq/">FAQ</a></li>
+        <li><a href="https://instagram.com/surefootoslo" target="_blank">Instagram ↗</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div>© 2026 Surefoot Oslo · Karenslyst Allé 12–14, 0278 Oslo · 22 44 21 12</div>
+    <div style="display:flex;gap:20px;">
+      <a href="/personvern/">Personvern</a>
+      <a href="/kjopsvilkar/">Kjøpsvilkår</a>
+    </div>
+  </div>
+</footer>
+
+<div class="sticky-book" id="stickyBook">
+  <div class="sticky-book-msg">
+    <span class="accent">Gratis</span> 15-min vurdering
+    <span class="sub">Ingen forpliktelse · Karenslyst Allé · Ledige tider denne uka</span>
+  </div>
+  <a href="https://surefootskiing.as.me" target="_blank" class="sticky-book-btn">Book time →</a>
+</div>
+
+<script src="/main.js"></script>
+<script src="/shop.js" defer></script>
+</body>
+</html>
