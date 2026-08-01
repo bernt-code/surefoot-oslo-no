@@ -912,16 +912,15 @@ nav.site-nav .logo::after {
 .marquee-track .dot { color: var(--sf-red); }
 
 /* merkelogoer i marquee */
-.marquee-track .brands { display: inline-flex; align-items: center; gap: 34px; vertical-align: middle; flex: 0 0 auto; }
-.marquee-track .bl { display: block; width: auto; opacity: .9; flex: 0 0 auto; }
-.marquee-track .bl-tec { height: 20px; }
-.marquee-track .bl-ato { height: 23px; }
-.marquee-track .bl-lan { height: 19px; }
-.marquee-track .bl-nor { height: 20px; }
-.marquee-track .bl-dyn { height: 34px; }
+.marquee-track .brands { display: inline-flex; align-items: center; gap: 36px; vertical-align: middle; flex: 0 0 auto; }
+.marquee-track .bl { display: block; flex: 0 0 auto; opacity: .92; }
+.marquee-track .bl-tec { width: 126px; height: 20px; }
+.marquee-track .bl-ato { width: 63px;  height: 23px; }
+.marquee-track .bl-lan { width: 121px; height: 19px; }
+.marquee-track .bl-nor { width: 132px; height: 20px; }
+.marquee-track .bl-dyn { width: 44px;  height: 34px; }
 @media (max-width: 700px) {
-  .marquee-track .brands { gap: 22px; }
-  .marquee-track .bl-dyn { height: 28px; }
+  .marquee-track .brands { gap: 24px; }
 }
 @keyframes marquee {
   from { transform: translateX(0); }
