@@ -910,6 +910,19 @@ nav.site-nav .logo::after {
   align-items: center;
 }
 .marquee-track .dot { color: var(--sf-red); }
+
+/* merkelogoer i marquee */
+.marquee-track .brands { display: inline-flex; align-items: center; gap: 34px; vertical-align: middle; }
+.marquee-track .bl { display: block; width: auto; opacity: .9; }
+.marquee-track .bl-tec { height: 20px; }
+.marquee-track .bl-ato { height: 23px; }
+.marquee-track .bl-lan { height: 19px; }
+.marquee-track .bl-nor { height: 20px; }
+.marquee-track .bl-dyn { height: 34px; }
+@media (max-width: 700px) {
+  .marquee-track .brands { gap: 22px; }
+  .marquee-track .bl-dyn { height: 28px; }
+}
 @keyframes marquee {
   from { transform: translateX(0); }
   to { transform: translateX(-50%); }
