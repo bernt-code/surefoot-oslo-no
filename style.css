@@ -218,7 +218,7 @@ nav.site-nav .logo::after {
 /* ─── HERO (cinematic, panorama) ───────────────────────── */
 #hero, .page-hero {
   position: relative;
-  min-height: 92vh;
+  min-height: 72vh;
   background: #000;
   color: #fff;
   overflow: hidden;
